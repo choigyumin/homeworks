@@ -1,0 +1,663 @@
+"hw6-4/hw6_4.ml" 16 266 274 "hw6-4/hw6_4.ml" 16 266 278
+type(
+  expr -> int
+)
+ident(
+  def calc "hw6-4/hw6_4.ml" 16 266 266 "hw6-4/hw6_4.ml" 1 0 -1
+)
+"hw6-4/hw6_4.ml" 16 266 280 "hw6-4/hw6_4.ml" 16 266 281
+type(
+  expr
+)
+ident(
+  def e "hw6-4/hw6_4.ml" 16 266 288 "hw6-4/hw6_4.ml" 20 359 394
+)
+"hw6-4/hw6_4.ml" 17 296 303 "hw6-4/hw6_4.ml" 17 296 304
+type(
+  expr
+)
+ident(
+  int_ref e "hw6-4/hw6_4.ml" 16 266 280 "hw6-4/hw6_4.ml" 16 266 281
+)
+"hw6-4/hw6_4.ml" 18 310 317 "hw6-4/hw6_4.ml" 18 310 318
+type(
+  int
+)
+ident(
+  def a "hw6-4/hw6_4.ml" 18 310 322 "hw6-4/hw6_4.ml" 18 310 323
+)
+"hw6-4/hw6_4.ml" 18 310 313 "hw6-4/hw6_4.ml" 18 310 318
+type(
+  expr
+)
+"hw6-4/hw6_4.ml" 18 310 322 "hw6-4/hw6_4.ml" 18 310 323
+type(
+  int
+)
+ident(
+  int_ref a "hw6-4/hw6_4.ml" 18 310 317 "hw6-4/hw6_4.ml" 18 310 318
+)
+"hw6-4/hw6_4.ml" 19 324 333 "hw6-4/hw6_4.ml" 19 324 334
+type(
+  expr
+)
+ident(
+  def a "hw6-4/hw6_4.ml" 19 324 342 "hw6-4/hw6_4.ml" 19 324 358
+)
+"hw6-4/hw6_4.ml" 19 324 336 "hw6-4/hw6_4.ml" 19 324 337
+type(
+  expr
+)
+ident(
+  def b "hw6-4/hw6_4.ml" 19 324 342 "hw6-4/hw6_4.ml" 19 324 358
+)
+"hw6-4/hw6_4.ml" 19 324 327 "hw6-4/hw6_4.ml" 19 324 338
+type(
+  expr
+)
+"hw6-4/hw6_4.ml" 19 324 343 "hw6-4/hw6_4.ml" 19 324 347
+type(
+  expr -> int
+)
+ident(
+  int_ref calc "hw6-4/hw6_4.ml" 16 266 274 "hw6-4/hw6_4.ml" 16 266 278
+)
+"hw6-4/hw6_4.ml" 19 324 348 "hw6-4/hw6_4.ml" 19 324 349
+type(
+  expr
+)
+ident(
+  int_ref a "hw6-4/hw6_4.ml" 19 324 333 "hw6-4/hw6_4.ml" 19 324 334
+)
+"hw6-4/hw6_4.ml" 19 324 343 "hw6-4/hw6_4.ml" 19 324 349
+type(
+  int
+)
+"hw6-4/hw6_4.ml" 19 324 349 "hw6-4/hw6_4.ml" 19 324 350
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"hw6-4/hw6_4.ml" 19 324 351 "hw6-4/hw6_4.ml" 19 324 355
+type(
+  expr -> int
+)
+ident(
+  int_ref calc "hw6-4/hw6_4.ml" 16 266 274 "hw6-4/hw6_4.ml" 16 266 278
+)
+"hw6-4/hw6_4.ml" 19 324 356 "hw6-4/hw6_4.ml" 19 324 357
+type(
+  expr
+)
+ident(
+  int_ref b "hw6-4/hw6_4.ml" 19 324 336 "hw6-4/hw6_4.ml" 19 324 337
+)
+"hw6-4/hw6_4.ml" 19 324 351 "hw6-4/hw6_4.ml" 19 324 357
+type(
+  int
+)
+"hw6-4/hw6_4.ml" 19 324 342 "hw6-4/hw6_4.ml" 19 324 358
+type(
+  int
+)
+"hw6-4/hw6_4.ml" 20 359 369 "hw6-4/hw6_4.ml" 20 359 370
+type(
+  expr
+)
+ident(
+  def a "hw6-4/hw6_4.ml" 20 359 378 "hw6-4/hw6_4.ml" 20 359 394
+)
+"hw6-4/hw6_4.ml" 20 359 372 "hw6-4/hw6_4.ml" 20 359 373
+type(
+  expr
+)
+ident(
+  def b "hw6-4/hw6_4.ml" 20 359 378 "hw6-4/hw6_4.ml" 20 359 394
+)
+"hw6-4/hw6_4.ml" 20 359 362 "hw6-4/hw6_4.ml" 20 359 374
+type(
+  expr
+)
+"hw6-4/hw6_4.ml" 20 359 379 "hw6-4/hw6_4.ml" 20 359 383
+type(
+  expr -> int
+)
+ident(
+  int_ref calc "hw6-4/hw6_4.ml" 16 266 274 "hw6-4/hw6_4.ml" 16 266 278
+)
+"hw6-4/hw6_4.ml" 20 359 384 "hw6-4/hw6_4.ml" 20 359 385
+type(
+  expr
+)
+ident(
+  int_ref a "hw6-4/hw6_4.ml" 20 359 369 "hw6-4/hw6_4.ml" 20 359 370
+)
+"hw6-4/hw6_4.ml" 20 359 379 "hw6-4/hw6_4.ml" 20 359 385
+type(
+  int
+)
+"hw6-4/hw6_4.ml" 20 359 385 "hw6-4/hw6_4.ml" 20 359 386
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"hw6-4/hw6_4.ml" 20 359 387 "hw6-4/hw6_4.ml" 20 359 391
+type(
+  expr -> int
+)
+ident(
+  int_ref calc "hw6-4/hw6_4.ml" 16 266 274 "hw6-4/hw6_4.ml" 16 266 278
+)
+"hw6-4/hw6_4.ml" 20 359 392 "hw6-4/hw6_4.ml" 20 359 393
+type(
+  expr
+)
+ident(
+  int_ref b "hw6-4/hw6_4.ml" 20 359 372 "hw6-4/hw6_4.ml" 20 359 373
+)
+"hw6-4/hw6_4.ml" 20 359 387 "hw6-4/hw6_4.ml" 20 359 393
+type(
+  int
+)
+"hw6-4/hw6_4.ml" 20 359 378 "hw6-4/hw6_4.ml" 20 359 394
+type(
+  int
+)
+"hw6-4/hw6_4.ml" 17 296 297 "hw6-4/hw6_4.ml" 20 359 394
+type(
+  int
+)
+type(
+  int
+)
+"hw6-4/hw6_4.ml" 22 396 404 "hw6-4/hw6_4.ml" 22 396 408
+type(
+  formula -> bool
+)
+ident(
+  def eval "hw6-4/hw6_4.ml" 22 396 396 "hw6-4/hw6_4.ml" 1 0 -1
+)
+"hw6-4/hw6_4.ml" 22 396 410 "hw6-4/hw6_4.ml" 22 396 411
+type(
+  formula
+)
+ident(
+  def f "hw6-4/hw6_4.ml" 22 396 421 "hw6-4/hw6_4.ml" 39 807 820
+)
+"hw6-4/hw6_4.ml" 23 430 438 "hw6-4/hw6_4.ml" 23 430 439
+type(
+  formula
+)
+ident(
+  int_ref f "hw6-4/hw6_4.ml" 22 396 410 "hw6-4/hw6_4.ml" 22 396 411
+)
+"hw6-4/hw6_4.ml" 24 445 448 "hw6-4/hw6_4.ml" 24 445 452
+type(
+  formula
+)
+"hw6-4/hw6_4.ml" 24 445 456 "hw6-4/hw6_4.ml" 24 445 460
+type(
+  bool
+)
+"hw6-4/hw6_4.ml" 25 461 464 "hw6-4/hw6_4.ml" 25 461 469
+type(
+  formula
+)
+"hw6-4/hw6_4.ml" 25 461 473 "hw6-4/hw6_4.ml" 25 461 478
+type(
+  bool
+)
+"hw6-4/hw6_4.ml" 26 479 486 "hw6-4/hw6_4.ml" 26 479 487
+type(
+  formula
+)
+ident(
+  def a "hw6-4/hw6_4.ml" 26 479 491 "hw6-4/hw6_4.ml" 26 479 503
+)
+"hw6-4/hw6_4.ml" 26 479 482 "hw6-4/hw6_4.ml" 26 479 487
+type(
+  formula
+)
+"hw6-4/hw6_4.ml" 26 479 491 "hw6-4/hw6_4.ml" 26 479 494
+type(
+  bool -> bool
+)
+ident(
+  ext_ref Pervasives.not
+)
+"hw6-4/hw6_4.ml" 26 479 496 "hw6-4/hw6_4.ml" 26 479 500
+type(
+  formula -> bool
+)
+ident(
+  int_ref eval "hw6-4/hw6_4.ml" 22 396 404 "hw6-4/hw6_4.ml" 22 396 408
+)
+"hw6-4/hw6_4.ml" 26 479 501 "hw6-4/hw6_4.ml" 26 479 502
+type(
+  formula
+)
+ident(
+  int_ref a "hw6-4/hw6_4.ml" 26 479 486 "hw6-4/hw6_4.ml" 26 479 487
+)
+"hw6-4/hw6_4.ml" 26 479 495 "hw6-4/hw6_4.ml" 26 479 503
+type(
+  bool
+)
+"hw6-4/hw6_4.ml" 26 479 491 "hw6-4/hw6_4.ml" 26 479 503
+type(
+  bool
+)
+"hw6-4/hw6_4.ml" 27 504 516 "hw6-4/hw6_4.ml" 27 504 517
+type(
+  formula
+)
+ident(
+  def a "hw6-4/hw6_4.ml" 27 504 525 "hw6-4/hw6_4.ml" 27 504 545
+)
+"hw6-4/hw6_4.ml" 27 504 519 "hw6-4/hw6_4.ml" 27 504 520
+type(
+  formula
+)
+ident(
+  def b "hw6-4/hw6_4.ml" 27 504 525 "hw6-4/hw6_4.ml" 27 504 545
+)
+"hw6-4/hw6_4.ml" 27 504 507 "hw6-4/hw6_4.ml" 27 504 521
+type(
+  formula
+)
+"hw6-4/hw6_4.ml" 27 504 526 "hw6-4/hw6_4.ml" 27 504 530
+type(
+  formula -> bool
+)
+ident(
+  int_ref eval "hw6-4/hw6_4.ml" 22 396 404 "hw6-4/hw6_4.ml" 22 396 408
+)
+"hw6-4/hw6_4.ml" 27 504 531 "hw6-4/hw6_4.ml" 27 504 532
+type(
+  formula
+)
+ident(
+  int_ref a "hw6-4/hw6_4.ml" 27 504 516 "hw6-4/hw6_4.ml" 27 504 517
+)
+"hw6-4/hw6_4.ml" 27 504 525 "hw6-4/hw6_4.ml" 27 504 533
+type(
+  bool
+)
+"hw6-4/hw6_4.ml" 27 504 534 "hw6-4/hw6_4.ml" 27 504 536
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( && )
+)
+"hw6-4/hw6_4.ml" 27 504 538 "hw6-4/hw6_4.ml" 27 504 542
+type(
+  formula -> bool
+)
+ident(
+  int_ref eval "hw6-4/hw6_4.ml" 22 396 404 "hw6-4/hw6_4.ml" 22 396 408
+)
+"hw6-4/hw6_4.ml" 27 504 543 "hw6-4/hw6_4.ml" 27 504 544
+type(
+  formula
+)
+ident(
+  int_ref b "hw6-4/hw6_4.ml" 27 504 519 "hw6-4/hw6_4.ml" 27 504 520
+)
+"hw6-4/hw6_4.ml" 27 504 537 "hw6-4/hw6_4.ml" 27 504 545
+type(
+  bool
+)
+"hw6-4/hw6_4.ml" 27 504 525 "hw6-4/hw6_4.ml" 27 504 545
+type(
+  bool
+)
+"hw6-4/hw6_4.ml" 28 546 557 "hw6-4/hw6_4.ml" 28 546 558
+type(
+  formula
+)
+ident(
+  def a "hw6-4/hw6_4.ml" 28 546 566 "hw6-4/hw6_4.ml" 28 546 586
+)
+"hw6-4/hw6_4.ml" 28 546 560 "hw6-4/hw6_4.ml" 28 546 561
+type(
+  formula
+)
+ident(
+  def b "hw6-4/hw6_4.ml" 28 546 566 "hw6-4/hw6_4.ml" 28 546 586
+)
+"hw6-4/hw6_4.ml" 28 546 549 "hw6-4/hw6_4.ml" 28 546 562
+type(
+  formula
+)
+"hw6-4/hw6_4.ml" 28 546 567 "hw6-4/hw6_4.ml" 28 546 571
+type(
+  formula -> bool
+)
+ident(
+  int_ref eval "hw6-4/hw6_4.ml" 22 396 404 "hw6-4/hw6_4.ml" 22 396 408
+)
+"hw6-4/hw6_4.ml" 28 546 572 "hw6-4/hw6_4.ml" 28 546 573
+type(
+  formula
+)
+ident(
+  int_ref a "hw6-4/hw6_4.ml" 28 546 557 "hw6-4/hw6_4.ml" 28 546 558
+)
+"hw6-4/hw6_4.ml" 28 546 566 "hw6-4/hw6_4.ml" 28 546 574
+type(
+  bool
+)
+"hw6-4/hw6_4.ml" 28 546 575 "hw6-4/hw6_4.ml" 28 546 577
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( || )
+)
+"hw6-4/hw6_4.ml" 28 546 579 "hw6-4/hw6_4.ml" 28 546 583
+type(
+  formula -> bool
+)
+ident(
+  int_ref eval "hw6-4/hw6_4.ml" 22 396 404 "hw6-4/hw6_4.ml" 22 396 408
+)
+"hw6-4/hw6_4.ml" 28 546 584 "hw6-4/hw6_4.ml" 28 546 585
+type(
+  formula
+)
+ident(
+  int_ref b "hw6-4/hw6_4.ml" 28 546 560 "hw6-4/hw6_4.ml" 28 546 561
+)
+"hw6-4/hw6_4.ml" 28 546 578 "hw6-4/hw6_4.ml" 28 546 586
+type(
+  bool
+)
+"hw6-4/hw6_4.ml" 28 546 566 "hw6-4/hw6_4.ml" 28 546 586
+type(
+  bool
+)
+"hw6-4/hw6_4.ml" 29 587 597 "hw6-4/hw6_4.ml" 29 587 598
+type(
+  formula
+)
+ident(
+  def a "hw6-4/hw6_4.ml" 30 607 609 "hw6-4/hw6_4.ml" 31 657 668
+)
+"hw6-4/hw6_4.ml" 29 587 600 "hw6-4/hw6_4.ml" 29 587 601
+type(
+  formula
+)
+ident(
+  def b "hw6-4/hw6_4.ml" 30 607 609 "hw6-4/hw6_4.ml" 31 657 668
+)
+"hw6-4/hw6_4.ml" 29 587 590 "hw6-4/hw6_4.ml" 29 587 602
+type(
+  formula
+)
+"hw6-4/hw6_4.ml" 30 607 613 "hw6-4/hw6_4.ml" 30 607 617
+type(
+  formula -> bool
+)
+ident(
+  int_ref eval "hw6-4/hw6_4.ml" 22 396 404 "hw6-4/hw6_4.ml" 22 396 408
+)
+"hw6-4/hw6_4.ml" 30 607 618 "hw6-4/hw6_4.ml" 30 607 619
+type(
+  formula
+)
+ident(
+  int_ref a "hw6-4/hw6_4.ml" 29 587 597 "hw6-4/hw6_4.ml" 29 587 598
+)
+"hw6-4/hw6_4.ml" 30 607 613 "hw6-4/hw6_4.ml" 30 607 619
+type(
+  bool
+)
+"hw6-4/hw6_4.ml" 30 607 620 "hw6-4/hw6_4.ml" 30 607 621
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw6-4/hw6_4.ml" 30 607 622 "hw6-4/hw6_4.ml" 30 607 626
+type(
+  bool
+)
+"hw6-4/hw6_4.ml" 30 607 613 "hw6-4/hw6_4.ml" 30 607 626
+type(
+  bool
+)
+"hw6-4/hw6_4.ml" 30 607 627 "hw6-4/hw6_4.ml" 30 607 629
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( && )
+)
+"hw6-4/hw6_4.ml" 30 607 630 "hw6-4/hw6_4.ml" 30 607 634
+type(
+  formula -> bool
+)
+ident(
+  int_ref eval "hw6-4/hw6_4.ml" 22 396 404 "hw6-4/hw6_4.ml" 22 396 408
+)
+"hw6-4/hw6_4.ml" 30 607 635 "hw6-4/hw6_4.ml" 30 607 636
+type(
+  formula
+)
+ident(
+  int_ref b "hw6-4/hw6_4.ml" 29 587 600 "hw6-4/hw6_4.ml" 29 587 601
+)
+"hw6-4/hw6_4.ml" 30 607 630 "hw6-4/hw6_4.ml" 30 607 636
+type(
+  bool
+)
+"hw6-4/hw6_4.ml" 30 607 637 "hw6-4/hw6_4.ml" 30 607 638
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw6-4/hw6_4.ml" 30 607 639 "hw6-4/hw6_4.ml" 30 607 644
+type(
+  bool
+)
+"hw6-4/hw6_4.ml" 30 607 630 "hw6-4/hw6_4.ml" 30 607 644
+type(
+  bool
+)
+"hw6-4/hw6_4.ml" 30 607 612 "hw6-4/hw6_4.ml" 30 607 645
+type(
+  bool
+)
+"hw6-4/hw6_4.ml" 30 607 651 "hw6-4/hw6_4.ml" 30 607 656
+type(
+  bool
+)
+"hw6-4/hw6_4.ml" 31 657 664 "hw6-4/hw6_4.ml" 31 657 668
+type(
+  bool
+)
+"hw6-4/hw6_4.ml" 30 607 609 "hw6-4/hw6_4.ml" 31 657 668
+type(
+  bool
+)
+"hw6-4/hw6_4.ml" 32 669 678 "hw6-4/hw6_4.ml" 32 669 679
+type(
+  expr
+)
+ident(
+  def a "hw6-4/hw6_4.ml" 33 687 689 "hw6-4/hw6_4.ml" 39 807 820
+)
+"hw6-4/hw6_4.ml" 32 669 681 "hw6-4/hw6_4.ml" 32 669 682
+type(
+  expr
+)
+ident(
+  def b "hw6-4/hw6_4.ml" 33 687 689 "hw6-4/hw6_4.ml" 39 807 820
+)
+"hw6-4/hw6_4.ml" 32 669 672 "hw6-4/hw6_4.ml" 32 669 683
+type(
+  formula
+)
+"hw6-4/hw6_4.ml" 33 687 696 "hw6-4/hw6_4.ml" 33 687 697
+type(
+  expr
+)
+ident(
+  int_ref a "hw6-4/hw6_4.ml" 32 669 678 "hw6-4/hw6_4.ml" 32 669 679
+)
+"hw6-4/hw6_4.ml" 33 687 698 "hw6-4/hw6_4.ml" 33 687 699
+type(
+  expr
+)
+ident(
+  int_ref b "hw6-4/hw6_4.ml" 32 669 681 "hw6-4/hw6_4.ml" 32 669 682
+)
+"hw6-4/hw6_4.ml" 33 687 695 "hw6-4/hw6_4.ml" 33 687 700
+type(
+  expr * expr
+)
+"hw6-4/hw6_4.ml" 34 706 715 "hw6-4/hw6_4.ml" 34 706 716
+type(
+  int
+)
+ident(
+  def n "hw6-4/hw6_4.ml" 35 729 732 "hw6-4/hw6_4.ml" 36 752 765
+)
+"hw6-4/hw6_4.ml" 34 706 711 "hw6-4/hw6_4.ml" 34 706 716
+type(
+  expr
+)
+"hw6-4/hw6_4.ml" 34 706 722 "hw6-4/hw6_4.ml" 34 706 723
+type(
+  int
+)
+ident(
+  def m "hw6-4/hw6_4.ml" 35 729 732 "hw6-4/hw6_4.ml" 36 752 765
+)
+"hw6-4/hw6_4.ml" 34 706 718 "hw6-4/hw6_4.ml" 34 706 723
+type(
+  expr
+)
+"hw6-4/hw6_4.ml" 34 706 710 "hw6-4/hw6_4.ml" 34 706 724
+type(
+  expr * expr
+)
+"hw6-4/hw6_4.ml" 35 729 735 "hw6-4/hw6_4.ml" 35 729 736
+type(
+  int
+)
+ident(
+  int_ref n "hw6-4/hw6_4.ml" 34 706 715 "hw6-4/hw6_4.ml" 34 706 716
+)
+"hw6-4/hw6_4.ml" 35 729 737 "hw6-4/hw6_4.ml" 35 729 738
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( < )
+)
+"hw6-4/hw6_4.ml" 35 729 739 "hw6-4/hw6_4.ml" 35 729 740
+type(
+  int
+)
+ident(
+  int_ref m "hw6-4/hw6_4.ml" 34 706 722 "hw6-4/hw6_4.ml" 34 706 723
+)
+"hw6-4/hw6_4.ml" 35 729 735 "hw6-4/hw6_4.ml" 35 729 740
+type(
+  bool
+)
+"hw6-4/hw6_4.ml" 35 729 746 "hw6-4/hw6_4.ml" 35 729 750
+type(
+  bool
+)
+"hw6-4/hw6_4.ml" 36 752 760 "hw6-4/hw6_4.ml" 36 752 765
+type(
+  bool
+)
+"hw6-4/hw6_4.ml" 35 729 732 "hw6-4/hw6_4.ml" 36 752 765
+type(
+  bool
+)
+"hw6-4/hw6_4.ml" 37 766 770 "hw6-4/hw6_4.ml" 37 766 771
+type(
+  expr * expr
+)
+"hw6-4/hw6_4.ml" 38 775 781 "hw6-4/hw6_4.ml" 38 775 785
+type(
+  expr -> int
+)
+ident(
+  int_ref calc "hw6-4/hw6_4.ml" 16 266 274 "hw6-4/hw6_4.ml" 16 266 278
+)
+"hw6-4/hw6_4.ml" 38 775 786 "hw6-4/hw6_4.ml" 38 775 787
+type(
+  expr
+)
+ident(
+  int_ref a "hw6-4/hw6_4.ml" 32 669 678 "hw6-4/hw6_4.ml" 32 669 679
+)
+"hw6-4/hw6_4.ml" 38 775 781 "hw6-4/hw6_4.ml" 38 775 787
+type(
+  int
+)
+"hw6-4/hw6_4.ml" 38 775 788 "hw6-4/hw6_4.ml" 38 775 789
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( < )
+)
+"hw6-4/hw6_4.ml" 38 775 790 "hw6-4/hw6_4.ml" 38 775 794
+type(
+  expr -> int
+)
+ident(
+  int_ref calc "hw6-4/hw6_4.ml" 16 266 274 "hw6-4/hw6_4.ml" 16 266 278
+)
+"hw6-4/hw6_4.ml" 38 775 795 "hw6-4/hw6_4.ml" 38 775 796
+type(
+  expr
+)
+ident(
+  int_ref b "hw6-4/hw6_4.ml" 32 669 681 "hw6-4/hw6_4.ml" 32 669 682
+)
+"hw6-4/hw6_4.ml" 38 775 790 "hw6-4/hw6_4.ml" 38 775 796
+type(
+  int
+)
+"hw6-4/hw6_4.ml" 38 775 781 "hw6-4/hw6_4.ml" 38 775 796
+type(
+  bool
+)
+"hw6-4/hw6_4.ml" 38 775 802 "hw6-4/hw6_4.ml" 38 775 806
+type(
+  bool
+)
+"hw6-4/hw6_4.ml" 39 807 815 "hw6-4/hw6_4.ml" 39 807 820
+type(
+  bool
+)
+"hw6-4/hw6_4.ml" 38 775 778 "hw6-4/hw6_4.ml" 39 807 820
+type(
+  bool
+)
+"hw6-4/hw6_4.ml" 33 687 689 "hw6-4/hw6_4.ml" 39 807 820
+type(
+  bool
+)
+"hw6-4/hw6_4.ml" 23 430 432 "hw6-4/hw6_4.ml" 39 807 820
+type(
+  bool
+)
+type(
+  bool
+)

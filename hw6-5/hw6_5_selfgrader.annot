@@ -1,0 +1,412 @@
+"hw6-5/hw6_5_selfgrader.ml" 5 150 158 "hw6-5/hw6_5_selfgrader.ml" 5 150 164
+type(
+  (unit -> bool) -> unit
+)
+ident(
+  ext_ref CommonGrade.output
+)
+"hw6-5/hw6_5_selfgrader.ml" 5 150 170 "hw6-5/hw6_5_selfgrader.ml" 5 150 172
+type(
+  unit
+)
+"hw6-5/hw6_5_selfgrader.ml" 6 176 179 "hw6-5/hw6_5_selfgrader.ml" 6 176 183
+type(
+  Hw6_5.ae -> string -> Hw6_5.ae
+)
+ident(
+  ext_ref Hw6_5.diff
+)
+"hw6-5/hw6_5_selfgrader.ml" 6 176 194 "hw6-5/hw6_5_selfgrader.ml" 6 176 197
+type(
+  string
+)
+"hw6-5/hw6_5_selfgrader.ml" 6 176 190 "hw6-5/hw6_5_selfgrader.ml" 6 176 197
+type(
+  Hw6_5.ae
+)
+"hw6-5/hw6_5_selfgrader.ml" 6 176 205 "hw6-5/hw6_5_selfgrader.ml" 6 176 206
+type(
+  int
+)
+"hw6-5/hw6_5_selfgrader.ml" 6 176 199 "hw6-5/hw6_5_selfgrader.ml" 6 176 206
+type(
+  Hw6_5.ae
+)
+"hw6-5/hw6_5_selfgrader.ml" 6 176 189 "hw6-5/hw6_5_selfgrader.ml" 6 176 207
+type(
+  Hw6_5.ae list
+)
+"hw6-5/hw6_5_selfgrader.ml" 6 176 184 "hw6-5/hw6_5_selfgrader.ml" 6 176 208
+type(
+  Hw6_5.ae
+)
+"hw6-5/hw6_5_selfgrader.ml" 6 176 209 "hw6-5/hw6_5_selfgrader.ml" 6 176 212
+type(
+  string
+)
+"hw6-5/hw6_5_selfgrader.ml" 6 176 178 "hw6-5/hw6_5_selfgrader.ml" 6 176 213
+type(
+  Hw6_5.ae
+)
+"hw6-5/hw6_5_selfgrader.ml" 6 176 214 "hw6-5/hw6_5_selfgrader.ml" 6 176 215
+type(
+  Hw6_5.ae -> Hw6_5.ae -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw6-5/hw6_5_selfgrader.ml" 6 176 227 "hw6-5/hw6_5_selfgrader.ml" 6 176 228
+type(
+  int
+)
+"hw6-5/hw6_5_selfgrader.ml" 6 176 221 "hw6-5/hw6_5_selfgrader.ml" 6 176 228
+type(
+  Hw6_5.ae
+)
+"hw6-5/hw6_5_selfgrader.ml" 6 176 236 "hw6-5/hw6_5_selfgrader.ml" 6 176 237
+type(
+  int
+)
+"hw6-5/hw6_5_selfgrader.ml" 6 176 230 "hw6-5/hw6_5_selfgrader.ml" 6 176 237
+type(
+  Hw6_5.ae
+)
+"hw6-5/hw6_5_selfgrader.ml" 6 176 220 "hw6-5/hw6_5_selfgrader.ml" 6 176 238
+type(
+  Hw6_5.ae list
+)
+"hw6-5/hw6_5_selfgrader.ml" 6 176 216 "hw6-5/hw6_5_selfgrader.ml" 6 176 238
+type(
+  Hw6_5.ae
+)
+"hw6-5/hw6_5_selfgrader.ml" 6 176 178 "hw6-5/hw6_5_selfgrader.ml" 6 176 238
+type(
+  bool
+)
+"hw6-5/hw6_5_selfgrader.ml" 5 150 165 "hw6-5/hw6_5_selfgrader.ml" 6 176 239
+type(
+  unit -> bool
+)
+"hw6-5/hw6_5_selfgrader.ml" 5 150 158 "hw6-5/hw6_5_selfgrader.ml" 6 176 239
+type(
+  unit
+)
+"hw6-5/hw6_5_selfgrader.ml" 7 240 248 "hw6-5/hw6_5_selfgrader.ml" 7 240 254
+type(
+  (unit -> bool) -> unit
+)
+ident(
+  ext_ref CommonGrade.output
+)
+"hw6-5/hw6_5_selfgrader.ml" 7 240 260 "hw6-5/hw6_5_selfgrader.ml" 7 240 262
+type(
+  unit
+)
+"hw6-5/hw6_5_selfgrader.ml" 8 266 269 "hw6-5/hw6_5_selfgrader.ml" 8 266 273
+type(
+  Hw6_5.ae -> string -> Hw6_5.ae
+)
+ident(
+  ext_ref Hw6_5.diff
+)
+"hw6-5/hw6_5_selfgrader.ml" 8 266 286 "hw6-5/hw6_5_selfgrader.ml" 8 266 289
+type(
+  string
+)
+"hw6-5/hw6_5_selfgrader.ml" 8 266 290 "hw6-5/hw6_5_selfgrader.ml" 8 266 291
+type(
+  int
+)
+"hw6-5/hw6_5_selfgrader.ml" 8 266 280 "hw6-5/hw6_5_selfgrader.ml" 8 266 292
+type(
+  Hw6_5.ae
+)
+"hw6-5/hw6_5_selfgrader.ml" 8 266 298 "hw6-5/hw6_5_selfgrader.ml" 8 266 301
+type(
+  string
+)
+"hw6-5/hw6_5_selfgrader.ml" 8 266 294 "hw6-5/hw6_5_selfgrader.ml" 8 266 301
+type(
+  Hw6_5.ae
+)
+"hw6-5/hw6_5_selfgrader.ml" 8 266 309 "hw6-5/hw6_5_selfgrader.ml" 8 266 310
+type(
+  int
+)
+"hw6-5/hw6_5_selfgrader.ml" 8 266 303 "hw6-5/hw6_5_selfgrader.ml" 8 266 310
+type(
+  Hw6_5.ae
+)
+"hw6-5/hw6_5_selfgrader.ml" 8 266 279 "hw6-5/hw6_5_selfgrader.ml" 8 266 311
+type(
+  Hw6_5.ae list
+)
+"hw6-5/hw6_5_selfgrader.ml" 8 266 274 "hw6-5/hw6_5_selfgrader.ml" 8 266 312
+type(
+  Hw6_5.ae
+)
+"hw6-5/hw6_5_selfgrader.ml" 8 266 313 "hw6-5/hw6_5_selfgrader.ml" 8 266 316
+type(
+  string
+)
+"hw6-5/hw6_5_selfgrader.ml" 8 266 268 "hw6-5/hw6_5_selfgrader.ml" 8 266 317
+type(
+  Hw6_5.ae
+)
+"hw6-5/hw6_5_selfgrader.ml" 8 266 318 "hw6-5/hw6_5_selfgrader.ml" 8 266 319
+type(
+  Hw6_5.ae -> Hw6_5.ae -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw6-5/hw6_5_selfgrader.ml" 8 266 338 "hw6-5/hw6_5_selfgrader.ml" 8 266 339
+type(
+  int
+)
+"hw6-5/hw6_5_selfgrader.ml" 8 266 332 "hw6-5/hw6_5_selfgrader.ml" 8 266 339
+type(
+  Hw6_5.ae
+)
+"hw6-5/hw6_5_selfgrader.ml" 8 266 347 "hw6-5/hw6_5_selfgrader.ml" 8 266 350
+type(
+  string
+)
+"hw6-5/hw6_5_selfgrader.ml" 8 266 351 "hw6-5/hw6_5_selfgrader.ml" 8 266 352
+type(
+  int
+)
+"hw6-5/hw6_5_selfgrader.ml" 8 266 341 "hw6-5/hw6_5_selfgrader.ml" 8 266 353
+type(
+  Hw6_5.ae
+)
+"hw6-5/hw6_5_selfgrader.ml" 8 266 331 "hw6-5/hw6_5_selfgrader.ml" 8 266 354
+type(
+  Hw6_5.ae list
+)
+"hw6-5/hw6_5_selfgrader.ml" 8 266 325 "hw6-5/hw6_5_selfgrader.ml" 8 266 354
+type(
+  Hw6_5.ae
+)
+"hw6-5/hw6_5_selfgrader.ml" 8 266 362 "hw6-5/hw6_5_selfgrader.ml" 8 266 363
+type(
+  int
+)
+"hw6-5/hw6_5_selfgrader.ml" 8 266 356 "hw6-5/hw6_5_selfgrader.ml" 8 266 363
+type(
+  Hw6_5.ae
+)
+"hw6-5/hw6_5_selfgrader.ml" 8 266 371 "hw6-5/hw6_5_selfgrader.ml" 8 266 372
+type(
+  int
+)
+"hw6-5/hw6_5_selfgrader.ml" 8 266 365 "hw6-5/hw6_5_selfgrader.ml" 8 266 372
+type(
+  Hw6_5.ae
+)
+"hw6-5/hw6_5_selfgrader.ml" 8 266 324 "hw6-5/hw6_5_selfgrader.ml" 8 266 373
+type(
+  Hw6_5.ae list
+)
+"hw6-5/hw6_5_selfgrader.ml" 8 266 320 "hw6-5/hw6_5_selfgrader.ml" 8 266 373
+type(
+  Hw6_5.ae
+)
+"hw6-5/hw6_5_selfgrader.ml" 8 266 268 "hw6-5/hw6_5_selfgrader.ml" 8 266 373
+type(
+  bool
+)
+"hw6-5/hw6_5_selfgrader.ml" 7 240 255 "hw6-5/hw6_5_selfgrader.ml" 8 266 374
+type(
+  unit -> bool
+)
+"hw6-5/hw6_5_selfgrader.ml" 7 240 248 "hw6-5/hw6_5_selfgrader.ml" 8 266 374
+type(
+  unit
+)
+"hw6-5/hw6_5_selfgrader.ml" 9 375 383 "hw6-5/hw6_5_selfgrader.ml" 9 375 389
+type(
+  (unit -> bool) -> unit
+)
+ident(
+  ext_ref CommonGrade.output
+)
+"hw6-5/hw6_5_selfgrader.ml" 9 375 395 "hw6-5/hw6_5_selfgrader.ml" 9 375 397
+type(
+  unit
+)
+"hw6-5/hw6_5_selfgrader.ml" 10 401 404 "hw6-5/hw6_5_selfgrader.ml" 10 401 408
+type(
+  Hw6_5.ae -> string -> Hw6_5.ae
+)
+ident(
+  ext_ref Hw6_5.diff
+)
+"hw6-5/hw6_5_selfgrader.ml" 10 401 419 "hw6-5/hw6_5_selfgrader.ml" 10 401 422
+type(
+  string
+)
+"hw6-5/hw6_5_selfgrader.ml" 10 401 415 "hw6-5/hw6_5_selfgrader.ml" 10 401 422
+type(
+  Hw6_5.ae
+)
+"hw6-5/hw6_5_selfgrader.ml" 10 401 430 "hw6-5/hw6_5_selfgrader.ml" 10 401 431
+type(
+  int
+)
+"hw6-5/hw6_5_selfgrader.ml" 10 401 424 "hw6-5/hw6_5_selfgrader.ml" 10 401 431
+type(
+  Hw6_5.ae
+)
+"hw6-5/hw6_5_selfgrader.ml" 10 401 414 "hw6-5/hw6_5_selfgrader.ml" 10 401 432
+type(
+  Hw6_5.ae list
+)
+"hw6-5/hw6_5_selfgrader.ml" 10 401 409 "hw6-5/hw6_5_selfgrader.ml" 10 401 433
+type(
+  Hw6_5.ae
+)
+"hw6-5/hw6_5_selfgrader.ml" 10 401 434 "hw6-5/hw6_5_selfgrader.ml" 10 401 437
+type(
+  string
+)
+"hw6-5/hw6_5_selfgrader.ml" 10 401 403 "hw6-5/hw6_5_selfgrader.ml" 10 401 438
+type(
+  Hw6_5.ae
+)
+"hw6-5/hw6_5_selfgrader.ml" 10 401 439 "hw6-5/hw6_5_selfgrader.ml" 10 401 440
+type(
+  Hw6_5.ae -> Hw6_5.ae -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw6-5/hw6_5_selfgrader.ml" 10 401 452 "hw6-5/hw6_5_selfgrader.ml" 10 401 453
+type(
+  int
+)
+"hw6-5/hw6_5_selfgrader.ml" 10 401 446 "hw6-5/hw6_5_selfgrader.ml" 10 401 453
+type(
+  Hw6_5.ae
+)
+"hw6-5/hw6_5_selfgrader.ml" 10 401 461 "hw6-5/hw6_5_selfgrader.ml" 10 401 462
+type(
+  int
+)
+"hw6-5/hw6_5_selfgrader.ml" 10 401 455 "hw6-5/hw6_5_selfgrader.ml" 10 401 462
+type(
+  Hw6_5.ae
+)
+"hw6-5/hw6_5_selfgrader.ml" 10 401 445 "hw6-5/hw6_5_selfgrader.ml" 10 401 463
+type(
+  Hw6_5.ae list
+)
+"hw6-5/hw6_5_selfgrader.ml" 10 401 441 "hw6-5/hw6_5_selfgrader.ml" 10 401 463
+type(
+  Hw6_5.ae
+)
+"hw6-5/hw6_5_selfgrader.ml" 10 401 403 "hw6-5/hw6_5_selfgrader.ml" 10 401 463
+type(
+  bool
+)
+"hw6-5/hw6_5_selfgrader.ml" 9 375 390 "hw6-5/hw6_5_selfgrader.ml" 10 401 464
+type(
+  unit -> bool
+)
+"hw6-5/hw6_5_selfgrader.ml" 9 375 383 "hw6-5/hw6_5_selfgrader.ml" 10 401 464
+type(
+  unit
+)
+"hw6-5/hw6_5_selfgrader.ml" 11 465 473 "hw6-5/hw6_5_selfgrader.ml" 11 465 479
+type(
+  (unit -> bool) -> unit
+)
+ident(
+  ext_ref CommonGrade.output
+)
+"hw6-5/hw6_5_selfgrader.ml" 11 465 485 "hw6-5/hw6_5_selfgrader.ml" 11 465 487
+type(
+  unit
+)
+"hw6-5/hw6_5_selfgrader.ml" 12 491 494 "hw6-5/hw6_5_selfgrader.ml" 12 491 498
+type(
+  Hw6_5.ae -> string -> Hw6_5.ae
+)
+ident(
+  ext_ref Hw6_5.diff
+)
+"hw6-5/hw6_5_selfgrader.ml" 12 491 509 "hw6-5/hw6_5_selfgrader.ml" 12 491 512
+type(
+  string
+)
+"hw6-5/hw6_5_selfgrader.ml" 12 491 505 "hw6-5/hw6_5_selfgrader.ml" 12 491 512
+type(
+  Hw6_5.ae
+)
+"hw6-5/hw6_5_selfgrader.ml" 12 491 520 "hw6-5/hw6_5_selfgrader.ml" 12 491 521
+type(
+  int
+)
+"hw6-5/hw6_5_selfgrader.ml" 12 491 514 "hw6-5/hw6_5_selfgrader.ml" 12 491 521
+type(
+  Hw6_5.ae
+)
+"hw6-5/hw6_5_selfgrader.ml" 12 491 504 "hw6-5/hw6_5_selfgrader.ml" 12 491 522
+type(
+  Hw6_5.ae list
+)
+"hw6-5/hw6_5_selfgrader.ml" 12 491 499 "hw6-5/hw6_5_selfgrader.ml" 12 491 523
+type(
+  Hw6_5.ae
+)
+"hw6-5/hw6_5_selfgrader.ml" 12 491 524 "hw6-5/hw6_5_selfgrader.ml" 12 491 527
+type(
+  string
+)
+"hw6-5/hw6_5_selfgrader.ml" 12 491 493 "hw6-5/hw6_5_selfgrader.ml" 12 491 528
+type(
+  Hw6_5.ae
+)
+"hw6-5/hw6_5_selfgrader.ml" 12 491 529 "hw6-5/hw6_5_selfgrader.ml" 12 491 530
+type(
+  Hw6_5.ae -> Hw6_5.ae -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw6-5/hw6_5_selfgrader.ml" 12 491 542 "hw6-5/hw6_5_selfgrader.ml" 12 491 543
+type(
+  int
+)
+"hw6-5/hw6_5_selfgrader.ml" 12 491 536 "hw6-5/hw6_5_selfgrader.ml" 12 491 543
+type(
+  Hw6_5.ae
+)
+"hw6-5/hw6_5_selfgrader.ml" 12 491 551 "hw6-5/hw6_5_selfgrader.ml" 12 491 552
+type(
+  int
+)
+"hw6-5/hw6_5_selfgrader.ml" 12 491 545 "hw6-5/hw6_5_selfgrader.ml" 12 491 552
+type(
+  Hw6_5.ae
+)
+"hw6-5/hw6_5_selfgrader.ml" 12 491 535 "hw6-5/hw6_5_selfgrader.ml" 12 491 553
+type(
+  Hw6_5.ae list
+)
+"hw6-5/hw6_5_selfgrader.ml" 12 491 531 "hw6-5/hw6_5_selfgrader.ml" 12 491 553
+type(
+  Hw6_5.ae
+)
+"hw6-5/hw6_5_selfgrader.ml" 12 491 493 "hw6-5/hw6_5_selfgrader.ml" 12 491 553
+type(
+  bool
+)
+"hw6-5/hw6_5_selfgrader.ml" 11 465 480 "hw6-5/hw6_5_selfgrader.ml" 12 491 554
+type(
+  unit -> bool
+)
+"hw6-5/hw6_5_selfgrader.ml" 11 465 473 "hw6-5/hw6_5_selfgrader.ml" 12 491 554
+type(
+  unit
+)

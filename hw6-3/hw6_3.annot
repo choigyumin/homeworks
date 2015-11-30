@@ -1,0 +1,1319 @@
+"hw6-3/hw6_3.ml" 11 253 257 "hw6-3/hw6_3.ml" 11 253 271
+type(
+  team -> string
+)
+ident(
+  def team_to_string "hw6-3/hw6_3.ml" 29 646 646 "hw6-3/hw6_3.ml" 1 0 -1
+)
+"hw6-3/hw6_3.ml" 11 253 273 "hw6-3/hw6_3.ml" 11 253 274
+type(
+  team
+)
+ident(
+  def a "hw6-3/hw6_3.ml" 11 253 280 "hw6-3/hw6_3.ml" 27 616 644
+)
+"hw6-3/hw6_3.ml" 12 291 298 "hw6-3/hw6_3.ml" 12 291 299
+type(
+  team
+)
+ident(
+  int_ref a "hw6-3/hw6_3.ml" 11 253 273 "hw6-3/hw6_3.ml" 11 253 274
+)
+"hw6-3/hw6_3.ml" 13 305 308 "hw6-3/hw6_3.ml" 13 305 313
+type(
+  team
+)
+"hw6-3/hw6_3.ml" 13 305 317 "hw6-3/hw6_3.ml" 13 305 324
+type(
+  string
+)
+"hw6-3/hw6_3.ml" 14 325 328 "hw6-3/hw6_3.ml" 14 325 334
+type(
+  team
+)
+"hw6-3/hw6_3.ml" 14 325 338 "hw6-3/hw6_3.ml" 14 325 346
+type(
+  string
+)
+"hw6-3/hw6_3.ml" 15 347 350 "hw6-3/hw6_3.ml" 15 347 353
+type(
+  team
+)
+"hw6-3/hw6_3.ml" 15 347 357 "hw6-3/hw6_3.ml" 15 347 362
+type(
+  string
+)
+"hw6-3/hw6_3.ml" 16 363 366 "hw6-3/hw6_3.ml" 16 363 372
+type(
+  team
+)
+"hw6-3/hw6_3.ml" 16 363 376 "hw6-3/hw6_3.ml" 16 363 384
+type(
+  string
+)
+"hw6-3/hw6_3.ml" 17 385 388 "hw6-3/hw6_3.ml" 17 385 393
+type(
+  team
+)
+"hw6-3/hw6_3.ml" 17 385 397 "hw6-3/hw6_3.ml" 17 385 404
+type(
+  string
+)
+"hw6-3/hw6_3.ml" 18 405 408 "hw6-3/hw6_3.ml" 18 405 415
+type(
+  team
+)
+"hw6-3/hw6_3.ml" 18 405 419 "hw6-3/hw6_3.ml" 18 405 428
+type(
+  string
+)
+"hw6-3/hw6_3.ml" 19 429 432 "hw6-3/hw6_3.ml" 19 429 440
+type(
+  team
+)
+"hw6-3/hw6_3.ml" 19 429 444 "hw6-3/hw6_3.ml" 19 429 454
+type(
+  string
+)
+"hw6-3/hw6_3.ml" 20 455 459 "hw6-3/hw6_3.ml" 20 455 465
+type(
+  team
+)
+"hw6-3/hw6_3.ml" 20 455 469 "hw6-3/hw6_3.ml" 20 455 477
+type(
+  string
+)
+"hw6-3/hw6_3.ml" 21 478 481 "hw6-3/hw6_3.ml" 21 478 489
+type(
+  team
+)
+"hw6-3/hw6_3.ml" 21 478 493 "hw6-3/hw6_3.ml" 21 478 503
+type(
+  string
+)
+"hw6-3/hw6_3.ml" 22 504 507 "hw6-3/hw6_3.ml" 22 504 512
+type(
+  team
+)
+"hw6-3/hw6_3.ml" 22 504 516 "hw6-3/hw6_3.ml" 22 504 523
+type(
+  string
+)
+"hw6-3/hw6_3.ml" 23 524 527 "hw6-3/hw6_3.ml" 23 524 534
+type(
+  team
+)
+"hw6-3/hw6_3.ml" 23 524 538 "hw6-3/hw6_3.ml" 23 524 547
+type(
+  string
+)
+"hw6-3/hw6_3.ml" 24 548 551 "hw6-3/hw6_3.ml" 24 548 557
+type(
+  team
+)
+"hw6-3/hw6_3.ml" 24 548 561 "hw6-3/hw6_3.ml" 24 548 569
+type(
+  string
+)
+"hw6-3/hw6_3.ml" 25 570 573 "hw6-3/hw6_3.ml" 25 570 579
+type(
+  team
+)
+"hw6-3/hw6_3.ml" 25 570 583 "hw6-3/hw6_3.ml" 25 570 591
+type(
+  string
+)
+"hw6-3/hw6_3.ml" 26 592 595 "hw6-3/hw6_3.ml" 26 592 602
+type(
+  team
+)
+"hw6-3/hw6_3.ml" 26 592 606 "hw6-3/hw6_3.ml" 26 592 615
+type(
+  string
+)
+"hw6-3/hw6_3.ml" 27 616 620 "hw6-3/hw6_3.ml" 27 616 629
+type(
+  team
+)
+"hw6-3/hw6_3.ml" 27 616 633 "hw6-3/hw6_3.ml" 27 616 644
+type(
+  string
+)
+"hw6-3/hw6_3.ml" 12 291 292 "hw6-3/hw6_3.ml" 27 616 644
+type(
+  string
+)
+type(
+  string
+)
+"hw6-3/hw6_3.ml" 29 646 654 "hw6-3/hw6_3.ml" 29 646 662
+type(
+  tourna -> string
+)
+ident(
+  def parenize "hw6-3/hw6_3.ml" 29 646 646 "hw6-3/hw6_3.ml" 1 0 -1
+)
+"hw6-3/hw6_3.ml" 29 646 664 "hw6-3/hw6_3.ml" 29 646 665
+type(
+  tourna
+)
+ident(
+  def t "hw6-3/hw6_3.ml" 29 646 674 "hw6-3/hw6_3.ml" 32 730 792
+)
+"hw6-3/hw6_3.ml" 30 685 693 "hw6-3/hw6_3.ml" 30 685 694
+type(
+  tourna
+)
+ident(
+  int_ref t "hw6-3/hw6_3.ml" 29 646 664 "hw6-3/hw6_3.ml" 29 646 665
+)
+"hw6-3/hw6_3.ml" 31 700 708 "hw6-3/hw6_3.ml" 31 700 709
+type(
+  team
+)
+ident(
+  def a "hw6-3/hw6_3.ml" 31 700 713 "hw6-3/hw6_3.ml" 31 700 729
+)
+"hw6-3/hw6_3.ml" 31 700 703 "hw6-3/hw6_3.ml" 31 700 709
+type(
+  tourna
+)
+"hw6-3/hw6_3.ml" 31 700 713 "hw6-3/hw6_3.ml" 31 700 727
+type(
+  team -> string
+)
+ident(
+  int_ref team_to_string "hw6-3/hw6_3.ml" 11 253 257 "hw6-3/hw6_3.ml" 11 253 271
+)
+"hw6-3/hw6_3.ml" 31 700 728 "hw6-3/hw6_3.ml" 31 700 729
+type(
+  team
+)
+ident(
+  int_ref a "hw6-3/hw6_3.ml" 31 700 708 "hw6-3/hw6_3.ml" 31 700 709
+)
+"hw6-3/hw6_3.ml" 31 700 713 "hw6-3/hw6_3.ml" 31 700 729
+type(
+  string
+)
+"hw6-3/hw6_3.ml" 32 730 739 "hw6-3/hw6_3.ml" 32 730 740
+type(
+  tourna
+)
+ident(
+  def a "hw6-3/hw6_3.ml" 32 730 747 "hw6-3/hw6_3.ml" 32 730 792
+)
+"hw6-3/hw6_3.ml" 32 730 741 "hw6-3/hw6_3.ml" 32 730 742
+type(
+  tourna
+)
+ident(
+  def b "hw6-3/hw6_3.ml" 32 730 747 "hw6-3/hw6_3.ml" 32 730 792
+)
+"hw6-3/hw6_3.ml" 32 730 733 "hw6-3/hw6_3.ml" 32 730 743
+type(
+  tourna
+)
+"hw6-3/hw6_3.ml" 32 730 747 "hw6-3/hw6_3.ml" 32 730 750
+type(
+  string
+)
+"hw6-3/hw6_3.ml" 32 730 751 "hw6-3/hw6_3.ml" 32 730 752
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"hw6-3/hw6_3.ml" 32 730 754 "hw6-3/hw6_3.ml" 32 730 762
+type(
+  tourna -> string
+)
+ident(
+  int_ref parenize "hw6-3/hw6_3.ml" 29 646 654 "hw6-3/hw6_3.ml" 29 646 662
+)
+"hw6-3/hw6_3.ml" 32 730 763 "hw6-3/hw6_3.ml" 32 730 764
+type(
+  tourna
+)
+ident(
+  int_ref a "hw6-3/hw6_3.ml" 32 730 739 "hw6-3/hw6_3.ml" 32 730 740
+)
+"hw6-3/hw6_3.ml" 32 730 753 "hw6-3/hw6_3.ml" 32 730 765
+type(
+  string
+)
+"hw6-3/hw6_3.ml" 32 730 766 "hw6-3/hw6_3.ml" 32 730 767
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"hw6-3/hw6_3.ml" 32 730 768 "hw6-3/hw6_3.ml" 32 730 771
+type(
+  string
+)
+"hw6-3/hw6_3.ml" 32 730 772 "hw6-3/hw6_3.ml" 32 730 773
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"hw6-3/hw6_3.ml" 32 730 775 "hw6-3/hw6_3.ml" 32 730 783
+type(
+  tourna -> string
+)
+ident(
+  int_ref parenize "hw6-3/hw6_3.ml" 29 646 654 "hw6-3/hw6_3.ml" 29 646 662
+)
+"hw6-3/hw6_3.ml" 32 730 784 "hw6-3/hw6_3.ml" 32 730 785
+type(
+  tourna
+)
+ident(
+  int_ref b "hw6-3/hw6_3.ml" 32 730 741 "hw6-3/hw6_3.ml" 32 730 742
+)
+"hw6-3/hw6_3.ml" 32 730 774 "hw6-3/hw6_3.ml" 32 730 786
+type(
+  string
+)
+"hw6-3/hw6_3.ml" 32 730 787 "hw6-3/hw6_3.ml" 32 730 788
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"hw6-3/hw6_3.ml" 32 730 789 "hw6-3/hw6_3.ml" 32 730 792
+type(
+  string
+)
+"hw6-3/hw6_3.ml" 32 730 774 "hw6-3/hw6_3.ml" 32 730 792
+type(
+  string
+)
+"hw6-3/hw6_3.ml" 32 730 768 "hw6-3/hw6_3.ml" 32 730 792
+type(
+  string
+)
+"hw6-3/hw6_3.ml" 32 730 753 "hw6-3/hw6_3.ml" 32 730 792
+type(
+  string
+)
+"hw6-3/hw6_3.ml" 32 730 747 "hw6-3/hw6_3.ml" 32 730 792
+type(
+  string
+)
+"hw6-3/hw6_3.ml" 30 685 687 "hw6-3/hw6_3.ml" 32 730 792
+type(
+  string
+)
+type(
+  string
+)
+"hw6-3/hw6_3.ml" 34 794 802 "hw6-3/hw6_3.ml" 34 794 808
+type(
+  tourna * team -> tourna
+)
+ident(
+  def drop_h "hw6-3/hw6_3.ml" 34 794 794 "hw6-3/hw6_3.ml" 1 0 -1
+)
+"hw6-3/hw6_3.ml" 34 794 811 "hw6-3/hw6_3.ml" 34 794 812
+type(
+  tourna
+)
+ident(
+  def t "hw6-3/hw6_3.ml" 34 794 833 "hw6-3/hw6_3.ml" 50 1406 1461
+)
+"hw6-3/hw6_3.ml" 34 794 824 "hw6-3/hw6_3.ml" 34 794 825
+type(
+  team
+)
+ident(
+  def d "hw6-3/hw6_3.ml" 34 794 833 "hw6-3/hw6_3.ml" 50 1406 1461
+)
+"hw6-3/hw6_3.ml" 34 794 809 "hw6-3/hw6_3.ml" 34 794 833
+type(
+  tourna * team
+)
+"hw6-3/hw6_3.ml" 35 844 852 "hw6-3/hw6_3.ml" 35 844 853
+type(
+  tourna
+)
+ident(
+  int_ref t "hw6-3/hw6_3.ml" 34 794 811 "hw6-3/hw6_3.ml" 34 794 812
+)
+"hw6-3/hw6_3.ml" 35 844 855 "hw6-3/hw6_3.ml" 35 844 856
+type(
+  team
+)
+ident(
+  int_ref d "hw6-3/hw6_3.ml" 34 794 824 "hw6-3/hw6_3.ml" 34 794 825
+)
+"hw6-3/hw6_3.ml" 35 844 851 "hw6-3/hw6_3.ml" 35 844 857
+type(
+  tourna * team
+)
+"hw6-3/hw6_3.ml" 36 863 872 "hw6-3/hw6_3.ml" 36 863 873
+type(
+  team
+)
+ident(
+  def a "hw6-3/hw6_3.ml" 36 863 881 "hw6-3/hw6_3.ml" 36 863 887
+)
+"hw6-3/hw6_3.ml" 36 863 867 "hw6-3/hw6_3.ml" 36 863 873
+type(
+  tourna
+)
+"hw6-3/hw6_3.ml" 36 863 875 "hw6-3/hw6_3.ml" 36 863 876
+type(
+  team
+)
+ident(
+  def d "hw6-3/hw6_3.ml" 36 863 881 "hw6-3/hw6_3.ml" 36 863 887
+)
+"hw6-3/hw6_3.ml" 36 863 866 "hw6-3/hw6_3.ml" 36 863 877
+type(
+  tourna * team
+)
+"hw6-3/hw6_3.ml" 36 863 886 "hw6-3/hw6_3.ml" 36 863 887
+type(
+  team
+)
+ident(
+  int_ref a "hw6-3/hw6_3.ml" 36 863 872 "hw6-3/hw6_3.ml" 36 863 873
+)
+"hw6-3/hw6_3.ml" 36 863 881 "hw6-3/hw6_3.ml" 36 863 887
+type(
+  tourna
+)
+"hw6-3/hw6_3.ml" 37 888 898 "hw6-3/hw6_3.ml" 37 888 899
+type(
+  tourna
+)
+ident(
+  def a "hw6-3/hw6_3.ml" 38 911 913 "hw6-3/hw6_3.ml" 50 1406 1461
+)
+"hw6-3/hw6_3.ml" 37 888 900 "hw6-3/hw6_3.ml" 37 888 901
+type(
+  tourna
+)
+ident(
+  def b "hw6-3/hw6_3.ml" 38 911 913 "hw6-3/hw6_3.ml" 50 1406 1461
+)
+"hw6-3/hw6_3.ml" 37 888 892 "hw6-3/hw6_3.ml" 37 888 902
+type(
+  tourna
+)
+"hw6-3/hw6_3.ml" 37 888 904 "hw6-3/hw6_3.ml" 37 888 905
+type(
+  team
+)
+ident(
+  def d "hw6-3/hw6_3.ml" 38 911 913 "hw6-3/hw6_3.ml" 50 1406 1461
+)
+"hw6-3/hw6_3.ml" 37 888 891 "hw6-3/hw6_3.ml" 37 888 906
+type(
+  tourna * team
+)
+"hw6-3/hw6_3.ml" 38 911 921 "hw6-3/hw6_3.ml" 38 911 922
+type(
+  tourna
+)
+ident(
+  int_ref a "hw6-3/hw6_3.ml" 37 888 898 "hw6-3/hw6_3.ml" 37 888 899
+)
+"hw6-3/hw6_3.ml" 38 911 923 "hw6-3/hw6_3.ml" 38 911 924
+type(
+  tourna
+)
+ident(
+  int_ref b "hw6-3/hw6_3.ml" 37 888 900 "hw6-3/hw6_3.ml" 37 888 901
+)
+"hw6-3/hw6_3.ml" 38 911 925 "hw6-3/hw6_3.ml" 38 911 926
+type(
+  team
+)
+ident(
+  int_ref d "hw6-3/hw6_3.ml" 37 888 904 "hw6-3/hw6_3.ml" 37 888 905
+)
+"hw6-3/hw6_3.ml" 38 911 920 "hw6-3/hw6_3.ml" 38 911 927
+type(
+  tourna * tourna * team
+)
+"hw6-3/hw6_3.ml" 39 933 943 "hw6-3/hw6_3.ml" 39 933 944
+type(
+  team
+)
+ident(
+  def z "hw6-3/hw6_3.ml" 40 960 963 "hw6-3/hw6_3.ml" 42 1073 1102
+)
+"hw6-3/hw6_3.ml" 39 933 938 "hw6-3/hw6_3.ml" 39 933 944
+type(
+  tourna
+)
+"hw6-3/hw6_3.ml" 39 933 951 "hw6-3/hw6_3.ml" 39 933 952
+type(
+  team
+)
+ident(
+  def x "hw6-3/hw6_3.ml" 40 960 963 "hw6-3/hw6_3.ml" 42 1073 1102
+)
+"hw6-3/hw6_3.ml" 39 933 946 "hw6-3/hw6_3.ml" 39 933 952
+type(
+  tourna
+)
+"hw6-3/hw6_3.ml" 39 933 954 "hw6-3/hw6_3.ml" 39 933 955
+type(
+  team
+)
+ident(
+  def d "hw6-3/hw6_3.ml" 40 960 963 "hw6-3/hw6_3.ml" 42 1073 1102
+)
+"hw6-3/hw6_3.ml" 39 933 937 "hw6-3/hw6_3.ml" 39 933 956
+type(
+  tourna * tourna * team
+)
+"hw6-3/hw6_3.ml" 40 960 966 "hw6-3/hw6_3.ml" 40 960 980
+type(
+  team -> string
+)
+ident(
+  int_ref team_to_string "hw6-3/hw6_3.ml" 11 253 257 "hw6-3/hw6_3.ml" 11 253 271
+)
+"hw6-3/hw6_3.ml" 40 960 981 "hw6-3/hw6_3.ml" 40 960 982
+type(
+  team
+)
+ident(
+  int_ref z "hw6-3/hw6_3.ml" 39 933 943 "hw6-3/hw6_3.ml" 39 933 944
+)
+"hw6-3/hw6_3.ml" 40 960 966 "hw6-3/hw6_3.ml" 40 960 982
+type(
+  string
+)
+"hw6-3/hw6_3.ml" 40 960 983 "hw6-3/hw6_3.ml" 40 960 984
+type(
+  string -> string -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw6-3/hw6_3.ml" 40 960 985 "hw6-3/hw6_3.ml" 40 960 999
+type(
+  team -> string
+)
+ident(
+  int_ref team_to_string "hw6-3/hw6_3.ml" 11 253 257 "hw6-3/hw6_3.ml" 11 253 271
+)
+"hw6-3/hw6_3.ml" 40 960 1000 "hw6-3/hw6_3.ml" 40 960 1001
+type(
+  team
+)
+ident(
+  int_ref d "hw6-3/hw6_3.ml" 39 933 954 "hw6-3/hw6_3.ml" 39 933 955
+)
+"hw6-3/hw6_3.ml" 40 960 985 "hw6-3/hw6_3.ml" 40 960 1001
+type(
+  string
+)
+"hw6-3/hw6_3.ml" 40 960 966 "hw6-3/hw6_3.ml" 40 960 1001
+type(
+  bool
+)
+"hw6-3/hw6_3.ml" 40 960 1012 "hw6-3/hw6_3.ml" 40 960 1013
+type(
+  team
+)
+ident(
+  int_ref x "hw6-3/hw6_3.ml" 39 933 951 "hw6-3/hw6_3.ml" 39 933 952
+)
+"hw6-3/hw6_3.ml" 40 960 1007 "hw6-3/hw6_3.ml" 40 960 1013
+type(
+  tourna
+)
+"hw6-3/hw6_3.ml" 41 1014 1025 "hw6-3/hw6_3.ml" 41 1014 1039
+type(
+  team -> string
+)
+ident(
+  int_ref team_to_string "hw6-3/hw6_3.ml" 11 253 257 "hw6-3/hw6_3.ml" 11 253 271
+)
+"hw6-3/hw6_3.ml" 41 1014 1040 "hw6-3/hw6_3.ml" 41 1014 1041
+type(
+  team
+)
+ident(
+  int_ref x "hw6-3/hw6_3.ml" 39 933 951 "hw6-3/hw6_3.ml" 39 933 952
+)
+"hw6-3/hw6_3.ml" 41 1014 1025 "hw6-3/hw6_3.ml" 41 1014 1041
+type(
+  string
+)
+"hw6-3/hw6_3.ml" 41 1014 1042 "hw6-3/hw6_3.ml" 41 1014 1043
+type(
+  string -> string -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw6-3/hw6_3.ml" 41 1014 1044 "hw6-3/hw6_3.ml" 41 1014 1058
+type(
+  team -> string
+)
+ident(
+  int_ref team_to_string "hw6-3/hw6_3.ml" 11 253 257 "hw6-3/hw6_3.ml" 11 253 271
+)
+"hw6-3/hw6_3.ml" 41 1014 1059 "hw6-3/hw6_3.ml" 41 1014 1060
+type(
+  team
+)
+ident(
+  int_ref d "hw6-3/hw6_3.ml" 39 933 954 "hw6-3/hw6_3.ml" 39 933 955
+)
+"hw6-3/hw6_3.ml" 41 1014 1044 "hw6-3/hw6_3.ml" 41 1014 1060
+type(
+  string
+)
+"hw6-3/hw6_3.ml" 41 1014 1025 "hw6-3/hw6_3.ml" 41 1014 1060
+type(
+  bool
+)
+"hw6-3/hw6_3.ml" 41 1014 1071 "hw6-3/hw6_3.ml" 41 1014 1072
+type(
+  team
+)
+ident(
+  int_ref z "hw6-3/hw6_3.ml" 39 933 943 "hw6-3/hw6_3.ml" 39 933 944
+)
+"hw6-3/hw6_3.ml" 41 1014 1066 "hw6-3/hw6_3.ml" 41 1014 1072
+type(
+  tourna
+)
+"hw6-3/hw6_3.ml" 42 1073 1092 "hw6-3/hw6_3.ml" 42 1073 1093
+type(
+  team
+)
+ident(
+  int_ref z "hw6-3/hw6_3.ml" 39 933 943 "hw6-3/hw6_3.ml" 39 933 944
+)
+"hw6-3/hw6_3.ml" 42 1073 1087 "hw6-3/hw6_3.ml" 42 1073 1093
+type(
+  tourna
+)
+"hw6-3/hw6_3.ml" 42 1073 1100 "hw6-3/hw6_3.ml" 42 1073 1101
+type(
+  team
+)
+ident(
+  int_ref x "hw6-3/hw6_3.ml" 39 933 951 "hw6-3/hw6_3.ml" 39 933 952
+)
+"hw6-3/hw6_3.ml" 42 1073 1095 "hw6-3/hw6_3.ml" 42 1073 1101
+type(
+  tourna
+)
+"hw6-3/hw6_3.ml" 42 1073 1081 "hw6-3/hw6_3.ml" 42 1073 1102
+type(
+  tourna
+)
+"hw6-3/hw6_3.ml" 41 1014 1022 "hw6-3/hw6_3.ml" 42 1073 1102
+type(
+  tourna
+)
+"hw6-3/hw6_3.ml" 40 960 963 "hw6-3/hw6_3.ml" 42 1073 1102
+type(
+  tourna
+)
+"hw6-3/hw6_3.ml" 43 1103 1113 "hw6-3/hw6_3.ml" 43 1103 1114
+type(
+  team
+)
+ident(
+  def z "hw6-3/hw6_3.ml" 44 1134 1137 "hw6-3/hw6_3.ml" 45 1192 1236
+)
+"hw6-3/hw6_3.ml" 43 1103 1108 "hw6-3/hw6_3.ml" 43 1103 1114
+type(
+  tourna
+)
+"hw6-3/hw6_3.ml" 43 1103 1122 "hw6-3/hw6_3.ml" 43 1103 1123
+type(
+  tourna
+)
+ident(
+  def c "hw6-3/hw6_3.ml" 44 1134 1137 "hw6-3/hw6_3.ml" 45 1192 1236
+)
+"hw6-3/hw6_3.ml" 43 1103 1124 "hw6-3/hw6_3.ml" 43 1103 1125
+type(
+  tourna
+)
+ident(
+  def v "hw6-3/hw6_3.ml" 44 1134 1137 "hw6-3/hw6_3.ml" 45 1192 1236
+)
+"hw6-3/hw6_3.ml" 43 1103 1116 "hw6-3/hw6_3.ml" 43 1103 1126
+type(
+  tourna
+)
+"hw6-3/hw6_3.ml" 43 1103 1128 "hw6-3/hw6_3.ml" 43 1103 1129
+type(
+  team
+)
+ident(
+  def d "hw6-3/hw6_3.ml" 44 1134 1137 "hw6-3/hw6_3.ml" 45 1192 1236
+)
+"hw6-3/hw6_3.ml" 43 1103 1107 "hw6-3/hw6_3.ml" 43 1103 1130
+type(
+  tourna * tourna * team
+)
+"hw6-3/hw6_3.ml" 44 1134 1140 "hw6-3/hw6_3.ml" 44 1134 1154
+type(
+  team -> string
+)
+ident(
+  int_ref team_to_string "hw6-3/hw6_3.ml" 11 253 257 "hw6-3/hw6_3.ml" 11 253 271
+)
+"hw6-3/hw6_3.ml" 44 1134 1155 "hw6-3/hw6_3.ml" 44 1134 1156
+type(
+  team
+)
+ident(
+  int_ref z "hw6-3/hw6_3.ml" 43 1103 1113 "hw6-3/hw6_3.ml" 43 1103 1114
+)
+"hw6-3/hw6_3.ml" 44 1134 1140 "hw6-3/hw6_3.ml" 44 1134 1156
+type(
+  string
+)
+"hw6-3/hw6_3.ml" 44 1134 1157 "hw6-3/hw6_3.ml" 44 1134 1158
+type(
+  string -> string -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw6-3/hw6_3.ml" 44 1134 1159 "hw6-3/hw6_3.ml" 44 1134 1173
+type(
+  team -> string
+)
+ident(
+  int_ref team_to_string "hw6-3/hw6_3.ml" 11 253 257 "hw6-3/hw6_3.ml" 11 253 271
+)
+"hw6-3/hw6_3.ml" 44 1134 1174 "hw6-3/hw6_3.ml" 44 1134 1175
+type(
+  team
+)
+ident(
+  int_ref d "hw6-3/hw6_3.ml" 43 1103 1128 "hw6-3/hw6_3.ml" 43 1103 1129
+)
+"hw6-3/hw6_3.ml" 44 1134 1159 "hw6-3/hw6_3.ml" 44 1134 1175
+type(
+  string
+)
+"hw6-3/hw6_3.ml" 44 1134 1140 "hw6-3/hw6_3.ml" 44 1134 1175
+type(
+  bool
+)
+"hw6-3/hw6_3.ml" 44 1134 1187 "hw6-3/hw6_3.ml" 44 1134 1188
+type(
+  tourna
+)
+ident(
+  int_ref c "hw6-3/hw6_3.ml" 43 1103 1122 "hw6-3/hw6_3.ml" 43 1103 1123
+)
+"hw6-3/hw6_3.ml" 44 1134 1189 "hw6-3/hw6_3.ml" 44 1134 1190
+type(
+  tourna
+)
+ident(
+  int_ref v "hw6-3/hw6_3.ml" 43 1103 1124 "hw6-3/hw6_3.ml" 43 1103 1125
+)
+"hw6-3/hw6_3.ml" 44 1134 1181 "hw6-3/hw6_3.ml" 44 1134 1191
+type(
+  tourna
+)
+"hw6-3/hw6_3.ml" 45 1192 1211 "hw6-3/hw6_3.ml" 45 1192 1212
+type(
+  team
+)
+ident(
+  int_ref z "hw6-3/hw6_3.ml" 43 1103 1113 "hw6-3/hw6_3.ml" 43 1103 1114
+)
+"hw6-3/hw6_3.ml" 45 1192 1206 "hw6-3/hw6_3.ml" 45 1192 1212
+type(
+  tourna
+)
+"hw6-3/hw6_3.ml" 45 1192 1214 "hw6-3/hw6_3.ml" 45 1192 1220
+type(
+  tourna * team -> tourna
+)
+ident(
+  int_ref drop_h "hw6-3/hw6_3.ml" 34 794 802 "hw6-3/hw6_3.ml" 34 794 808
+)
+"hw6-3/hw6_3.ml" 45 1192 1227 "hw6-3/hw6_3.ml" 45 1192 1228
+type(
+  tourna
+)
+ident(
+  int_ref c "hw6-3/hw6_3.ml" 43 1103 1122 "hw6-3/hw6_3.ml" 43 1103 1123
+)
+"hw6-3/hw6_3.ml" 45 1192 1229 "hw6-3/hw6_3.ml" 45 1192 1230
+type(
+  tourna
+)
+ident(
+  int_ref v "hw6-3/hw6_3.ml" 43 1103 1124 "hw6-3/hw6_3.ml" 43 1103 1125
+)
+"hw6-3/hw6_3.ml" 45 1192 1222 "hw6-3/hw6_3.ml" 45 1192 1231
+type(
+  tourna
+)
+"hw6-3/hw6_3.ml" 45 1192 1233 "hw6-3/hw6_3.ml" 45 1192 1234
+type(
+  team
+)
+ident(
+  int_ref d "hw6-3/hw6_3.ml" 43 1103 1128 "hw6-3/hw6_3.ml" 43 1103 1129
+)
+"hw6-3/hw6_3.ml" 45 1192 1221 "hw6-3/hw6_3.ml" 45 1192 1235
+type(
+  tourna * team
+)
+"hw6-3/hw6_3.ml" 45 1192 1214 "hw6-3/hw6_3.ml" 45 1192 1235
+type(
+  tourna
+)
+"hw6-3/hw6_3.ml" 45 1192 1200 "hw6-3/hw6_3.ml" 45 1192 1236
+type(
+  tourna
+)
+"hw6-3/hw6_3.ml" 44 1134 1137 "hw6-3/hw6_3.ml" 45 1192 1236
+type(
+  tourna
+)
+"hw6-3/hw6_3.ml" 46 1237 1248 "hw6-3/hw6_3.ml" 46 1237 1249
+type(
+  tourna
+)
+ident(
+  def c "hw6-3/hw6_3.ml" 47 1268 1271 "hw6-3/hw6_3.ml" 48 1326 1370
+)
+"hw6-3/hw6_3.ml" 46 1237 1250 "hw6-3/hw6_3.ml" 46 1237 1251
+type(
+  tourna
+)
+ident(
+  def v "hw6-3/hw6_3.ml" 47 1268 1271 "hw6-3/hw6_3.ml" 48 1326 1370
+)
+"hw6-3/hw6_3.ml" 46 1237 1242 "hw6-3/hw6_3.ml" 46 1237 1252
+type(
+  tourna
+)
+"hw6-3/hw6_3.ml" 46 1237 1259 "hw6-3/hw6_3.ml" 46 1237 1260
+type(
+  team
+)
+ident(
+  def z "hw6-3/hw6_3.ml" 47 1268 1271 "hw6-3/hw6_3.ml" 48 1326 1370
+)
+"hw6-3/hw6_3.ml" 46 1237 1254 "hw6-3/hw6_3.ml" 46 1237 1260
+type(
+  tourna
+)
+"hw6-3/hw6_3.ml" 46 1237 1262 "hw6-3/hw6_3.ml" 46 1237 1263
+type(
+  team
+)
+ident(
+  def d "hw6-3/hw6_3.ml" 47 1268 1271 "hw6-3/hw6_3.ml" 48 1326 1370
+)
+"hw6-3/hw6_3.ml" 46 1237 1241 "hw6-3/hw6_3.ml" 46 1237 1264
+type(
+  tourna * tourna * team
+)
+"hw6-3/hw6_3.ml" 47 1268 1274 "hw6-3/hw6_3.ml" 47 1268 1288
+type(
+  team -> string
+)
+ident(
+  int_ref team_to_string "hw6-3/hw6_3.ml" 11 253 257 "hw6-3/hw6_3.ml" 11 253 271
+)
+"hw6-3/hw6_3.ml" 47 1268 1289 "hw6-3/hw6_3.ml" 47 1268 1290
+type(
+  team
+)
+ident(
+  int_ref z "hw6-3/hw6_3.ml" 46 1237 1259 "hw6-3/hw6_3.ml" 46 1237 1260
+)
+"hw6-3/hw6_3.ml" 47 1268 1274 "hw6-3/hw6_3.ml" 47 1268 1290
+type(
+  string
+)
+"hw6-3/hw6_3.ml" 47 1268 1291 "hw6-3/hw6_3.ml" 47 1268 1292
+type(
+  string -> string -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw6-3/hw6_3.ml" 47 1268 1293 "hw6-3/hw6_3.ml" 47 1268 1307
+type(
+  team -> string
+)
+ident(
+  int_ref team_to_string "hw6-3/hw6_3.ml" 11 253 257 "hw6-3/hw6_3.ml" 11 253 271
+)
+"hw6-3/hw6_3.ml" 47 1268 1308 "hw6-3/hw6_3.ml" 47 1268 1309
+type(
+  team
+)
+ident(
+  int_ref d "hw6-3/hw6_3.ml" 46 1237 1262 "hw6-3/hw6_3.ml" 46 1237 1263
+)
+"hw6-3/hw6_3.ml" 47 1268 1293 "hw6-3/hw6_3.ml" 47 1268 1309
+type(
+  string
+)
+"hw6-3/hw6_3.ml" 47 1268 1274 "hw6-3/hw6_3.ml" 47 1268 1309
+type(
+  bool
+)
+"hw6-3/hw6_3.ml" 47 1268 1321 "hw6-3/hw6_3.ml" 47 1268 1322
+type(
+  tourna
+)
+ident(
+  int_ref c "hw6-3/hw6_3.ml" 46 1237 1248 "hw6-3/hw6_3.ml" 46 1237 1249
+)
+"hw6-3/hw6_3.ml" 47 1268 1323 "hw6-3/hw6_3.ml" 47 1268 1324
+type(
+  tourna
+)
+ident(
+  int_ref v "hw6-3/hw6_3.ml" 46 1237 1250 "hw6-3/hw6_3.ml" 46 1237 1251
+)
+"hw6-3/hw6_3.ml" 47 1268 1315 "hw6-3/hw6_3.ml" 47 1268 1325
+type(
+  tourna
+)
+"hw6-3/hw6_3.ml" 48 1326 1340 "hw6-3/hw6_3.ml" 48 1326 1346
+type(
+  tourna * team -> tourna
+)
+ident(
+  int_ref drop_h "hw6-3/hw6_3.ml" 34 794 802 "hw6-3/hw6_3.ml" 34 794 808
+)
+"hw6-3/hw6_3.ml" 48 1326 1353 "hw6-3/hw6_3.ml" 48 1326 1354
+type(
+  tourna
+)
+ident(
+  int_ref c "hw6-3/hw6_3.ml" 46 1237 1248 "hw6-3/hw6_3.ml" 46 1237 1249
+)
+"hw6-3/hw6_3.ml" 48 1326 1355 "hw6-3/hw6_3.ml" 48 1326 1356
+type(
+  tourna
+)
+ident(
+  int_ref v "hw6-3/hw6_3.ml" 46 1237 1250 "hw6-3/hw6_3.ml" 46 1237 1251
+)
+"hw6-3/hw6_3.ml" 48 1326 1348 "hw6-3/hw6_3.ml" 48 1326 1357
+type(
+  tourna
+)
+"hw6-3/hw6_3.ml" 48 1326 1359 "hw6-3/hw6_3.ml" 48 1326 1360
+type(
+  team
+)
+ident(
+  int_ref d "hw6-3/hw6_3.ml" 46 1237 1262 "hw6-3/hw6_3.ml" 46 1237 1263
+)
+"hw6-3/hw6_3.ml" 48 1326 1347 "hw6-3/hw6_3.ml" 48 1326 1361
+type(
+  tourna * team
+)
+"hw6-3/hw6_3.ml" 48 1326 1340 "hw6-3/hw6_3.ml" 48 1326 1361
+type(
+  tourna
+)
+"hw6-3/hw6_3.ml" 48 1326 1368 "hw6-3/hw6_3.ml" 48 1326 1369
+type(
+  team
+)
+ident(
+  int_ref z "hw6-3/hw6_3.ml" 46 1237 1259 "hw6-3/hw6_3.ml" 46 1237 1260
+)
+"hw6-3/hw6_3.ml" 48 1326 1363 "hw6-3/hw6_3.ml" 48 1326 1369
+type(
+  tourna
+)
+"hw6-3/hw6_3.ml" 48 1326 1334 "hw6-3/hw6_3.ml" 48 1326 1370
+type(
+  tourna
+)
+"hw6-3/hw6_3.ml" 47 1268 1271 "hw6-3/hw6_3.ml" 48 1326 1370
+type(
+  tourna
+)
+"hw6-3/hw6_3.ml" 49 1371 1382 "hw6-3/hw6_3.ml" 49 1371 1383
+type(
+  tourna
+)
+ident(
+  def c "hw6-3/hw6_3.ml" 50 1406 1409 "hw6-3/hw6_3.ml" 50 1406 1460
+)
+"hw6-3/hw6_3.ml" 49 1371 1384 "hw6-3/hw6_3.ml" 49 1371 1385
+type(
+  tourna
+)
+ident(
+  def v "hw6-3/hw6_3.ml" 50 1406 1409 "hw6-3/hw6_3.ml" 50 1406 1460
+)
+"hw6-3/hw6_3.ml" 49 1371 1376 "hw6-3/hw6_3.ml" 49 1371 1386
+type(
+  tourna
+)
+"hw6-3/hw6_3.ml" 49 1371 1394 "hw6-3/hw6_3.ml" 49 1371 1395
+type(
+  tourna
+)
+ident(
+  def b "hw6-3/hw6_3.ml" 50 1406 1409 "hw6-3/hw6_3.ml" 50 1406 1460
+)
+"hw6-3/hw6_3.ml" 49 1371 1396 "hw6-3/hw6_3.ml" 49 1371 1397
+type(
+  tourna
+)
+ident(
+  def n "hw6-3/hw6_3.ml" 50 1406 1409 "hw6-3/hw6_3.ml" 50 1406 1460
+)
+"hw6-3/hw6_3.ml" 49 1371 1388 "hw6-3/hw6_3.ml" 49 1371 1398
+type(
+  tourna
+)
+"hw6-3/hw6_3.ml" 49 1371 1400 "hw6-3/hw6_3.ml" 49 1371 1401
+type(
+  team
+)
+ident(
+  def d "hw6-3/hw6_3.ml" 50 1406 1409 "hw6-3/hw6_3.ml" 50 1406 1460
+)
+"hw6-3/hw6_3.ml" 49 1371 1375 "hw6-3/hw6_3.ml" 49 1371 1402
+type(
+  tourna * tourna * team
+)
+"hw6-3/hw6_3.ml" 50 1406 1415 "hw6-3/hw6_3.ml" 50 1406 1421
+type(
+  tourna * team -> tourna
+)
+ident(
+  int_ref drop_h "hw6-3/hw6_3.ml" 34 794 802 "hw6-3/hw6_3.ml" 34 794 808
+)
+"hw6-3/hw6_3.ml" 50 1406 1428 "hw6-3/hw6_3.ml" 50 1406 1429
+type(
+  tourna
+)
+ident(
+  int_ref c "hw6-3/hw6_3.ml" 49 1371 1382 "hw6-3/hw6_3.ml" 49 1371 1383
+)
+"hw6-3/hw6_3.ml" 50 1406 1430 "hw6-3/hw6_3.ml" 50 1406 1431
+type(
+  tourna
+)
+ident(
+  int_ref v "hw6-3/hw6_3.ml" 49 1371 1384 "hw6-3/hw6_3.ml" 49 1371 1385
+)
+"hw6-3/hw6_3.ml" 50 1406 1423 "hw6-3/hw6_3.ml" 50 1406 1432
+type(
+  tourna
+)
+"hw6-3/hw6_3.ml" 50 1406 1434 "hw6-3/hw6_3.ml" 50 1406 1435
+type(
+  team
+)
+ident(
+  int_ref d "hw6-3/hw6_3.ml" 49 1371 1400 "hw6-3/hw6_3.ml" 49 1371 1401
+)
+"hw6-3/hw6_3.ml" 50 1406 1422 "hw6-3/hw6_3.ml" 50 1406 1436
+type(
+  tourna * team
+)
+"hw6-3/hw6_3.ml" 50 1406 1415 "hw6-3/hw6_3.ml" 50 1406 1436
+type(
+  tourna
+)
+"hw6-3/hw6_3.ml" 50 1406 1438 "hw6-3/hw6_3.ml" 50 1406 1444
+type(
+  tourna * team -> tourna
+)
+ident(
+  int_ref drop_h "hw6-3/hw6_3.ml" 34 794 802 "hw6-3/hw6_3.ml" 34 794 808
+)
+"hw6-3/hw6_3.ml" 50 1406 1451 "hw6-3/hw6_3.ml" 50 1406 1452
+type(
+  tourna
+)
+ident(
+  int_ref b "hw6-3/hw6_3.ml" 49 1371 1394 "hw6-3/hw6_3.ml" 49 1371 1395
+)
+"hw6-3/hw6_3.ml" 50 1406 1453 "hw6-3/hw6_3.ml" 50 1406 1454
+type(
+  tourna
+)
+ident(
+  int_ref n "hw6-3/hw6_3.ml" 49 1371 1396 "hw6-3/hw6_3.ml" 49 1371 1397
+)
+"hw6-3/hw6_3.ml" 50 1406 1446 "hw6-3/hw6_3.ml" 50 1406 1455
+type(
+  tourna
+)
+"hw6-3/hw6_3.ml" 50 1406 1457 "hw6-3/hw6_3.ml" 50 1406 1458
+type(
+  team
+)
+ident(
+  int_ref d "hw6-3/hw6_3.ml" 49 1371 1400 "hw6-3/hw6_3.ml" 49 1371 1401
+)
+"hw6-3/hw6_3.ml" 50 1406 1445 "hw6-3/hw6_3.ml" 50 1406 1459
+type(
+  tourna * team
+)
+"hw6-3/hw6_3.ml" 50 1406 1438 "hw6-3/hw6_3.ml" 50 1406 1459
+type(
+  tourna
+)
+"hw6-3/hw6_3.ml" 50 1406 1409 "hw6-3/hw6_3.ml" 50 1406 1460
+type(
+  tourna
+)
+"hw6-3/hw6_3.ml" 38 911 913 "hw6-3/hw6_3.ml" 50 1406 1461
+type(
+  tourna
+)
+"hw6-3/hw6_3.ml" 35 844 845 "hw6-3/hw6_3.ml" 50 1406 1461
+type(
+  tourna
+)
+type(
+  tourna
+)
+"hw6-3/hw6_3.ml" 53 1466 1474 "hw6-3/hw6_3.ml" 53 1466 1478
+type(
+  tourna -> team -> string
+)
+ident(
+  def drop "hw6-3/hw6_3.ml" 53 1466 1466 "hw6-3/hw6_3.ml" 1 0 -1
+)
+"hw6-3/hw6_3.ml" 53 1466 1480 "hw6-3/hw6_3.ml" 53 1466 1481
+type(
+  tourna
+)
+ident(
+  def t "hw6-3/hw6_3.ml" 53 1466 1491 "hw6-3/hw6_3.ml" 58 1621 1676
+)
+"hw6-3/hw6_3.ml" 53 1466 1492 "hw6-3/hw6_3.ml" 53 1466 1493
+type(
+  team
+)
+ident(
+  def d "hw6-3/hw6_3.ml" 53 1466 1500 "hw6-3/hw6_3.ml" 58 1621 1676
+)
+"hw6-3/hw6_3.ml" 54 1511 1519 "hw6-3/hw6_3.ml" 54 1511 1520
+type(
+  tourna
+)
+ident(
+  int_ref t "hw6-3/hw6_3.ml" 53 1466 1480 "hw6-3/hw6_3.ml" 53 1466 1481
+)
+"hw6-3/hw6_3.ml" 54 1511 1522 "hw6-3/hw6_3.ml" 54 1511 1523
+type(
+  team
+)
+ident(
+  int_ref d "hw6-3/hw6_3.ml" 53 1466 1492 "hw6-3/hw6_3.ml" 53 1466 1493
+)
+"hw6-3/hw6_3.ml" 54 1511 1518 "hw6-3/hw6_3.ml" 54 1511 1524
+type(
+  tourna * team
+)
+"hw6-3/hw6_3.ml" 55 1530 1539 "hw6-3/hw6_3.ml" 55 1530 1540
+type(
+  team
+)
+ident(
+  def a "hw6-3/hw6_3.ml" 56 1548 1550 "hw6-3/hw6_3.ml" 57 1597 1620
+)
+"hw6-3/hw6_3.ml" 55 1530 1534 "hw6-3/hw6_3.ml" 55 1530 1540
+type(
+  tourna
+)
+"hw6-3/hw6_3.ml" 55 1530 1542 "hw6-3/hw6_3.ml" 55 1530 1543
+type(
+  team
+)
+ident(
+  def d "hw6-3/hw6_3.ml" 56 1548 1550 "hw6-3/hw6_3.ml" 57 1597 1620
+)
+"hw6-3/hw6_3.ml" 55 1530 1533 "hw6-3/hw6_3.ml" 55 1530 1544
+type(
+  tourna * team
+)
+"hw6-3/hw6_3.ml" 56 1548 1553 "hw6-3/hw6_3.ml" 56 1548 1567
+type(
+  team -> string
+)
+ident(
+  int_ref team_to_string "hw6-3/hw6_3.ml" 11 253 257 "hw6-3/hw6_3.ml" 11 253 271
+)
+"hw6-3/hw6_3.ml" 56 1548 1568 "hw6-3/hw6_3.ml" 56 1548 1569
+type(
+  team
+)
+ident(
+  int_ref a "hw6-3/hw6_3.ml" 55 1530 1539 "hw6-3/hw6_3.ml" 55 1530 1540
+)
+"hw6-3/hw6_3.ml" 56 1548 1553 "hw6-3/hw6_3.ml" 56 1548 1569
+type(
+  string
+)
+"hw6-3/hw6_3.ml" 56 1548 1570 "hw6-3/hw6_3.ml" 56 1548 1571
+type(
+  string -> string -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw6-3/hw6_3.ml" 56 1548 1572 "hw6-3/hw6_3.ml" 56 1548 1586
+type(
+  team -> string
+)
+ident(
+  int_ref team_to_string "hw6-3/hw6_3.ml" 11 253 257 "hw6-3/hw6_3.ml" 11 253 271
+)
+"hw6-3/hw6_3.ml" 56 1548 1587 "hw6-3/hw6_3.ml" 56 1548 1588
+type(
+  team
+)
+ident(
+  int_ref d "hw6-3/hw6_3.ml" 55 1530 1542 "hw6-3/hw6_3.ml" 55 1530 1543
+)
+"hw6-3/hw6_3.ml" 56 1548 1572 "hw6-3/hw6_3.ml" 56 1548 1588
+type(
+  string
+)
+"hw6-3/hw6_3.ml" 56 1548 1553 "hw6-3/hw6_3.ml" 56 1548 1588
+type(
+  bool
+)
+"hw6-3/hw6_3.ml" 56 1548 1594 "hw6-3/hw6_3.ml" 56 1548 1596
+type(
+  string
+)
+"hw6-3/hw6_3.ml" 57 1597 1604 "hw6-3/hw6_3.ml" 57 1597 1618
+type(
+  team -> string
+)
+ident(
+  int_ref team_to_string "hw6-3/hw6_3.ml" 11 253 257 "hw6-3/hw6_3.ml" 11 253 271
+)
+"hw6-3/hw6_3.ml" 57 1597 1619 "hw6-3/hw6_3.ml" 57 1597 1620
+type(
+  team
+)
+ident(
+  int_ref a "hw6-3/hw6_3.ml" 55 1530 1539 "hw6-3/hw6_3.ml" 55 1530 1540
+)
+"hw6-3/hw6_3.ml" 57 1597 1604 "hw6-3/hw6_3.ml" 57 1597 1620
+type(
+  string
+)
+"hw6-3/hw6_3.ml" 56 1548 1550 "hw6-3/hw6_3.ml" 57 1597 1620
+type(
+  string
+)
+"hw6-3/hw6_3.ml" 58 1621 1631 "hw6-3/hw6_3.ml" 58 1621 1632
+type(
+  tourna
+)
+ident(
+  def a "hw6-3/hw6_3.ml" 58 1621 1643 "hw6-3/hw6_3.ml" 58 1621 1676
+)
+"hw6-3/hw6_3.ml" 58 1621 1633 "hw6-3/hw6_3.ml" 58 1621 1634
+type(
+  tourna
+)
+ident(
+  def b "hw6-3/hw6_3.ml" 58 1621 1643 "hw6-3/hw6_3.ml" 58 1621 1676
+)
+"hw6-3/hw6_3.ml" 58 1621 1625 "hw6-3/hw6_3.ml" 58 1621 1635
+type(
+  tourna
+)
+"hw6-3/hw6_3.ml" 58 1621 1637 "hw6-3/hw6_3.ml" 58 1621 1638
+type(
+  team
+)
+ident(
+  def d "hw6-3/hw6_3.ml" 58 1621 1643 "hw6-3/hw6_3.ml" 58 1621 1676
+)
+"hw6-3/hw6_3.ml" 58 1621 1624 "hw6-3/hw6_3.ml" 58 1621 1639
+type(
+  tourna * team
+)
+"hw6-3/hw6_3.ml" 58 1621 1643 "hw6-3/hw6_3.ml" 58 1621 1651
+type(
+  tourna -> string
+)
+ident(
+  int_ref parenize "hw6-3/hw6_3.ml" 29 646 654 "hw6-3/hw6_3.ml" 29 646 662
+)
+"hw6-3/hw6_3.ml" 58 1621 1653 "hw6-3/hw6_3.ml" 58 1621 1659
+type(
+  tourna * team -> tourna
+)
+ident(
+  int_ref drop_h "hw6-3/hw6_3.ml" 34 794 802 "hw6-3/hw6_3.ml" 34 794 808
+)
+"hw6-3/hw6_3.ml" 58 1621 1667 "hw6-3/hw6_3.ml" 58 1621 1668
+type(
+  tourna
+)
+ident(
+  int_ref a "hw6-3/hw6_3.ml" 58 1621 1631 "hw6-3/hw6_3.ml" 58 1621 1632
+)
+"hw6-3/hw6_3.ml" 58 1621 1669 "hw6-3/hw6_3.ml" 58 1621 1670
+type(
+  tourna
+)
+ident(
+  int_ref b "hw6-3/hw6_3.ml" 58 1621 1633 "hw6-3/hw6_3.ml" 58 1621 1634
+)
+"hw6-3/hw6_3.ml" 58 1621 1661 "hw6-3/hw6_3.ml" 58 1621 1671
+type(
+  tourna
+)
+"hw6-3/hw6_3.ml" 58 1621 1673 "hw6-3/hw6_3.ml" 58 1621 1674
+type(
+  team
+)
+ident(
+  int_ref d "hw6-3/hw6_3.ml" 58 1621 1637 "hw6-3/hw6_3.ml" 58 1621 1638
+)
+"hw6-3/hw6_3.ml" 58 1621 1660 "hw6-3/hw6_3.ml" 58 1621 1675
+type(
+  tourna * team
+)
+"hw6-3/hw6_3.ml" 58 1621 1652 "hw6-3/hw6_3.ml" 58 1621 1676
+type(
+  tourna
+)
+"hw6-3/hw6_3.ml" 58 1621 1643 "hw6-3/hw6_3.ml" 58 1621 1676
+type(
+  string
+)
+"hw6-3/hw6_3.ml" 54 1511 1513 "hw6-3/hw6_3.ml" 58 1621 1676
+type(
+  string
+)
+type(
+  string
+)

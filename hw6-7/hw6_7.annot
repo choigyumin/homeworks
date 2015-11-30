@@ -1,0 +1,1050 @@
+"hw6-7/hw6_7.ml" 19 248 256 "hw6-7/hw6_7.ml" 19 248 262
+type(
+  pgm -> state -> state list
+)
+ident(
+  def exeval "hw6-7/hw6_7.ml" 19 248 248 "hw6-7/hw6_7.ml" 1 0 -1
+)
+"hw6-7/hw6_7.ml" 19 248 264 "hw6-7/hw6_7.ml" 19 248 265
+type(
+  pgm
+)
+ident(
+  def p "hw6-7/hw6_7.ml" 19 248 271 "hw6-7/hw6_7.ml" 51 1179 1188
+)
+"hw6-7/hw6_7.ml" 19 248 272 "hw6-7/hw6_7.ml" 19 248 274
+type(
+  state
+)
+ident(
+  def st "hw6-7/hw6_7.ml" 19 248 281 "hw6-7/hw6_7.ml" 51 1179 1188
+)
+"hw6-7/hw6_7.ml" 20 296 305 "hw6-7/hw6_7.ml" 20 296 309
+type(
+  exp -> int
+)
+ident(
+  def calc "hw6-7/hw6_7.ml" 20 296 297 "hw6-7/hw6_7.ml" 51 1179 1188
+)
+"hw6-7/hw6_7.ml" 20 296 311 "hw6-7/hw6_7.ml" 20 296 312
+type(
+  exp
+)
+ident(
+  def e "hw6-7/hw6_7.ml" 20 296 317 "hw6-7/hw6_7.ml" 25 431 445
+)
+"hw6-7/hw6_7.ml" 21 324 332 "hw6-7/hw6_7.ml" 21 324 333
+type(
+  exp
+)
+ident(
+  int_ref e "hw6-7/hw6_7.ml" 20 296 311 "hw6-7/hw6_7.ml" 20 296 312
+)
+"hw6-7/hw6_7.ml" 22 339 348 "hw6-7/hw6_7.ml" 22 339 349
+type(
+  int
+)
+ident(
+  def a "hw6-7/hw6_7.ml" 22 339 353 "hw6-7/hw6_7.ml" 22 339 354
+)
+"hw6-7/hw6_7.ml" 22 339 344 "hw6-7/hw6_7.ml" 22 339 349
+type(
+  exp
+)
+"hw6-7/hw6_7.ml" 22 339 353 "hw6-7/hw6_7.ml" 22 339 354
+type(
+  int
+)
+ident(
+  int_ref a "hw6-7/hw6_7.ml" 22 339 348 "hw6-7/hw6_7.ml" 22 339 349
+)
+"hw6-7/hw6_7.ml" 23 355 365 "hw6-7/hw6_7.ml" 23 355 366
+type(
+  exp
+)
+ident(
+  def a "hw6-7/hw6_7.ml" 23 355 373 "hw6-7/hw6_7.ml" 23 355 392
+)
+"hw6-7/hw6_7.ml" 23 355 367 "hw6-7/hw6_7.ml" 23 355 368
+type(
+  exp
+)
+ident(
+  def b "hw6-7/hw6_7.ml" 23 355 373 "hw6-7/hw6_7.ml" 23 355 392
+)
+"hw6-7/hw6_7.ml" 23 355 360 "hw6-7/hw6_7.ml" 23 355 369
+type(
+  exp
+)
+"hw6-7/hw6_7.ml" 23 355 374 "hw6-7/hw6_7.ml" 23 355 378
+type(
+  exp -> int
+)
+ident(
+  int_ref calc "hw6-7/hw6_7.ml" 20 296 305 "hw6-7/hw6_7.ml" 20 296 309
+)
+"hw6-7/hw6_7.ml" 23 355 379 "hw6-7/hw6_7.ml" 23 355 380
+type(
+  exp
+)
+ident(
+  int_ref a "hw6-7/hw6_7.ml" 23 355 365 "hw6-7/hw6_7.ml" 23 355 366
+)
+"hw6-7/hw6_7.ml" 23 355 373 "hw6-7/hw6_7.ml" 23 355 381
+type(
+  int
+)
+"hw6-7/hw6_7.ml" 23 355 382 "hw6-7/hw6_7.ml" 23 355 383
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"hw6-7/hw6_7.ml" 23 355 385 "hw6-7/hw6_7.ml" 23 355 389
+type(
+  exp -> int
+)
+ident(
+  int_ref calc "hw6-7/hw6_7.ml" 20 296 305 "hw6-7/hw6_7.ml" 20 296 309
+)
+"hw6-7/hw6_7.ml" 23 355 390 "hw6-7/hw6_7.ml" 23 355 391
+type(
+  exp
+)
+ident(
+  int_ref b "hw6-7/hw6_7.ml" 23 355 367 "hw6-7/hw6_7.ml" 23 355 368
+)
+"hw6-7/hw6_7.ml" 23 355 384 "hw6-7/hw6_7.ml" 23 355 392
+type(
+  int
+)
+"hw6-7/hw6_7.ml" 23 355 373 "hw6-7/hw6_7.ml" 23 355 392
+type(
+  int
+)
+"hw6-7/hw6_7.ml" 24 393 403 "hw6-7/hw6_7.ml" 24 393 404
+type(
+  exp
+)
+ident(
+  def a "hw6-7/hw6_7.ml" 24 393 411 "hw6-7/hw6_7.ml" 24 393 430
+)
+"hw6-7/hw6_7.ml" 24 393 405 "hw6-7/hw6_7.ml" 24 393 406
+type(
+  exp
+)
+ident(
+  def b "hw6-7/hw6_7.ml" 24 393 411 "hw6-7/hw6_7.ml" 24 393 430
+)
+"hw6-7/hw6_7.ml" 24 393 398 "hw6-7/hw6_7.ml" 24 393 407
+type(
+  exp
+)
+"hw6-7/hw6_7.ml" 24 393 412 "hw6-7/hw6_7.ml" 24 393 416
+type(
+  exp -> int
+)
+ident(
+  int_ref calc "hw6-7/hw6_7.ml" 20 296 305 "hw6-7/hw6_7.ml" 20 296 309
+)
+"hw6-7/hw6_7.ml" 24 393 417 "hw6-7/hw6_7.ml" 24 393 418
+type(
+  exp
+)
+ident(
+  int_ref a "hw6-7/hw6_7.ml" 24 393 403 "hw6-7/hw6_7.ml" 24 393 404
+)
+"hw6-7/hw6_7.ml" 24 393 411 "hw6-7/hw6_7.ml" 24 393 419
+type(
+  int
+)
+"hw6-7/hw6_7.ml" 24 393 420 "hw6-7/hw6_7.ml" 24 393 421
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"hw6-7/hw6_7.ml" 24 393 423 "hw6-7/hw6_7.ml" 24 393 427
+type(
+  exp -> int
+)
+ident(
+  int_ref calc "hw6-7/hw6_7.ml" 20 296 305 "hw6-7/hw6_7.ml" 20 296 309
+)
+"hw6-7/hw6_7.ml" 24 393 428 "hw6-7/hw6_7.ml" 24 393 429
+type(
+  exp
+)
+ident(
+  int_ref b "hw6-7/hw6_7.ml" 24 393 405 "hw6-7/hw6_7.ml" 24 393 406
+)
+"hw6-7/hw6_7.ml" 24 393 422 "hw6-7/hw6_7.ml" 24 393 430
+type(
+  int
+)
+"hw6-7/hw6_7.ml" 24 393 411 "hw6-7/hw6_7.ml" 24 393 430
+type(
+  int
+)
+"hw6-7/hw6_7.ml" 25 431 436 "hw6-7/hw6_7.ml" 25 431 439
+type(
+  exp
+)
+"hw6-7/hw6_7.ml" 25 431 443 "hw6-7/hw6_7.ml" 25 431 445
+type(
+  state
+)
+ident(
+  int_ref st "hw6-7/hw6_7.ml" 19 248 272 "hw6-7/hw6_7.ml" 19 248 274
+)
+"hw6-7/hw6_7.ml" 21 324 326 "hw6-7/hw6_7.ml" 25 431 445
+type(
+  int
+)
+type(
+  int
+)
+"hw6-7/hw6_7.ml" 27 451 460 "hw6-7/hw6_7.ml" 27 451 467
+type(
+  state list -> pgm -> state list
+)
+ident(
+  def seqeval "hw6-7/hw6_7.ml" 27 451 452 "hw6-7/hw6_7.ml" 51 1179 1188
+)
+"hw6-7/hw6_7.ml" 27 451 469 "hw6-7/hw6_7.ml" 27 451 470
+type(
+  state list
+)
+ident(
+  def p "hw6-7/hw6_7.ml" 27 451 483 "hw6-7/hw6_7.ml" 30 533 613
+)
+"hw6-7/hw6_7.ml" 27 451 484 "hw6-7/hw6_7.ml" 27 451 485
+type(
+  pgm
+)
+ident(
+  def q "hw6-7/hw6_7.ml" 27 451 490 "hw6-7/hw6_7.ml" 30 533 613
+)
+"hw6-7/hw6_7.ml" 28 504 512 "hw6-7/hw6_7.ml" 28 504 513
+type(
+  state list
+)
+ident(
+  int_ref p "hw6-7/hw6_7.ml" 27 451 469 "hw6-7/hw6_7.ml" 27 451 470
+)
+"hw6-7/hw6_7.ml" 29 519 524 "hw6-7/hw6_7.ml" 29 519 526
+type(
+  state list
+)
+"hw6-7/hw6_7.ml" 29 519 530 "hw6-7/hw6_7.ml" 29 519 532
+type(
+  state list
+)
+"hw6-7/hw6_7.ml" 30 533 538 "hw6-7/hw6_7.ml" 30 533 540
+type(
+  state
+)
+ident(
+  def hd "hw6-7/hw6_7.ml" 30 533 548 "hw6-7/hw6_7.ml" 30 533 613
+)
+"hw6-7/hw6_7.ml" 30 533 542 "hw6-7/hw6_7.ml" 30 533 544
+type(
+  state list
+)
+ident(
+  def tl "hw6-7/hw6_7.ml" 30 533 548 "hw6-7/hw6_7.ml" 30 533 613
+)
+"hw6-7/hw6_7.ml" 30 533 538 "hw6-7/hw6_7.ml" 30 533 544
+type(
+  state list
+)
+"hw6-7/hw6_7.ml" 30 533 548 "hw6-7/hw6_7.ml" 30 533 562
+type(
+  (state -> state -> int) -> state list -> state list
+)
+ident(
+  ext_ref List.sort_uniq
+)
+"hw6-7/hw6_7.ml" 30 533 563 "hw6-7/hw6_7.ml" 30 533 570
+type(
+  state -> state -> int
+)
+ident(
+  ext_ref Pervasives.compare
+)
+"hw6-7/hw6_7.ml" 30 533 572 "hw6-7/hw6_7.ml" 30 533 583
+type(
+  state list -> state list -> state list
+)
+ident(
+  ext_ref List.append
+)
+"hw6-7/hw6_7.ml" 30 533 585 "hw6-7/hw6_7.ml" 30 533 591
+type(
+  pgm -> state -> state list
+)
+ident(
+  int_ref exeval "hw6-7/hw6_7.ml" 19 248 256 "hw6-7/hw6_7.ml" 19 248 262
+)
+"hw6-7/hw6_7.ml" 30 533 592 "hw6-7/hw6_7.ml" 30 533 593
+type(
+  pgm
+)
+ident(
+  int_ref q "hw6-7/hw6_7.ml" 27 451 484 "hw6-7/hw6_7.ml" 27 451 485
+)
+"hw6-7/hw6_7.ml" 30 533 594 "hw6-7/hw6_7.ml" 30 533 596
+type(
+  state
+)
+ident(
+  int_ref hd "hw6-7/hw6_7.ml" 30 533 538 "hw6-7/hw6_7.ml" 30 533 540
+)
+"hw6-7/hw6_7.ml" 30 533 584 "hw6-7/hw6_7.ml" 30 533 597
+type(
+  state list
+)
+"hw6-7/hw6_7.ml" 30 533 599 "hw6-7/hw6_7.ml" 30 533 606
+type(
+  state list -> pgm -> state list
+)
+ident(
+  int_ref seqeval "hw6-7/hw6_7.ml" 27 451 460 "hw6-7/hw6_7.ml" 27 451 467
+)
+"hw6-7/hw6_7.ml" 30 533 607 "hw6-7/hw6_7.ml" 30 533 609
+type(
+  state list
+)
+ident(
+  int_ref tl "hw6-7/hw6_7.ml" 30 533 542 "hw6-7/hw6_7.ml" 30 533 544
+)
+"hw6-7/hw6_7.ml" 30 533 610 "hw6-7/hw6_7.ml" 30 533 611
+type(
+  pgm
+)
+ident(
+  int_ref q "hw6-7/hw6_7.ml" 27 451 484 "hw6-7/hw6_7.ml" 27 451 485
+)
+"hw6-7/hw6_7.ml" 30 533 598 "hw6-7/hw6_7.ml" 30 533 612
+type(
+  state list
+)
+"hw6-7/hw6_7.ml" 30 533 571 "hw6-7/hw6_7.ml" 30 533 613
+type(
+  state list
+)
+"hw6-7/hw6_7.ml" 30 533 548 "hw6-7/hw6_7.ml" 30 533 613
+type(
+  state list
+)
+"hw6-7/hw6_7.ml" 28 504 506 "hw6-7/hw6_7.ml" 30 533 613
+type(
+  state list
+)
+type(
+  state list
+)
+"hw6-7/hw6_7.ml" 32 619 626 "hw6-7/hw6_7.ml" 32 619 628
+type(
+  state
+)
+ident(
+  int_ref st "hw6-7/hw6_7.ml" 19 248 272 "hw6-7/hw6_7.ml" 19 248 274
+)
+"hw6-7/hw6_7.ml" 33 634 637 "hw6-7/hw6_7.ml" 33 634 639
+type(
+  state
+)
+ident(
+  def st "hw6-7/hw6_7.ml" 34 643 645 "hw6-7/hw6_7.ml" 51 1179 1188
+)
+"hw6-7/hw6_7.ml" 34 643 649 "hw6-7/hw6_7.ml" 34 643 651
+type(
+  state
+)
+ident(
+  int_ref st "hw6-7/hw6_7.ml" 33 634 637 "hw6-7/hw6_7.ml" 33 634 639
+)
+"hw6-7/hw6_7.ml" 34 643 652 "hw6-7/hw6_7.ml" 34 643 654
+type(
+  state -> state -> bool
+)
+ident(
+  ext_ref Pervasives.( >= )
+)
+"hw6-7/hw6_7.ml" 34 643 655 "hw6-7/hw6_7.ml" 34 643 657
+type(
+  state
+)
+"hw6-7/hw6_7.ml" 34 643 648 "hw6-7/hw6_7.ml" 34 643 658
+type(
+  bool
+)
+"hw6-7/hw6_7.ml" 34 643 659 "hw6-7/hw6_7.ml" 34 643 661
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( && )
+)
+"hw6-7/hw6_7.ml" 35 662 665 "hw6-7/hw6_7.ml" 35 662 667
+type(
+  state
+)
+ident(
+  int_ref st "hw6-7/hw6_7.ml" 33 634 637 "hw6-7/hw6_7.ml" 33 634 639
+)
+"hw6-7/hw6_7.ml" 35 662 668 "hw6-7/hw6_7.ml" 35 662 670
+type(
+  state -> state -> bool
+)
+ident(
+  ext_ref Pervasives.( <= )
+)
+"hw6-7/hw6_7.ml" 35 662 671 "hw6-7/hw6_7.ml" 35 662 672
+type(
+  state
+)
+"hw6-7/hw6_7.ml" 35 662 664 "hw6-7/hw6_7.ml" 35 662 673
+type(
+  bool
+)
+"hw6-7/hw6_7.ml" 34 643 648 "hw6-7/hw6_7.ml" 35 662 673
+type(
+  bool
+)
+"hw6-7/hw6_7.ml" 36 680 689 "hw6-7/hw6_7.ml" 36 680 690
+type(
+  pgm
+)
+ident(
+  int_ref p "hw6-7/hw6_7.ml" 19 248 264 "hw6-7/hw6_7.ml" 19 248 265
+)
+"hw6-7/hw6_7.ml" 37 696 707 "hw6-7/hw6_7.ml" 37 696 708
+type(
+  exp
+)
+ident(
+  def a "hw6-7/hw6_7.ml" 37 696 712 "hw6-7/hw6_7.ml" 37 696 722
+)
+"hw6-7/hw6_7.ml" 37 696 700 "hw6-7/hw6_7.ml" 37 696 708
+type(
+  pgm
+)
+"hw6-7/hw6_7.ml" 37 696 714 "hw6-7/hw6_7.ml" 37 696 718
+type(
+  exp -> state
+)
+ident(
+  int_ref calc "hw6-7/hw6_7.ml" 20 296 305 "hw6-7/hw6_7.ml" 20 296 309
+)
+"hw6-7/hw6_7.ml" 37 696 719 "hw6-7/hw6_7.ml" 37 696 720
+type(
+  exp
+)
+ident(
+  int_ref a "hw6-7/hw6_7.ml" 37 696 707 "hw6-7/hw6_7.ml" 37 696 708
+)
+"hw6-7/hw6_7.ml" 37 696 713 "hw6-7/hw6_7.ml" 37 696 721
+type(
+  state
+)
+"hw6-7/hw6_7.ml" 37 696 712 "hw6-7/hw6_7.ml" 37 696 722
+type(
+  state list
+)
+"hw6-7/hw6_7.ml" 38 723 737 "hw6-7/hw6_7.ml" 38 723 738
+type(
+  cmd
+)
+ident(
+  def a "hw6-7/hw6_7.ml" 39 745 748 "hw6-7/hw6_7.ml" 39 745 771
+)
+"hw6-7/hw6_7.ml" 38 723 739 "hw6-7/hw6_7.ml" 38 723 740
+type(
+  cmd
+)
+ident(
+  def b "hw6-7/hw6_7.ml" 39 745 748 "hw6-7/hw6_7.ml" 39 745 771
+)
+"hw6-7/hw6_7.ml" 38 723 727 "hw6-7/hw6_7.ml" 38 723 741
+type(
+  pgm
+)
+"hw6-7/hw6_7.ml" 39 745 748 "hw6-7/hw6_7.ml" 39 745 755
+type(
+  state list -> pgm -> state list
+)
+ident(
+  int_ref seqeval "hw6-7/hw6_7.ml" 27 451 460 "hw6-7/hw6_7.ml" 27 451 467
+)
+"hw6-7/hw6_7.ml" 39 745 757 "hw6-7/hw6_7.ml" 39 745 763
+type(
+  pgm -> state -> state list
+)
+ident(
+  int_ref exeval "hw6-7/hw6_7.ml" 19 248 256 "hw6-7/hw6_7.ml" 19 248 262
+)
+"hw6-7/hw6_7.ml" 39 745 764 "hw6-7/hw6_7.ml" 39 745 765
+type(
+  pgm
+)
+ident(
+  int_ref a "hw6-7/hw6_7.ml" 38 723 737 "hw6-7/hw6_7.ml" 38 723 738
+)
+"hw6-7/hw6_7.ml" 39 745 766 "hw6-7/hw6_7.ml" 39 745 768
+type(
+  state
+)
+ident(
+  int_ref st "hw6-7/hw6_7.ml" 33 634 637 "hw6-7/hw6_7.ml" 33 634 639
+)
+"hw6-7/hw6_7.ml" 39 745 756 "hw6-7/hw6_7.ml" 39 745 769
+type(
+  state list
+)
+"hw6-7/hw6_7.ml" 39 745 770 "hw6-7/hw6_7.ml" 39 745 771
+type(
+  pgm
+)
+ident(
+  int_ref b "hw6-7/hw6_7.ml" 38 723 739 "hw6-7/hw6_7.ml" 38 723 740
+)
+"hw6-7/hw6_7.ml" 39 745 748 "hw6-7/hw6_7.ml" 39 745 771
+type(
+  state list
+)
+"hw6-7/hw6_7.ml" 40 772 783 "hw6-7/hw6_7.ml" 40 772 784
+type(
+  cmd
+)
+ident(
+  def a "hw6-7/hw6_7.ml" 41 789 792 "hw6-7/hw6_7.ml" 42 868 952
+)
+"hw6-7/hw6_7.ml" 40 772 776 "hw6-7/hw6_7.ml" 40 772 784
+type(
+  pgm
+)
+"hw6-7/hw6_7.ml" 41 789 796 "hw6-7/hw6_7.ml" 41 789 802
+type(
+  pgm -> state -> state list
+)
+ident(
+  int_ref exeval "hw6-7/hw6_7.ml" 19 248 256 "hw6-7/hw6_7.ml" 19 248 262
+)
+"hw6-7/hw6_7.ml" 41 789 803 "hw6-7/hw6_7.ml" 41 789 804
+type(
+  pgm
+)
+ident(
+  int_ref a "hw6-7/hw6_7.ml" 40 772 783 "hw6-7/hw6_7.ml" 40 772 784
+)
+"hw6-7/hw6_7.ml" 41 789 805 "hw6-7/hw6_7.ml" 41 789 807
+type(
+  state
+)
+ident(
+  int_ref st "hw6-7/hw6_7.ml" 33 634 637 "hw6-7/hw6_7.ml" 33 634 639
+)
+"hw6-7/hw6_7.ml" 41 789 795 "hw6-7/hw6_7.ml" 41 789 808
+type(
+  state list
+)
+"hw6-7/hw6_7.ml" 41 789 809 "hw6-7/hw6_7.ml" 41 789 810
+type(
+  state list -> state list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw6-7/hw6_7.ml" 41 789 812 "hw6-7/hw6_7.ml" 41 789 819
+type(
+  state list -> pgm -> state list
+)
+ident(
+  int_ref seqeval "hw6-7/hw6_7.ml" 27 451 460 "hw6-7/hw6_7.ml" 27 451 467
+)
+"hw6-7/hw6_7.ml" 41 789 821 "hw6-7/hw6_7.ml" 41 789 827
+type(
+  pgm -> state -> state list
+)
+ident(
+  int_ref exeval "hw6-7/hw6_7.ml" 19 248 256 "hw6-7/hw6_7.ml" 19 248 262
+)
+"hw6-7/hw6_7.ml" 41 789 828 "hw6-7/hw6_7.ml" 41 789 829
+type(
+  pgm
+)
+ident(
+  int_ref a "hw6-7/hw6_7.ml" 40 772 783 "hw6-7/hw6_7.ml" 40 772 784
+)
+"hw6-7/hw6_7.ml" 41 789 830 "hw6-7/hw6_7.ml" 41 789 832
+type(
+  state
+)
+ident(
+  int_ref st "hw6-7/hw6_7.ml" 33 634 637 "hw6-7/hw6_7.ml" 33 634 639
+)
+"hw6-7/hw6_7.ml" 41 789 820 "hw6-7/hw6_7.ml" 41 789 833
+type(
+  state list
+)
+"hw6-7/hw6_7.ml" 41 789 834 "hw6-7/hw6_7.ml" 41 789 835
+type(
+  pgm
+)
+ident(
+  int_ref a "hw6-7/hw6_7.ml" 40 772 783 "hw6-7/hw6_7.ml" 40 772 784
+)
+"hw6-7/hw6_7.ml" 41 789 811 "hw6-7/hw6_7.ml" 41 789 836
+type(
+  state list
+)
+"hw6-7/hw6_7.ml" 41 789 795 "hw6-7/hw6_7.ml" 41 789 836
+type(
+  bool
+)
+"hw6-7/hw6_7.ml" 41 789 843 "hw6-7/hw6_7.ml" 41 789 850
+type(
+  state list -> pgm -> state list
+)
+ident(
+  int_ref seqeval "hw6-7/hw6_7.ml" 27 451 460 "hw6-7/hw6_7.ml" 27 451 467
+)
+"hw6-7/hw6_7.ml" 41 789 852 "hw6-7/hw6_7.ml" 41 789 858
+type(
+  pgm -> state -> state list
+)
+ident(
+  int_ref exeval "hw6-7/hw6_7.ml" 19 248 256 "hw6-7/hw6_7.ml" 19 248 262
+)
+"hw6-7/hw6_7.ml" 41 789 859 "hw6-7/hw6_7.ml" 41 789 860
+type(
+  pgm
+)
+ident(
+  int_ref a "hw6-7/hw6_7.ml" 40 772 783 "hw6-7/hw6_7.ml" 40 772 784
+)
+"hw6-7/hw6_7.ml" 41 789 861 "hw6-7/hw6_7.ml" 41 789 863
+type(
+  state
+)
+ident(
+  int_ref st "hw6-7/hw6_7.ml" 33 634 637 "hw6-7/hw6_7.ml" 33 634 639
+)
+"hw6-7/hw6_7.ml" 41 789 851 "hw6-7/hw6_7.ml" 41 789 864
+type(
+  state list
+)
+"hw6-7/hw6_7.ml" 41 789 865 "hw6-7/hw6_7.ml" 41 789 866
+type(
+  pgm
+)
+ident(
+  int_ref a "hw6-7/hw6_7.ml" 40 772 783 "hw6-7/hw6_7.ml" 40 772 784
+)
+"hw6-7/hw6_7.ml" 41 789 842 "hw6-7/hw6_7.ml" 41 789 867
+type(
+  state list
+)
+"hw6-7/hw6_7.ml" 42 868 876 "hw6-7/hw6_7.ml" 42 868 890
+type(
+  (state -> state -> int) -> state list -> state list
+)
+ident(
+  ext_ref List.sort_uniq
+)
+"hw6-7/hw6_7.ml" 42 868 891 "hw6-7/hw6_7.ml" 42 868 898
+type(
+  state -> state -> int
+)
+ident(
+  ext_ref Pervasives.compare
+)
+"hw6-7/hw6_7.ml" 42 868 900 "hw6-7/hw6_7.ml" 42 868 911
+type(
+  state list -> state list -> state list
+)
+ident(
+  ext_ref List.append
+)
+"hw6-7/hw6_7.ml" 42 868 913 "hw6-7/hw6_7.ml" 42 868 919
+type(
+  pgm -> state -> state list
+)
+ident(
+  int_ref exeval "hw6-7/hw6_7.ml" 19 248 256 "hw6-7/hw6_7.ml" 19 248 262
+)
+"hw6-7/hw6_7.ml" 42 868 920 "hw6-7/hw6_7.ml" 42 868 921
+type(
+  pgm
+)
+ident(
+  int_ref a "hw6-7/hw6_7.ml" 40 772 783 "hw6-7/hw6_7.ml" 40 772 784
+)
+"hw6-7/hw6_7.ml" 42 868 922 "hw6-7/hw6_7.ml" 42 868 924
+type(
+  state
+)
+ident(
+  int_ref st "hw6-7/hw6_7.ml" 33 634 637 "hw6-7/hw6_7.ml" 33 634 639
+)
+"hw6-7/hw6_7.ml" 42 868 912 "hw6-7/hw6_7.ml" 42 868 925
+type(
+  state list
+)
+"hw6-7/hw6_7.ml" 42 868 927 "hw6-7/hw6_7.ml" 42 868 934
+type(
+  state list -> pgm -> state list
+)
+ident(
+  int_ref seqeval "hw6-7/hw6_7.ml" 27 451 460 "hw6-7/hw6_7.ml" 27 451 467
+)
+"hw6-7/hw6_7.ml" 42 868 936 "hw6-7/hw6_7.ml" 42 868 942
+type(
+  pgm -> state -> state list
+)
+ident(
+  int_ref exeval "hw6-7/hw6_7.ml" 19 248 256 "hw6-7/hw6_7.ml" 19 248 262
+)
+"hw6-7/hw6_7.ml" 42 868 943 "hw6-7/hw6_7.ml" 42 868 944
+type(
+  pgm
+)
+ident(
+  int_ref a "hw6-7/hw6_7.ml" 40 772 783 "hw6-7/hw6_7.ml" 40 772 784
+)
+"hw6-7/hw6_7.ml" 42 868 945 "hw6-7/hw6_7.ml" 42 868 947
+type(
+  state
+)
+ident(
+  int_ref st "hw6-7/hw6_7.ml" 33 634 637 "hw6-7/hw6_7.ml" 33 634 639
+)
+"hw6-7/hw6_7.ml" 42 868 935 "hw6-7/hw6_7.ml" 42 868 948
+type(
+  state list
+)
+"hw6-7/hw6_7.ml" 42 868 949 "hw6-7/hw6_7.ml" 42 868 950
+type(
+  pgm
+)
+ident(
+  int_ref a "hw6-7/hw6_7.ml" 40 772 783 "hw6-7/hw6_7.ml" 40 772 784
+)
+"hw6-7/hw6_7.ml" 42 868 926 "hw6-7/hw6_7.ml" 42 868 951
+type(
+  state list
+)
+"hw6-7/hw6_7.ml" 42 868 899 "hw6-7/hw6_7.ml" 42 868 952
+type(
+  state list
+)
+"hw6-7/hw6_7.ml" 42 868 876 "hw6-7/hw6_7.ml" 42 868 952
+type(
+  state list
+)
+"hw6-7/hw6_7.ml" 41 789 792 "hw6-7/hw6_7.ml" 42 868 952
+type(
+  state list
+)
+"hw6-7/hw6_7.ml" 43 953 965 "hw6-7/hw6_7.ml" 43 953 966
+type(
+  cmd
+)
+ident(
+  def a "hw6-7/hw6_7.ml" 43 953 973 "hw6-7/hw6_7.ml" 43 953 1037
+)
+"hw6-7/hw6_7.ml" 43 953 967 "hw6-7/hw6_7.ml" 43 953 968
+type(
+  cmd
+)
+ident(
+  def b "hw6-7/hw6_7.ml" 43 953 973 "hw6-7/hw6_7.ml" 43 953 1037
+)
+"hw6-7/hw6_7.ml" 43 953 957 "hw6-7/hw6_7.ml" 43 953 969
+type(
+  pgm
+)
+"hw6-7/hw6_7.ml" 43 953 973 "hw6-7/hw6_7.ml" 43 953 987
+type(
+  (state -> state -> int) -> state list -> state list
+)
+ident(
+  ext_ref List.sort_uniq
+)
+"hw6-7/hw6_7.ml" 43 953 988 "hw6-7/hw6_7.ml" 43 953 995
+type(
+  state -> state -> int
+)
+ident(
+  ext_ref Pervasives.compare
+)
+"hw6-7/hw6_7.ml" 43 953 997 "hw6-7/hw6_7.ml" 43 953 1008
+type(
+  state list -> state list -> state list
+)
+ident(
+  ext_ref List.append
+)
+"hw6-7/hw6_7.ml" 43 953 1010 "hw6-7/hw6_7.ml" 43 953 1016
+type(
+  pgm -> state -> state list
+)
+ident(
+  int_ref exeval "hw6-7/hw6_7.ml" 19 248 256 "hw6-7/hw6_7.ml" 19 248 262
+)
+"hw6-7/hw6_7.ml" 43 953 1017 "hw6-7/hw6_7.ml" 43 953 1018
+type(
+  pgm
+)
+ident(
+  int_ref a "hw6-7/hw6_7.ml" 43 953 965 "hw6-7/hw6_7.ml" 43 953 966
+)
+"hw6-7/hw6_7.ml" 43 953 1019 "hw6-7/hw6_7.ml" 43 953 1021
+type(
+  state
+)
+ident(
+  int_ref st "hw6-7/hw6_7.ml" 33 634 637 "hw6-7/hw6_7.ml" 33 634 639
+)
+"hw6-7/hw6_7.ml" 43 953 1009 "hw6-7/hw6_7.ml" 43 953 1022
+type(
+  state list
+)
+"hw6-7/hw6_7.ml" 43 953 1024 "hw6-7/hw6_7.ml" 43 953 1030
+type(
+  pgm -> state -> state list
+)
+ident(
+  int_ref exeval "hw6-7/hw6_7.ml" 19 248 256 "hw6-7/hw6_7.ml" 19 248 262
+)
+"hw6-7/hw6_7.ml" 43 953 1031 "hw6-7/hw6_7.ml" 43 953 1032
+type(
+  pgm
+)
+ident(
+  int_ref b "hw6-7/hw6_7.ml" 43 953 967 "hw6-7/hw6_7.ml" 43 953 968
+)
+"hw6-7/hw6_7.ml" 43 953 1033 "hw6-7/hw6_7.ml" 43 953 1035
+type(
+  state
+)
+ident(
+  int_ref st "hw6-7/hw6_7.ml" 33 634 637 "hw6-7/hw6_7.ml" 33 634 639
+)
+"hw6-7/hw6_7.ml" 43 953 1023 "hw6-7/hw6_7.ml" 43 953 1036
+type(
+  state list
+)
+"hw6-7/hw6_7.ml" 43 953 996 "hw6-7/hw6_7.ml" 43 953 1037
+type(
+  state list
+)
+"hw6-7/hw6_7.ml" 43 953 973 "hw6-7/hw6_7.ml" 43 953 1037
+type(
+  state list
+)
+"hw6-7/hw6_7.ml" 44 1038 1046 "hw6-7/hw6_7.ml" 44 1038 1047
+type(
+  exp
+)
+ident(
+  def a "hw6-7/hw6_7.ml" 45 1055 1058 "hw6-7/hw6_7.ml" 46 1094 1104
+)
+"hw6-7/hw6_7.ml" 44 1038 1048 "hw6-7/hw6_7.ml" 44 1038 1049
+type(
+  cmd
+)
+ident(
+  def b "hw6-7/hw6_7.ml" 45 1055 1058 "hw6-7/hw6_7.ml" 46 1094 1104
+)
+"hw6-7/hw6_7.ml" 44 1038 1042 "hw6-7/hw6_7.ml" 44 1038 1050
+type(
+  pgm
+)
+"hw6-7/hw6_7.ml" 45 1055 1062 "hw6-7/hw6_7.ml" 45 1055 1066
+type(
+  exp -> state
+)
+ident(
+  int_ref calc "hw6-7/hw6_7.ml" 20 296 305 "hw6-7/hw6_7.ml" 20 296 309
+)
+"hw6-7/hw6_7.ml" 45 1055 1067 "hw6-7/hw6_7.ml" 45 1055 1068
+type(
+  exp
+)
+ident(
+  int_ref a "hw6-7/hw6_7.ml" 44 1038 1046 "hw6-7/hw6_7.ml" 44 1038 1047
+)
+"hw6-7/hw6_7.ml" 45 1055 1061 "hw6-7/hw6_7.ml" 45 1055 1069
+type(
+  state
+)
+"hw6-7/hw6_7.ml" 45 1055 1070 "hw6-7/hw6_7.ml" 45 1055 1071
+type(
+  state -> state -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw6-7/hw6_7.ml" 45 1055 1072 "hw6-7/hw6_7.ml" 45 1055 1074
+type(
+  state
+)
+ident(
+  int_ref st "hw6-7/hw6_7.ml" 33 634 637 "hw6-7/hw6_7.ml" 33 634 639
+)
+"hw6-7/hw6_7.ml" 45 1055 1061 "hw6-7/hw6_7.ml" 45 1055 1074
+type(
+  bool
+)
+"hw6-7/hw6_7.ml" 45 1055 1081 "hw6-7/hw6_7.ml" 45 1055 1087
+type(
+  pgm -> state -> state list
+)
+ident(
+  int_ref exeval "hw6-7/hw6_7.ml" 19 248 256 "hw6-7/hw6_7.ml" 19 248 262
+)
+"hw6-7/hw6_7.ml" 45 1055 1088 "hw6-7/hw6_7.ml" 45 1055 1089
+type(
+  pgm
+)
+ident(
+  int_ref b "hw6-7/hw6_7.ml" 44 1038 1048 "hw6-7/hw6_7.ml" 44 1038 1049
+)
+"hw6-7/hw6_7.ml" 45 1055 1090 "hw6-7/hw6_7.ml" 45 1055 1092
+type(
+  state
+)
+ident(
+  int_ref st "hw6-7/hw6_7.ml" 33 634 637 "hw6-7/hw6_7.ml" 33 634 639
+)
+"hw6-7/hw6_7.ml" 45 1055 1080 "hw6-7/hw6_7.ml" 45 1055 1093
+type(
+  state list
+)
+"hw6-7/hw6_7.ml" 46 1094 1102 "hw6-7/hw6_7.ml" 46 1094 1104
+type(
+  state list
+)
+"hw6-7/hw6_7.ml" 45 1055 1058 "hw6-7/hw6_7.ml" 46 1094 1104
+type(
+  state list
+)
+"hw6-7/hw6_7.ml" 47 1105 1114 "hw6-7/hw6_7.ml" 47 1105 1115
+type(
+  exp
+)
+ident(
+  def a "hw6-7/hw6_7.ml" 48 1123 1126 "hw6-7/hw6_7.ml" 49 1163 1173
+)
+"hw6-7/hw6_7.ml" 47 1105 1116 "hw6-7/hw6_7.ml" 47 1105 1117
+type(
+  cmd
+)
+ident(
+  def b "hw6-7/hw6_7.ml" 48 1123 1126 "hw6-7/hw6_7.ml" 49 1163 1173
+)
+"hw6-7/hw6_7.ml" 47 1105 1109 "hw6-7/hw6_7.ml" 47 1105 1118
+type(
+  pgm
+)
+"hw6-7/hw6_7.ml" 48 1123 1130 "hw6-7/hw6_7.ml" 48 1123 1134
+type(
+  exp -> state
+)
+ident(
+  int_ref calc "hw6-7/hw6_7.ml" 20 296 305 "hw6-7/hw6_7.ml" 20 296 309
+)
+"hw6-7/hw6_7.ml" 48 1123 1135 "hw6-7/hw6_7.ml" 48 1123 1136
+type(
+  exp
+)
+ident(
+  int_ref a "hw6-7/hw6_7.ml" 47 1105 1114 "hw6-7/hw6_7.ml" 47 1105 1115
+)
+"hw6-7/hw6_7.ml" 48 1123 1129 "hw6-7/hw6_7.ml" 48 1123 1137
+type(
+  state
+)
+"hw6-7/hw6_7.ml" 48 1123 1138 "hw6-7/hw6_7.ml" 48 1123 1140
+type(
+  state -> state -> bool
+)
+ident(
+  ext_ref Pervasives.( <> )
+)
+"hw6-7/hw6_7.ml" 48 1123 1141 "hw6-7/hw6_7.ml" 48 1123 1143
+type(
+  state
+)
+ident(
+  int_ref st "hw6-7/hw6_7.ml" 33 634 637 "hw6-7/hw6_7.ml" 33 634 639
+)
+"hw6-7/hw6_7.ml" 48 1123 1129 "hw6-7/hw6_7.ml" 48 1123 1143
+type(
+  bool
+)
+"hw6-7/hw6_7.ml" 48 1123 1150 "hw6-7/hw6_7.ml" 48 1123 1156
+type(
+  pgm -> state -> state list
+)
+ident(
+  int_ref exeval "hw6-7/hw6_7.ml" 19 248 256 "hw6-7/hw6_7.ml" 19 248 262
+)
+"hw6-7/hw6_7.ml" 48 1123 1157 "hw6-7/hw6_7.ml" 48 1123 1158
+type(
+  pgm
+)
+ident(
+  int_ref b "hw6-7/hw6_7.ml" 47 1105 1116 "hw6-7/hw6_7.ml" 47 1105 1117
+)
+"hw6-7/hw6_7.ml" 48 1123 1159 "hw6-7/hw6_7.ml" 48 1123 1161
+type(
+  state
+)
+ident(
+  int_ref st "hw6-7/hw6_7.ml" 33 634 637 "hw6-7/hw6_7.ml" 33 634 639
+)
+"hw6-7/hw6_7.ml" 48 1123 1149 "hw6-7/hw6_7.ml" 48 1123 1162
+type(
+  state list
+)
+"hw6-7/hw6_7.ml" 49 1163 1171 "hw6-7/hw6_7.ml" 49 1163 1173
+type(
+  state list
+)
+"hw6-7/hw6_7.ml" 48 1123 1126 "hw6-7/hw6_7.ml" 49 1163 1173
+type(
+  state list
+)
+"hw6-7/hw6_7.ml" 36 680 682 "hw6-7/hw6_7.ml" 49 1163 1174
+type(
+  state list
+)
+"hw6-7/hw6_7.ml" 51 1179 1186 "hw6-7/hw6_7.ml" 51 1179 1188
+type(
+  state list
+)
+"hw6-7/hw6_7.ml" 34 643 645 "hw6-7/hw6_7.ml" 51 1179 1188
+type(
+  state list
+)
+"hw6-7/hw6_7.ml" 32 619 620 "hw6-7/hw6_7.ml" 51 1179 1188
+type(
+  state list
+)
+"hw6-7/hw6_7.ml" 27 451 452 "hw6-7/hw6_7.ml" 51 1179 1188
+type(
+  state list
+)
+"hw6-7/hw6_7.ml" 20 296 297 "hw6-7/hw6_7.ml" 51 1179 1188
+type(
+  state list
+)
+type(
+  state list
+)

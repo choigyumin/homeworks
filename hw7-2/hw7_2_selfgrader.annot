@@ -1,0 +1,269 @@
+"hw7-2/hw7_2_selfgrader.ml" 5 30 38 "hw7-2/hw7_2_selfgrader.ml" 5 30 44
+type(
+  (unit -> bool) -> unit
+)
+ident(
+  ext_ref CommonGrade.output
+)
+"hw7-2/hw7_2_selfgrader.ml" 5 30 50 "hw7-2/hw7_2_selfgrader.ml" 5 30 52
+type(
+  unit
+)
+"hw7-2/hw7_2_selfgrader.ml" 6 57 59 "hw7-2/hw7_2_selfgrader.ml" 6 57 62
+type(
+  string
+)
+"hw7-2/hw7_2_selfgrader.ml" 6 57 63 "hw7-2/hw7_2_selfgrader.ml" 6 57 64
+type(
+  string -> string -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw7-2/hw7_2_selfgrader.ml" 7 66 71 "hw7-2/hw7_2_selfgrader.ml" 7 66 87
+type(
+  Hw7_2.SkiLiquid.liquid -> string
+)
+ident(
+  ext_ref Hw7_2.SkiLiquid.pprint
+)
+"hw7-2/hw7_2_selfgrader.ml" 8 89 97 "hw7-2/hw7_2_selfgrader.ml" 8 89 112
+type(
+  Hw7_2.SkiLiquid.liquid -> Hw7_2.SkiLiquid.liquid
+)
+ident(
+  ext_ref Hw7_2.SkiLiquid.react
+)
+"hw7-2/hw7_2_selfgrader.ml" 10 138 178 "hw7-2/hw7_2_selfgrader.ml" 10 138 189
+type(
+  Hw7_2.SkiLiquid.liquid
+)
+"hw7-2/hw7_2_selfgrader.ml" 10 138 190 "hw7-2/hw7_2_selfgrader.ml" 10 138 201
+type(
+  Hw7_2.SkiLiquid.liquid
+)
+"hw7-2/hw7_2_selfgrader.ml" 10 138 165 "hw7-2/hw7_2_selfgrader.ml" 10 138 202
+type(
+  Hw7_2.SkiLiquid.liquid
+)
+"hw7-2/hw7_2_selfgrader.ml" 11 204 231 "hw7-2/hw7_2_selfgrader.ml" 11 204 242
+type(
+  Hw7_2.SkiLiquid.liquid
+)
+"hw7-2/hw7_2_selfgrader.ml" 10 138 152 "hw7-2/hw7_2_selfgrader.ml" 11 204 243
+type(
+  Hw7_2.SkiLiquid.liquid
+)
+"hw7-2/hw7_2_selfgrader.ml" 12 245 271 "hw7-2/hw7_2_selfgrader.ml" 12 245 274
+type(
+  string
+)
+"hw7-2/hw7_2_selfgrader.ml" 12 245 259 "hw7-2/hw7_2_selfgrader.ml" 12 245 274
+type(
+  Hw7_2.SkiLiquid.liquid
+)
+"hw7-2/hw7_2_selfgrader.ml" 9 114 124 "hw7-2/hw7_2_selfgrader.ml" 12 245 276
+type(
+  Hw7_2.SkiLiquid.liquid
+)
+"hw7-2/hw7_2_selfgrader.ml" 8 89 96 "hw7-2/hw7_2_selfgrader.ml" 12 245 277
+type(
+  Hw7_2.SkiLiquid.liquid
+)
+"hw7-2/hw7_2_selfgrader.ml" 7 66 70 "hw7-2/hw7_2_selfgrader.ml" 12 245 278
+type(
+  string
+)
+"hw7-2/hw7_2_selfgrader.ml" 6 57 59 "hw7-2/hw7_2_selfgrader.ml" 12 245 278
+type(
+  bool
+)
+"hw7-2/hw7_2_selfgrader.ml" 5 30 45 "hw7-2/hw7_2_selfgrader.ml" 13 279 280
+type(
+  unit -> bool
+)
+"hw7-2/hw7_2_selfgrader.ml" 5 30 38 "hw7-2/hw7_2_selfgrader.ml" 13 279 280
+type(
+  unit
+)
+"hw7-2/hw7_2_selfgrader.ml" 15 282 290 "hw7-2/hw7_2_selfgrader.ml" 15 282 296
+type(
+  (unit -> bool) -> unit
+)
+ident(
+  ext_ref CommonGrade.output
+)
+"hw7-2/hw7_2_selfgrader.ml" 15 282 302 "hw7-2/hw7_2_selfgrader.ml" 15 282 304
+type(
+  unit
+)
+"hw7-2/hw7_2_selfgrader.ml" 16 309 311 "hw7-2/hw7_2_selfgrader.ml" 16 309 314
+type(
+  string
+)
+"hw7-2/hw7_2_selfgrader.ml" 16 309 315 "hw7-2/hw7_2_selfgrader.ml" 16 309 316
+type(
+  string -> string -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw7-2/hw7_2_selfgrader.ml" 17 318 323 "hw7-2/hw7_2_selfgrader.ml" 17 318 339
+type(
+  Hw7_2.SkiLiquid.liquid -> string
+)
+ident(
+  ext_ref Hw7_2.SkiLiquid.pprint
+)
+"hw7-2/hw7_2_selfgrader.ml" 18 340 348 "hw7-2/hw7_2_selfgrader.ml" 18 340 363
+type(
+  Hw7_2.SkiLiquid.liquid -> Hw7_2.SkiLiquid.liquid
+)
+ident(
+  ext_ref Hw7_2.SkiLiquid.react
+)
+"hw7-2/hw7_2_selfgrader.ml" 20 389 416 "hw7-2/hw7_2_selfgrader.ml" 20 389 427
+type(
+  Hw7_2.SkiLiquid.liquid
+)
+"hw7-2/hw7_2_selfgrader.ml" 20 389 441 "hw7-2/hw7_2_selfgrader.ml" 20 389 444
+type(
+  string
+)
+"hw7-2/hw7_2_selfgrader.ml" 20 389 428 "hw7-2/hw7_2_selfgrader.ml" 20 389 445
+type(
+  Hw7_2.SkiLiquid.liquid
+)
+"hw7-2/hw7_2_selfgrader.ml" 20 389 403 "hw7-2/hw7_2_selfgrader.ml" 20 389 446
+type(
+  Hw7_2.SkiLiquid.liquid
+)
+"hw7-2/hw7_2_selfgrader.ml" 21 448 475 "hw7-2/hw7_2_selfgrader.ml" 21 448 486
+type(
+  Hw7_2.SkiLiquid.liquid
+)
+"hw7-2/hw7_2_selfgrader.ml" 21 448 500 "hw7-2/hw7_2_selfgrader.ml" 21 448 503
+type(
+  string
+)
+"hw7-2/hw7_2_selfgrader.ml" 21 448 487 "hw7-2/hw7_2_selfgrader.ml" 21 448 504
+type(
+  Hw7_2.SkiLiquid.liquid
+)
+"hw7-2/hw7_2_selfgrader.ml" 21 448 462 "hw7-2/hw7_2_selfgrader.ml" 21 448 505
+type(
+  Hw7_2.SkiLiquid.liquid
+)
+"hw7-2/hw7_2_selfgrader.ml" 19 365 375 "hw7-2/hw7_2_selfgrader.ml" 21 448 507
+type(
+  Hw7_2.SkiLiquid.liquid
+)
+"hw7-2/hw7_2_selfgrader.ml" 18 340 347 "hw7-2/hw7_2_selfgrader.ml" 21 448 508
+type(
+  Hw7_2.SkiLiquid.liquid
+)
+"hw7-2/hw7_2_selfgrader.ml" 17 318 322 "hw7-2/hw7_2_selfgrader.ml" 21 448 509
+type(
+  string
+)
+"hw7-2/hw7_2_selfgrader.ml" 16 309 311 "hw7-2/hw7_2_selfgrader.ml" 21 448 509
+type(
+  bool
+)
+"hw7-2/hw7_2_selfgrader.ml" 15 282 297 "hw7-2/hw7_2_selfgrader.ml" 22 510 511
+type(
+  unit -> bool
+)
+"hw7-2/hw7_2_selfgrader.ml" 15 282 290 "hw7-2/hw7_2_selfgrader.ml" 22 510 511
+type(
+  unit
+)
+"hw7-2/hw7_2_selfgrader.ml" 24 513 521 "hw7-2/hw7_2_selfgrader.ml" 24 513 527
+type(
+  (unit -> bool) -> unit
+)
+ident(
+  ext_ref CommonGrade.output
+)
+"hw7-2/hw7_2_selfgrader.ml" 24 513 533 "hw7-2/hw7_2_selfgrader.ml" 24 513 535
+type(
+  unit
+)
+"hw7-2/hw7_2_selfgrader.ml" 25 539 541 "hw7-2/hw7_2_selfgrader.ml" 25 539 556
+type(
+  string
+)
+"hw7-2/hw7_2_selfgrader.ml" 25 539 557 "hw7-2/hw7_2_selfgrader.ml" 25 539 558
+type(
+  string -> string -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw7-2/hw7_2_selfgrader.ml" 26 559 564 "hw7-2/hw7_2_selfgrader.ml" 26 559 580
+type(
+  Hw7_2.SkiLiquid.liquid -> string
+)
+ident(
+  ext_ref Hw7_2.SkiLiquid.pprint
+)
+"hw7-2/hw7_2_selfgrader.ml" 29 626 665 "hw7-2/hw7_2_selfgrader.ml" 29 626 668
+type(
+  string
+)
+"hw7-2/hw7_2_selfgrader.ml" 29 626 653 "hw7-2/hw7_2_selfgrader.ml" 29 626 668
+type(
+  Hw7_2.SkiLiquid.liquid
+)
+"hw7-2/hw7_2_selfgrader.ml" 29 626 681 "hw7-2/hw7_2_selfgrader.ml" 29 626 684
+type(
+  string
+)
+"hw7-2/hw7_2_selfgrader.ml" 29 626 669 "hw7-2/hw7_2_selfgrader.ml" 29 626 684
+type(
+  Hw7_2.SkiLiquid.liquid
+)
+"hw7-2/hw7_2_selfgrader.ml" 29 626 640 "hw7-2/hw7_2_selfgrader.ml" 29 626 685
+type(
+  Hw7_2.SkiLiquid.liquid
+)
+"hw7-2/hw7_2_selfgrader.ml" 30 687 713 "hw7-2/hw7_2_selfgrader.ml" 30 687 716
+type(
+  string
+)
+"hw7-2/hw7_2_selfgrader.ml" 30 687 701 "hw7-2/hw7_2_selfgrader.ml" 30 687 716
+type(
+  Hw7_2.SkiLiquid.liquid
+)
+"hw7-2/hw7_2_selfgrader.ml" 28 602 613 "hw7-2/hw7_2_selfgrader.ml" 30 687 717
+type(
+  Hw7_2.SkiLiquid.liquid
+)
+"hw7-2/hw7_2_selfgrader.ml" 31 719 742 "hw7-2/hw7_2_selfgrader.ml" 31 719 745
+type(
+  string
+)
+"hw7-2/hw7_2_selfgrader.ml" 31 719 730 "hw7-2/hw7_2_selfgrader.ml" 31 719 745
+type(
+  Hw7_2.SkiLiquid.liquid
+)
+"hw7-2/hw7_2_selfgrader.ml" 27 581 588 "hw7-2/hw7_2_selfgrader.ml" 31 719 747
+type(
+  Hw7_2.SkiLiquid.liquid
+)
+"hw7-2/hw7_2_selfgrader.ml" 26 559 563 "hw7-2/hw7_2_selfgrader.ml" 31 719 748
+type(
+  string
+)
+"hw7-2/hw7_2_selfgrader.ml" 25 539 541 "hw7-2/hw7_2_selfgrader.ml" 31 719 748
+type(
+  bool
+)
+"hw7-2/hw7_2_selfgrader.ml" 24 513 528 "hw7-2/hw7_2_selfgrader.ml" 32 749 750
+type(
+  unit -> bool
+)
+"hw7-2/hw7_2_selfgrader.ml" 24 513 521 "hw7-2/hw7_2_selfgrader.ml" 32 749 750
+type(
+  unit
+)

@@ -1,0 +1,522 @@
+"hw6-5/hw6_5.ml" 10 129 137 "hw6-5/hw6_5.ml" 10 129 141
+type(
+  ae -> string -> ae
+)
+ident(
+  def diff "hw6-5/hw6_5.ml" 10 129 129 "hw6-5/hw6_5.ml" 1 0 -1
+)
+"hw6-5/hw6_5.ml" 10 129 143 "hw6-5/hw6_5.ml" 10 129 144
+type(
+  ae
+)
+ident(
+  def e "hw6-5/hw6_5.ml" 10 129 150 "hw6-5/hw6_5.ml" 29 555 630
+)
+"hw6-5/hw6_5.ml" 10 129 151 "hw6-5/hw6_5.ml" 10 129 152
+type(
+  string
+)
+ident(
+  def x "hw6-5/hw6_5.ml" 10 129 161 "hw6-5/hw6_5.ml" 29 555 630
+)
+"hw6-5/hw6_5.ml" 11 168 176 "hw6-5/hw6_5.ml" 11 168 177
+type(
+  ae
+)
+ident(
+  int_ref e "hw6-5/hw6_5.ml" 10 129 143 "hw6-5/hw6_5.ml" 10 129 144
+)
+"hw6-5/hw6_5.ml" 12 183 192 "hw6-5/hw6_5.ml" 12 183 193
+type(
+  int
+)
+ident(
+  def a "hw6-5/hw6_5.ml" 12 183 197 "hw6-5/hw6_5.ml" 12 183 204
+)
+"hw6-5/hw6_5.ml" 12 183 186 "hw6-5/hw6_5.ml" 12 183 193
+type(
+  ae
+)
+"hw6-5/hw6_5.ml" 12 183 203 "hw6-5/hw6_5.ml" 12 183 204
+type(
+  int
+)
+"hw6-5/hw6_5.ml" 12 183 197 "hw6-5/hw6_5.ml" 12 183 204
+type(
+  ae
+)
+"hw6-5/hw6_5.ml" 13 205 212 "hw6-5/hw6_5.ml" 13 205 213
+type(
+  string
+)
+ident(
+  def a "hw6-5/hw6_5.ml" 14 217 219 "hw6-5/hw6_5.ml" 15 241 255
+)
+"hw6-5/hw6_5.ml" 13 205 208 "hw6-5/hw6_5.ml" 13 205 213
+type(
+  ae
+)
+"hw6-5/hw6_5.ml" 14 217 222 "hw6-5/hw6_5.ml" 14 217 223
+type(
+  string
+)
+ident(
+  int_ref a "hw6-5/hw6_5.ml" 13 205 212 "hw6-5/hw6_5.ml" 13 205 213
+)
+"hw6-5/hw6_5.ml" 14 217 224 "hw6-5/hw6_5.ml" 14 217 225
+type(
+  string -> string -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw6-5/hw6_5.ml" 14 217 226 "hw6-5/hw6_5.ml" 14 217 227
+type(
+  string
+)
+ident(
+  int_ref x "hw6-5/hw6_5.ml" 10 129 151 "hw6-5/hw6_5.ml" 10 129 152
+)
+"hw6-5/hw6_5.ml" 14 217 222 "hw6-5/hw6_5.ml" 14 217 227
+type(
+  bool
+)
+"hw6-5/hw6_5.ml" 14 217 239 "hw6-5/hw6_5.ml" 14 217 240
+type(
+  int
+)
+"hw6-5/hw6_5.ml" 14 217 233 "hw6-5/hw6_5.ml" 14 217 240
+type(
+  ae
+)
+"hw6-5/hw6_5.ml" 15 241 254 "hw6-5/hw6_5.ml" 15 241 255
+type(
+  int
+)
+"hw6-5/hw6_5.ml" 15 241 248 "hw6-5/hw6_5.ml" 15 241 255
+type(
+  ae
+)
+"hw6-5/hw6_5.ml" 14 217 219 "hw6-5/hw6_5.ml" 15 241 255
+type(
+  ae
+)
+"hw6-5/hw6_5.ml" 16 256 266 "hw6-5/hw6_5.ml" 16 256 267
+type(
+  string
+)
+ident(
+  def a "hw6-5/hw6_5.ml" 17 275 277 "hw6-5/hw6_5.ml" 20 361 382
+)
+"hw6-5/hw6_5.ml" 16 256 268 "hw6-5/hw6_5.ml" 16 256 269
+type(
+  int
+)
+ident(
+  def b "hw6-5/hw6_5.ml" 17 275 277 "hw6-5/hw6_5.ml" 20 361 382
+)
+"hw6-5/hw6_5.ml" 16 256 259 "hw6-5/hw6_5.ml" 16 256 270
+type(
+  ae
+)
+"hw6-5/hw6_5.ml" 17 275 285 "hw6-5/hw6_5.ml" 17 275 286
+type(
+  string
+)
+ident(
+  int_ref a "hw6-5/hw6_5.ml" 16 256 266 "hw6-5/hw6_5.ml" 16 256 267
+)
+"hw6-5/hw6_5.ml" 17 275 287 "hw6-5/hw6_5.ml" 17 275 288
+type(
+  int
+)
+ident(
+  int_ref b "hw6-5/hw6_5.ml" 16 256 268 "hw6-5/hw6_5.ml" 16 256 269
+)
+"hw6-5/hw6_5.ml" 17 275 284 "hw6-5/hw6_5.ml" 17 275 289
+type(
+  string * int
+)
+"hw6-5/hw6_5.ml" 18 295 300 "hw6-5/hw6_5.ml" 18 295 301
+type(
+  string
+)
+ident(
+  def x "hw6-5/hw6_5.ml" 18 295 308 "hw6-5/hw6_5.ml" 18 295 315
+)
+"hw6-5/hw6_5.ml" 18 295 302 "hw6-5/hw6_5.ml" 18 295 303
+type(
+  int
+)
+"hw6-5/hw6_5.ml" 18 295 299 "hw6-5/hw6_5.ml" 18 295 304
+type(
+  string * int
+)
+"hw6-5/hw6_5.ml" 18 295 314 "hw6-5/hw6_5.ml" 18 295 315
+type(
+  int
+)
+"hw6-5/hw6_5.ml" 18 295 308 "hw6-5/hw6_5.ml" 18 295 315
+type(
+  ae
+)
+"hw6-5/hw6_5.ml" 19 316 321 "hw6-5/hw6_5.ml" 19 316 322
+type(
+  string
+)
+ident(
+  def x "hw6-5/hw6_5.ml" 19 316 329 "hw6-5/hw6_5.ml" 19 316 360
+)
+"hw6-5/hw6_5.ml" 19 316 323 "hw6-5/hw6_5.ml" 19 316 324
+type(
+  int
+)
+"hw6-5/hw6_5.ml" 19 316 320 "hw6-5/hw6_5.ml" 19 316 325
+type(
+  string * int
+)
+"hw6-5/hw6_5.ml" 19 316 342 "hw6-5/hw6_5.ml" 19 316 343
+type(
+  int
+)
+ident(
+  int_ref b "hw6-5/hw6_5.ml" 16 256 268 "hw6-5/hw6_5.ml" 16 256 269
+)
+"hw6-5/hw6_5.ml" 19 316 336 "hw6-5/hw6_5.ml" 19 316 343
+type(
+  ae
+)
+"hw6-5/hw6_5.ml" 19 316 352 "hw6-5/hw6_5.ml" 19 316 353
+type(
+  string
+)
+ident(
+  int_ref a "hw6-5/hw6_5.ml" 16 256 266 "hw6-5/hw6_5.ml" 16 256 267
+)
+"hw6-5/hw6_5.ml" 19 316 355 "hw6-5/hw6_5.ml" 19 316 356
+type(
+  int
+)
+ident(
+  int_ref b "hw6-5/hw6_5.ml" 16 256 268 "hw6-5/hw6_5.ml" 16 256 269
+)
+"hw6-5/hw6_5.ml" 19 316 356 "hw6-5/hw6_5.ml" 19 316 357
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"hw6-5/hw6_5.ml" 19 316 357 "hw6-5/hw6_5.ml" 19 316 358
+type(
+  int
+)
+"hw6-5/hw6_5.ml" 19 316 355 "hw6-5/hw6_5.ml" 19 316 358
+type(
+  int
+)
+"hw6-5/hw6_5.ml" 19 316 345 "hw6-5/hw6_5.ml" 19 316 359
+type(
+  ae
+)
+"hw6-5/hw6_5.ml" 19 316 335 "hw6-5/hw6_5.ml" 19 316 360
+type(
+  ae list
+)
+"hw6-5/hw6_5.ml" 19 316 329 "hw6-5/hw6_5.ml" 19 316 360
+type(
+  ae
+)
+"hw6-5/hw6_5.ml" 20 361 366 "hw6-5/hw6_5.ml" 20 361 367
+type(
+  string
+)
+"hw6-5/hw6_5.ml" 20 361 368 "hw6-5/hw6_5.ml" 20 361 369
+type(
+  int
+)
+"hw6-5/hw6_5.ml" 20 361 365 "hw6-5/hw6_5.ml" 20 361 370
+type(
+  string * int
+)
+"hw6-5/hw6_5.ml" 20 361 380 "hw6-5/hw6_5.ml" 20 361 381
+type(
+  int
+)
+"hw6-5/hw6_5.ml" 20 361 374 "hw6-5/hw6_5.ml" 20 361 381
+type(
+  ae
+)
+"hw6-5/hw6_5.ml" 17 275 277 "hw6-5/hw6_5.ml" 20 361 382
+type(
+  ae
+)
+"hw6-5/hw6_5.ml" 21 383 392 "hw6-5/hw6_5.ml" 21 383 395
+type(
+  ae list
+)
+ident(
+  def lst "hw6-5/hw6_5.ml" 22 399 401 "hw6-5/hw6_5.ml" 24 435 503
+)
+"hw6-5/hw6_5.ml" 21 383 386 "hw6-5/hw6_5.ml" 21 383 395
+type(
+  ae
+)
+"hw6-5/hw6_5.ml" 22 399 408 "hw6-5/hw6_5.ml" 22 399 411
+type(
+  ae list
+)
+ident(
+  int_ref lst "hw6-5/hw6_5.ml" 21 383 392 "hw6-5/hw6_5.ml" 21 383 395
+)
+"hw6-5/hw6_5.ml" 23 417 421 "hw6-5/hw6_5.ml" 23 417 423
+type(
+  ae list
+)
+"hw6-5/hw6_5.ml" 23 417 433 "hw6-5/hw6_5.ml" 23 417 434
+type(
+  int
+)
+"hw6-5/hw6_5.ml" 23 417 427 "hw6-5/hw6_5.ml" 23 417 434
+type(
+  ae
+)
+"hw6-5/hw6_5.ml" 24 435 439 "hw6-5/hw6_5.ml" 24 435 441
+type(
+  ae
+)
+ident(
+  def hd "hw6-5/hw6_5.ml" 24 435 449 "hw6-5/hw6_5.ml" 24 435 502
+)
+"hw6-5/hw6_5.ml" 24 435 443 "hw6-5/hw6_5.ml" 24 435 445
+type(
+  ae list
+)
+ident(
+  def tl "hw6-5/hw6_5.ml" 24 435 449 "hw6-5/hw6_5.ml" 24 435 502
+)
+"hw6-5/hw6_5.ml" 24 435 439 "hw6-5/hw6_5.ml" 24 435 445
+type(
+  ae list
+)
+"hw6-5/hw6_5.ml" 24 435 456 "hw6-5/hw6_5.ml" 24 435 458
+type(
+  ae
+)
+ident(
+  int_ref hd "hw6-5/hw6_5.ml" 24 435 439 "hw6-5/hw6_5.ml" 24 435 441
+)
+"hw6-5/hw6_5.ml" 24 435 461 "hw6-5/hw6_5.ml" 24 435 469
+type(
+  (ae -> ae) -> ae list -> ae list
+)
+ident(
+  ext_ref List.map
+)
+"hw6-5/hw6_5.ml" 24 435 475 "hw6-5/hw6_5.ml" 24 435 479
+ident(
+  def list "hw6-5/hw6_5.ml" 24 435 483 "hw6-5/hw6_5.ml" 24 435 496
+)
+"hw6-5/hw6_5.ml" 24 435 474 "hw6-5/hw6_5.ml" 24 435 480
+type(
+  ae
+)
+"hw6-5/hw6_5.ml" 24 435 484 "hw6-5/hw6_5.ml" 24 435 488
+type(
+  ae -> string -> ae
+)
+ident(
+  int_ref diff "hw6-5/hw6_5.ml" 10 129 137 "hw6-5/hw6_5.ml" 10 129 141
+)
+"hw6-5/hw6_5.ml" 24 435 489 "hw6-5/hw6_5.ml" 24 435 493
+type(
+  ae
+)
+ident(
+  int_ref list "hw6-5/hw6_5.ml" 24 435 474 "hw6-5/hw6_5.ml" 24 435 480
+)
+"hw6-5/hw6_5.ml" 24 435 494 "hw6-5/hw6_5.ml" 24 435 495
+type(
+  string
+)
+ident(
+  int_ref x "hw6-5/hw6_5.ml" 10 129 151 "hw6-5/hw6_5.ml" 10 129 152
+)
+"hw6-5/hw6_5.ml" 24 435 483 "hw6-5/hw6_5.ml" 24 435 496
+type(
+  ae
+)
+"hw6-5/hw6_5.ml" 24 435 470 "hw6-5/hw6_5.ml" 24 435 497
+type(
+  ae -> ae
+)
+"hw6-5/hw6_5.ml" 24 435 498 "hw6-5/hw6_5.ml" 24 435 500
+type(
+  ae list
+)
+ident(
+  int_ref tl "hw6-5/hw6_5.ml" 24 435 443 "hw6-5/hw6_5.ml" 24 435 445
+)
+"hw6-5/hw6_5.ml" 24 435 460 "hw6-5/hw6_5.ml" 24 435 501
+type(
+  ae list
+)
+"hw6-5/hw6_5.ml" 24 435 455 "hw6-5/hw6_5.ml" 24 435 502
+type(
+  ae list
+)
+"hw6-5/hw6_5.ml" 24 435 449 "hw6-5/hw6_5.ml" 24 435 502
+type(
+  ae
+)
+"hw6-5/hw6_5.ml" 22 399 401 "hw6-5/hw6_5.ml" 24 435 503
+type(
+  ae
+)
+"hw6-5/hw6_5.ml" 26 505 512 "hw6-5/hw6_5.ml" 26 505 515
+type(
+  ae list
+)
+ident(
+  def lst "hw6-5/hw6_5.ml" 27 519 521 "hw6-5/hw6_5.ml" 29 555 630
+)
+"hw6-5/hw6_5.ml" 26 505 508 "hw6-5/hw6_5.ml" 26 505 515
+type(
+  ae
+)
+"hw6-5/hw6_5.ml" 27 519 528 "hw6-5/hw6_5.ml" 27 519 531
+type(
+  ae list
+)
+ident(
+  int_ref lst "hw6-5/hw6_5.ml" 26 505 512 "hw6-5/hw6_5.ml" 26 505 515
+)
+"hw6-5/hw6_5.ml" 28 537 541 "hw6-5/hw6_5.ml" 28 537 543
+type(
+  ae list
+)
+"hw6-5/hw6_5.ml" 28 537 553 "hw6-5/hw6_5.ml" 28 537 554
+type(
+  int
+)
+"hw6-5/hw6_5.ml" 28 537 547 "hw6-5/hw6_5.ml" 28 537 554
+type(
+  ae
+)
+"hw6-5/hw6_5.ml" 29 555 559 "hw6-5/hw6_5.ml" 29 555 561
+type(
+  ae
+)
+ident(
+  def hd "hw6-5/hw6_5.ml" 29 555 569 "hw6-5/hw6_5.ml" 29 555 629
+)
+"hw6-5/hw6_5.ml" 29 555 563 "hw6-5/hw6_5.ml" 29 555 565
+type(
+  ae list
+)
+ident(
+  def tl "hw6-5/hw6_5.ml" 29 555 569 "hw6-5/hw6_5.ml" 29 555 629
+)
+"hw6-5/hw6_5.ml" 29 555 559 "hw6-5/hw6_5.ml" 29 555 565
+type(
+  ae list
+)
+"hw6-5/hw6_5.ml" 29 555 575 "hw6-5/hw6_5.ml" 29 555 579
+type(
+  ae -> string -> ae
+)
+ident(
+  int_ref diff "hw6-5/hw6_5.ml" 10 129 137 "hw6-5/hw6_5.ml" 10 129 141
+)
+"hw6-5/hw6_5.ml" 29 555 580 "hw6-5/hw6_5.ml" 29 555 582
+type(
+  ae
+)
+ident(
+  int_ref hd "hw6-5/hw6_5.ml" 29 555 559 "hw6-5/hw6_5.ml" 29 555 561
+)
+"hw6-5/hw6_5.ml" 29 555 583 "hw6-5/hw6_5.ml" 29 555 584
+type(
+  string
+)
+ident(
+  int_ref x "hw6-5/hw6_5.ml" 10 129 151 "hw6-5/hw6_5.ml" 10 129 152
+)
+"hw6-5/hw6_5.ml" 29 555 574 "hw6-5/hw6_5.ml" 29 555 585
+type(
+  ae
+)
+"hw6-5/hw6_5.ml" 29 555 588 "hw6-5/hw6_5.ml" 29 555 596
+type(
+  (ae -> ae) -> ae list -> ae list
+)
+ident(
+  ext_ref List.map
+)
+"hw6-5/hw6_5.ml" 29 555 602 "hw6-5/hw6_5.ml" 29 555 606
+ident(
+  def list "hw6-5/hw6_5.ml" 29 555 610 "hw6-5/hw6_5.ml" 29 555 623
+)
+"hw6-5/hw6_5.ml" 29 555 601 "hw6-5/hw6_5.ml" 29 555 607
+type(
+  ae
+)
+"hw6-5/hw6_5.ml" 29 555 611 "hw6-5/hw6_5.ml" 29 555 615
+type(
+  ae -> string -> ae
+)
+ident(
+  int_ref diff "hw6-5/hw6_5.ml" 10 129 137 "hw6-5/hw6_5.ml" 10 129 141
+)
+"hw6-5/hw6_5.ml" 29 555 616 "hw6-5/hw6_5.ml" 29 555 620
+type(
+  ae
+)
+ident(
+  int_ref list "hw6-5/hw6_5.ml" 29 555 601 "hw6-5/hw6_5.ml" 29 555 607
+)
+"hw6-5/hw6_5.ml" 29 555 621 "hw6-5/hw6_5.ml" 29 555 622
+type(
+  string
+)
+ident(
+  int_ref x "hw6-5/hw6_5.ml" 10 129 151 "hw6-5/hw6_5.ml" 10 129 152
+)
+"hw6-5/hw6_5.ml" 29 555 610 "hw6-5/hw6_5.ml" 29 555 623
+type(
+  ae
+)
+"hw6-5/hw6_5.ml" 29 555 597 "hw6-5/hw6_5.ml" 29 555 624
+type(
+  ae -> ae
+)
+"hw6-5/hw6_5.ml" 29 555 625 "hw6-5/hw6_5.ml" 29 555 627
+type(
+  ae list
+)
+ident(
+  int_ref tl "hw6-5/hw6_5.ml" 29 555 563 "hw6-5/hw6_5.ml" 29 555 565
+)
+"hw6-5/hw6_5.ml" 29 555 587 "hw6-5/hw6_5.ml" 29 555 628
+type(
+  ae list
+)
+"hw6-5/hw6_5.ml" 29 555 573 "hw6-5/hw6_5.ml" 29 555 629
+type(
+  ae list
+)
+"hw6-5/hw6_5.ml" 29 555 569 "hw6-5/hw6_5.ml" 29 555 629
+type(
+  ae
+)
+"hw6-5/hw6_5.ml" 27 519 521 "hw6-5/hw6_5.ml" 29 555 630
+type(
+  ae
+)
+"hw6-5/hw6_5.ml" 11 168 170 "hw6-5/hw6_5.ml" 29 555 630
+type(
+  ae
+)
+type(
+  ae
+)

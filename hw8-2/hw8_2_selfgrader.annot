@@ -1,0 +1,1718 @@
+"hw8-2/hw8_2_selfgrader.ml" 4 29 37 "hw8-2/hw8_2_selfgrader.ml" 4 29 50
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.print_endline
+)
+"hw8-2/hw8_2_selfgrader.ml" 4 29 51 "hw8-2/hw8_2_selfgrader.ml" 4 29 63
+type(
+  string
+)
+"hw8-2/hw8_2_selfgrader.ml" 4 29 37 "hw8-2/hw8_2_selfgrader.ml" 4 29 63
+type(
+  unit
+)
+"hw8-2/hw8_2_selfgrader.ml" 6 65 73 "hw8-2/hw8_2_selfgrader.ml" 6 65 83
+type(
+  Hw8_2.StringSetQ.queue -> Hw8_2.StringSetQ.element list
+)
+ident(
+  def queue2list "hw8-2/hw8_2_selfgrader.ml" 6 65 65 "hw8-2/hw8_2_selfgrader.ml" 1 0 -1
+)
+"hw8-2/hw8_2_selfgrader.ml" 6 65 85 "hw8-2/hw8_2_selfgrader.ml" 6 65 86
+type(
+  Hw8_2.StringSetQ.queue
+)
+ident(
+  def q "hw8-2/hw8_2_selfgrader.ml" 6 65 105 "hw8-2/hw8_2_selfgrader.ml" 9 183 214
+)
+"hw8-2/hw8_2_selfgrader.ml" 7 121 132 "hw8-2/hw8_2_selfgrader.ml" 7 121 133
+type(
+  Hw8_2.StringSetQ.element
+)
+ident(
+  def e "hw8-2/hw8_2_selfgrader.ml" 8 159 165 "hw8-2/hw8_2_selfgrader.ml" 8 159 182
+)
+"hw8-2/hw8_2_selfgrader.ml" 7 121 134 "hw8-2/hw8_2_selfgrader.ml" 7 121 135
+type(
+  Hw8_2.StringSetQ.queue
+)
+ident(
+  def r "hw8-2/hw8_2_selfgrader.ml" 8 159 165 "hw8-2/hw8_2_selfgrader.ml" 8 159 182
+)
+"hw8-2/hw8_2_selfgrader.ml" 7 121 131 "hw8-2/hw8_2_selfgrader.ml" 7 121 136
+type(
+  Hw8_2.StringSetQ.element * Hw8_2.StringSetQ.queue
+)
+"hw8-2/hw8_2_selfgrader.ml" 7 121 139 "hw8-2/hw8_2_selfgrader.ml" 7 121 153
+type(
+  Hw8_2.StringSetQ.queue -> Hw8_2.StringSetQ.element * Hw8_2.StringSetQ.queue
+)
+ident(
+  ext_ref Hw8_2.StringSetQ.deq
+)
+"hw8-2/hw8_2_selfgrader.ml" 7 121 154 "hw8-2/hw8_2_selfgrader.ml" 7 121 155
+type(
+  Hw8_2.StringSetQ.queue
+)
+ident(
+  int_ref q "hw8-2/hw8_2_selfgrader.ml" 6 65 85 "hw8-2/hw8_2_selfgrader.ml" 6 65 86
+)
+"hw8-2/hw8_2_selfgrader.ml" 7 121 139 "hw8-2/hw8_2_selfgrader.ml" 7 121 155
+type(
+  Hw8_2.StringSetQ.element * Hw8_2.StringSetQ.queue
+)
+"hw8-2/hw8_2_selfgrader.ml" 8 159 165 "hw8-2/hw8_2_selfgrader.ml" 8 159 166
+type(
+  Hw8_2.StringSetQ.element
+)
+ident(
+  int_ref e "hw8-2/hw8_2_selfgrader.ml" 7 121 132 "hw8-2/hw8_2_selfgrader.ml" 7 121 133
+)
+"hw8-2/hw8_2_selfgrader.ml" 8 159 169 "hw8-2/hw8_2_selfgrader.ml" 8 159 179
+type(
+  Hw8_2.StringSetQ.queue -> Hw8_2.StringSetQ.element list
+)
+ident(
+  int_ref queue2list "hw8-2/hw8_2_selfgrader.ml" 6 65 73 "hw8-2/hw8_2_selfgrader.ml" 6 65 83
+)
+"hw8-2/hw8_2_selfgrader.ml" 8 159 180 "hw8-2/hw8_2_selfgrader.ml" 8 159 181
+type(
+  Hw8_2.StringSetQ.queue
+)
+ident(
+  int_ref r "hw8-2/hw8_2_selfgrader.ml" 7 121 134 "hw8-2/hw8_2_selfgrader.ml" 7 121 135
+)
+"hw8-2/hw8_2_selfgrader.ml" 8 159 168 "hw8-2/hw8_2_selfgrader.ml" 8 159 182
+type(
+  Hw8_2.StringSetQ.element list
+)
+"hw8-2/hw8_2_selfgrader.ml" 8 159 165 "hw8-2/hw8_2_selfgrader.ml" 8 159 182
+type(
+  Hw8_2.StringSetQ.element list
+)
+"hw8-2/hw8_2_selfgrader.ml" 7 121 127 "hw8-2/hw8_2_selfgrader.ml" 8 159 182
+type(
+  Hw8_2.StringSetQ.element list
+)
+"hw8-2/hw8_2_selfgrader.ml" 9 183 190 "hw8-2/hw8_2_selfgrader.ml" 9 183 208
+type(
+  exn
+)
+"hw8-2/hw8_2_selfgrader.ml" 9 183 212 "hw8-2/hw8_2_selfgrader.ml" 9 183 214
+type(
+  string list
+)
+"hw8-2/hw8_2_selfgrader.ml" 7 121 123 "hw8-2/hw8_2_selfgrader.ml" 9 183 214
+type(
+  Hw8_2.StringSetQ.element list
+)
+type(
+  Hw8_2.StringSetQ.element list
+)
+"hw8-2/hw8_2_selfgrader.ml" 11 216 220 "hw8-2/hw8_2_selfgrader.ml" 11 216 229
+type(
+  Hw8_2.StringSetQ.queue
+)
+ident(
+  def abc_queue "hw8-2/hw8_2_selfgrader.ml" 13 319 319 "hw8-2/hw8_2_selfgrader.ml" 1 0 -1
+)
+"hw8-2/hw8_2_selfgrader.ml" 12 233 235 "hw8-2/hw8_2_selfgrader.ml" 12 233 249
+type(
+  Hw8_2.StringSetQ.queue * Hw8_2.StringSetQ.element -> Hw8_2.StringSetQ.queue
+)
+ident(
+  ext_ref Hw8_2.StringSetQ.enq
+)
+"hw8-2/hw8_2_selfgrader.ml" 12 233 251 "hw8-2/hw8_2_selfgrader.ml" 12 233 265
+type(
+  Hw8_2.StringSetQ.queue * Hw8_2.StringSetQ.element -> Hw8_2.StringSetQ.queue
+)
+ident(
+  ext_ref Hw8_2.StringSetQ.enq
+)
+"hw8-2/hw8_2_selfgrader.ml" 12 233 267 "hw8-2/hw8_2_selfgrader.ml" 12 233 281
+type(
+  Hw8_2.StringSetQ.queue * Hw8_2.StringSetQ.element -> Hw8_2.StringSetQ.queue
+)
+ident(
+  ext_ref Hw8_2.StringSetQ.enq
+)
+"hw8-2/hw8_2_selfgrader.ml" 12 233 283 "hw8-2/hw8_2_selfgrader.ml" 12 233 300
+type(
+  Hw8_2.StringSetQ.queue
+)
+ident(
+  ext_ref Hw8_2.StringSetQ.emptyq
+)
+"hw8-2/hw8_2_selfgrader.ml" 12 233 302 "hw8-2/hw8_2_selfgrader.ml" 12 233 305
+type(
+  Hw8_2.StringSetQ.element
+)
+"hw8-2/hw8_2_selfgrader.ml" 12 233 282 "hw8-2/hw8_2_selfgrader.ml" 12 233 306
+type(
+  Hw8_2.StringSetQ.queue * Hw8_2.StringSetQ.element
+)
+"hw8-2/hw8_2_selfgrader.ml" 12 233 267 "hw8-2/hw8_2_selfgrader.ml" 12 233 306
+type(
+  Hw8_2.StringSetQ.queue
+)
+"hw8-2/hw8_2_selfgrader.ml" 12 233 308 "hw8-2/hw8_2_selfgrader.ml" 12 233 311
+type(
+  Hw8_2.StringSetQ.element
+)
+"hw8-2/hw8_2_selfgrader.ml" 12 233 266 "hw8-2/hw8_2_selfgrader.ml" 12 233 312
+type(
+  Hw8_2.StringSetQ.queue * Hw8_2.StringSetQ.element
+)
+"hw8-2/hw8_2_selfgrader.ml" 12 233 251 "hw8-2/hw8_2_selfgrader.ml" 12 233 312
+type(
+  Hw8_2.StringSetQ.queue
+)
+"hw8-2/hw8_2_selfgrader.ml" 12 233 314 "hw8-2/hw8_2_selfgrader.ml" 12 233 317
+type(
+  Hw8_2.StringSetQ.element
+)
+"hw8-2/hw8_2_selfgrader.ml" 12 233 250 "hw8-2/hw8_2_selfgrader.ml" 12 233 318
+type(
+  Hw8_2.StringSetQ.queue * Hw8_2.StringSetQ.element
+)
+"hw8-2/hw8_2_selfgrader.ml" 12 233 235 "hw8-2/hw8_2_selfgrader.ml" 12 233 318
+type(
+  Hw8_2.StringSetQ.queue
+)
+"hw8-2/hw8_2_selfgrader.ml" 13 319 327 "hw8-2/hw8_2_selfgrader.ml" 13 319 333
+type(
+  (unit -> bool) -> unit
+)
+ident(
+  ext_ref CommonGrade.output
+)
+"hw8-2/hw8_2_selfgrader.ml" 13 319 339 "hw8-2/hw8_2_selfgrader.ml" 13 319 341
+type(
+  unit
+)
+"hw8-2/hw8_2_selfgrader.ml" 13 319 345 "hw8-2/hw8_2_selfgrader.ml" 13 319 355
+type(
+  Hw8_2.StringSetQ.queue -> Hw8_2.StringSetQ.element list
+)
+ident(
+  int_ref queue2list "hw8-2/hw8_2_selfgrader.ml" 6 65 73 "hw8-2/hw8_2_selfgrader.ml" 6 65 83
+)
+"hw8-2/hw8_2_selfgrader.ml" 13 319 356 "hw8-2/hw8_2_selfgrader.ml" 13 319 365
+type(
+  Hw8_2.StringSetQ.queue
+)
+ident(
+  int_ref abc_queue "hw8-2/hw8_2_selfgrader.ml" 11 216 220 "hw8-2/hw8_2_selfgrader.ml" 11 216 229
+)
+"hw8-2/hw8_2_selfgrader.ml" 13 319 345 "hw8-2/hw8_2_selfgrader.ml" 13 319 365
+type(
+  Hw8_2.StringSetQ.element list
+)
+"hw8-2/hw8_2_selfgrader.ml" 13 319 366 "hw8-2/hw8_2_selfgrader.ml" 13 319 367
+type(
+  Hw8_2.StringSetQ.element list -> Hw8_2.StringSetQ.element list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw8-2/hw8_2_selfgrader.ml" 13 319 369 "hw8-2/hw8_2_selfgrader.ml" 13 319 372
+type(
+  Hw8_2.StringSetQ.element
+)
+"hw8-2/hw8_2_selfgrader.ml" 13 319 373 "hw8-2/hw8_2_selfgrader.ml" 13 319 376
+type(
+  Hw8_2.StringSetQ.element
+)
+"hw8-2/hw8_2_selfgrader.ml" 13 319 377 "hw8-2/hw8_2_selfgrader.ml" 13 319 380
+type(
+  Hw8_2.StringSetQ.element
+)
+"hw8-2/hw8_2_selfgrader.ml" 13 319 368 "hw8-2/hw8_2_selfgrader.ml" 13 319 381
+type(
+  Hw8_2.StringSetQ.element list
+)
+"hw8-2/hw8_2_selfgrader.ml" 13 319 345 "hw8-2/hw8_2_selfgrader.ml" 13 319 381
+type(
+  bool
+)
+"hw8-2/hw8_2_selfgrader.ml" 13 319 334 "hw8-2/hw8_2_selfgrader.ml" 13 319 382
+type(
+  unit -> bool
+)
+"hw8-2/hw8_2_selfgrader.ml" 13 319 327 "hw8-2/hw8_2_selfgrader.ml" 13 319 382
+type(
+  unit
+)
+"hw8-2/hw8_2_selfgrader.ml" 15 384 389 "hw8-2/hw8_2_selfgrader.ml" 15 384 390
+type(
+  Hw8_2.StringSetQ.element
+)
+ident(
+  def a "hw8-2/hw8_2_selfgrader.ml" 16 428 428 "hw8-2/hw8_2_selfgrader.ml" 1 0 -1
+)
+"hw8-2/hw8_2_selfgrader.ml" 15 384 391 "hw8-2/hw8_2_selfgrader.ml" 15 384 399
+type(
+  Hw8_2.StringSetQ.queue
+)
+ident(
+  def bc_queue "hw8-2/hw8_2_selfgrader.ml" 16 428 428 "hw8-2/hw8_2_selfgrader.ml" 1 0 -1
+)
+"hw8-2/hw8_2_selfgrader.ml" 15 384 388 "hw8-2/hw8_2_selfgrader.ml" 15 384 400
+type(
+  Hw8_2.StringSetQ.element * Hw8_2.StringSetQ.queue
+)
+"hw8-2/hw8_2_selfgrader.ml" 15 384 403 "hw8-2/hw8_2_selfgrader.ml" 15 384 417
+type(
+  Hw8_2.StringSetQ.queue -> Hw8_2.StringSetQ.element * Hw8_2.StringSetQ.queue
+)
+ident(
+  ext_ref Hw8_2.StringSetQ.deq
+)
+"hw8-2/hw8_2_selfgrader.ml" 15 384 418 "hw8-2/hw8_2_selfgrader.ml" 15 384 427
+type(
+  Hw8_2.StringSetQ.queue
+)
+ident(
+  int_ref abc_queue "hw8-2/hw8_2_selfgrader.ml" 11 216 220 "hw8-2/hw8_2_selfgrader.ml" 11 216 229
+)
+"hw8-2/hw8_2_selfgrader.ml" 15 384 403 "hw8-2/hw8_2_selfgrader.ml" 15 384 427
+type(
+  Hw8_2.StringSetQ.element * Hw8_2.StringSetQ.queue
+)
+"hw8-2/hw8_2_selfgrader.ml" 16 428 436 "hw8-2/hw8_2_selfgrader.ml" 16 428 442
+type(
+  (unit -> bool) -> unit
+)
+ident(
+  ext_ref CommonGrade.output
+)
+"hw8-2/hw8_2_selfgrader.ml" 16 428 448 "hw8-2/hw8_2_selfgrader.ml" 16 428 450
+type(
+  unit
+)
+"hw8-2/hw8_2_selfgrader.ml" 16 428 454 "hw8-2/hw8_2_selfgrader.ml" 16 428 455
+type(
+  Hw8_2.StringSetQ.element
+)
+ident(
+  int_ref a "hw8-2/hw8_2_selfgrader.ml" 15 384 389 "hw8-2/hw8_2_selfgrader.ml" 15 384 390
+)
+"hw8-2/hw8_2_selfgrader.ml" 16 428 456 "hw8-2/hw8_2_selfgrader.ml" 16 428 457
+type(
+  Hw8_2.StringSetQ.element -> Hw8_2.StringSetQ.element -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw8-2/hw8_2_selfgrader.ml" 16 428 458 "hw8-2/hw8_2_selfgrader.ml" 16 428 461
+type(
+  Hw8_2.StringSetQ.element
+)
+"hw8-2/hw8_2_selfgrader.ml" 16 428 454 "hw8-2/hw8_2_selfgrader.ml" 16 428 461
+type(
+  bool
+)
+"hw8-2/hw8_2_selfgrader.ml" 16 428 443 "hw8-2/hw8_2_selfgrader.ml" 16 428 462
+type(
+  unit -> bool
+)
+"hw8-2/hw8_2_selfgrader.ml" 16 428 436 "hw8-2/hw8_2_selfgrader.ml" 16 428 462
+type(
+  unit
+)
+"hw8-2/hw8_2_selfgrader.ml" 17 463 471 "hw8-2/hw8_2_selfgrader.ml" 17 463 477
+type(
+  (unit -> bool) -> unit
+)
+ident(
+  ext_ref CommonGrade.output
+)
+"hw8-2/hw8_2_selfgrader.ml" 17 463 483 "hw8-2/hw8_2_selfgrader.ml" 17 463 485
+type(
+  unit
+)
+"hw8-2/hw8_2_selfgrader.ml" 17 463 489 "hw8-2/hw8_2_selfgrader.ml" 17 463 499
+type(
+  Hw8_2.StringSetQ.queue -> Hw8_2.StringSetQ.element list
+)
+ident(
+  int_ref queue2list "hw8-2/hw8_2_selfgrader.ml" 6 65 73 "hw8-2/hw8_2_selfgrader.ml" 6 65 83
+)
+"hw8-2/hw8_2_selfgrader.ml" 17 463 500 "hw8-2/hw8_2_selfgrader.ml" 17 463 508
+type(
+  Hw8_2.StringSetQ.queue
+)
+ident(
+  int_ref bc_queue "hw8-2/hw8_2_selfgrader.ml" 15 384 391 "hw8-2/hw8_2_selfgrader.ml" 15 384 399
+)
+"hw8-2/hw8_2_selfgrader.ml" 17 463 489 "hw8-2/hw8_2_selfgrader.ml" 17 463 508
+type(
+  Hw8_2.StringSetQ.element list
+)
+"hw8-2/hw8_2_selfgrader.ml" 17 463 509 "hw8-2/hw8_2_selfgrader.ml" 17 463 510
+type(
+  Hw8_2.StringSetQ.element list -> Hw8_2.StringSetQ.element list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw8-2/hw8_2_selfgrader.ml" 17 463 512 "hw8-2/hw8_2_selfgrader.ml" 17 463 515
+type(
+  Hw8_2.StringSetQ.element
+)
+"hw8-2/hw8_2_selfgrader.ml" 17 463 516 "hw8-2/hw8_2_selfgrader.ml" 17 463 519
+type(
+  Hw8_2.StringSetQ.element
+)
+"hw8-2/hw8_2_selfgrader.ml" 17 463 511 "hw8-2/hw8_2_selfgrader.ml" 17 463 520
+type(
+  Hw8_2.StringSetQ.element list
+)
+"hw8-2/hw8_2_selfgrader.ml" 17 463 489 "hw8-2/hw8_2_selfgrader.ml" 17 463 520
+type(
+  bool
+)
+"hw8-2/hw8_2_selfgrader.ml" 17 463 478 "hw8-2/hw8_2_selfgrader.ml" 17 463 521
+type(
+  unit -> bool
+)
+"hw8-2/hw8_2_selfgrader.ml" 17 463 471 "hw8-2/hw8_2_selfgrader.ml" 17 463 521
+type(
+  unit
+)
+"hw8-2/hw8_2_selfgrader.ml" 19 523 527 "hw8-2/hw8_2_selfgrader.ml" 19 523 535
+type(
+  Hw8_2.StringSetQ.queue
+)
+ident(
+  def bc_queue "hw8-2/hw8_2_selfgrader.ml" 20 569 569 "hw8-2/hw8_2_selfgrader.ml" 1 0 -1
+)
+"hw8-2/hw8_2_selfgrader.ml" 19 523 538 "hw8-2/hw8_2_selfgrader.ml" 19 523 552
+type(
+  Hw8_2.StringSetQ.queue * Hw8_2.StringSetQ.element -> Hw8_2.StringSetQ.queue
+)
+ident(
+  ext_ref Hw8_2.StringSetQ.enq
+)
+"hw8-2/hw8_2_selfgrader.ml" 19 523 554 "hw8-2/hw8_2_selfgrader.ml" 19 523 562
+type(
+  Hw8_2.StringSetQ.queue
+)
+ident(
+  int_ref bc_queue "hw8-2/hw8_2_selfgrader.ml" 15 384 391 "hw8-2/hw8_2_selfgrader.ml" 15 384 399
+)
+"hw8-2/hw8_2_selfgrader.ml" 19 523 564 "hw8-2/hw8_2_selfgrader.ml" 19 523 567
+type(
+  Hw8_2.StringSetQ.element
+)
+"hw8-2/hw8_2_selfgrader.ml" 19 523 553 "hw8-2/hw8_2_selfgrader.ml" 19 523 568
+type(
+  Hw8_2.StringSetQ.queue * Hw8_2.StringSetQ.element
+)
+"hw8-2/hw8_2_selfgrader.ml" 19 523 538 "hw8-2/hw8_2_selfgrader.ml" 19 523 568
+type(
+  Hw8_2.StringSetQ.queue
+)
+"hw8-2/hw8_2_selfgrader.ml" 20 569 577 "hw8-2/hw8_2_selfgrader.ml" 20 569 583
+type(
+  (unit -> bool) -> unit
+)
+ident(
+  ext_ref CommonGrade.output
+)
+"hw8-2/hw8_2_selfgrader.ml" 20 569 589 "hw8-2/hw8_2_selfgrader.ml" 20 569 591
+type(
+  unit
+)
+"hw8-2/hw8_2_selfgrader.ml" 20 569 595 "hw8-2/hw8_2_selfgrader.ml" 20 569 605
+type(
+  Hw8_2.StringSetQ.queue -> Hw8_2.StringSetQ.element list
+)
+ident(
+  int_ref queue2list "hw8-2/hw8_2_selfgrader.ml" 6 65 73 "hw8-2/hw8_2_selfgrader.ml" 6 65 83
+)
+"hw8-2/hw8_2_selfgrader.ml" 20 569 606 "hw8-2/hw8_2_selfgrader.ml" 20 569 614
+type(
+  Hw8_2.StringSetQ.queue
+)
+ident(
+  int_ref bc_queue "hw8-2/hw8_2_selfgrader.ml" 19 523 527 "hw8-2/hw8_2_selfgrader.ml" 19 523 535
+)
+"hw8-2/hw8_2_selfgrader.ml" 20 569 595 "hw8-2/hw8_2_selfgrader.ml" 20 569 614
+type(
+  Hw8_2.StringSetQ.element list
+)
+"hw8-2/hw8_2_selfgrader.ml" 20 569 615 "hw8-2/hw8_2_selfgrader.ml" 20 569 616
+type(
+  Hw8_2.StringSetQ.element list -> Hw8_2.StringSetQ.element list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw8-2/hw8_2_selfgrader.ml" 20 569 618 "hw8-2/hw8_2_selfgrader.ml" 20 569 621
+type(
+  Hw8_2.StringSetQ.element
+)
+"hw8-2/hw8_2_selfgrader.ml" 20 569 622 "hw8-2/hw8_2_selfgrader.ml" 20 569 625
+type(
+  Hw8_2.StringSetQ.element
+)
+"hw8-2/hw8_2_selfgrader.ml" 20 569 617 "hw8-2/hw8_2_selfgrader.ml" 20 569 626
+type(
+  Hw8_2.StringSetQ.element list
+)
+"hw8-2/hw8_2_selfgrader.ml" 20 569 595 "hw8-2/hw8_2_selfgrader.ml" 20 569 626
+type(
+  bool
+)
+"hw8-2/hw8_2_selfgrader.ml" 20 569 584 "hw8-2/hw8_2_selfgrader.ml" 20 569 627
+type(
+  unit -> bool
+)
+"hw8-2/hw8_2_selfgrader.ml" 20 569 577 "hw8-2/hw8_2_selfgrader.ml" 20 569 627
+type(
+  unit
+)
+"hw8-2/hw8_2_selfgrader.ml" 22 629 634 "hw8-2/hw8_2_selfgrader.ml" 22 629 635
+type(
+  Hw8_2.StringSetQ.element
+)
+ident(
+  def b "hw8-2/hw8_2_selfgrader.ml" 23 671 671 "hw8-2/hw8_2_selfgrader.ml" 1 0 -1
+)
+"hw8-2/hw8_2_selfgrader.ml" 22 629 636 "hw8-2/hw8_2_selfgrader.ml" 22 629 643
+type(
+  Hw8_2.StringSetQ.queue
+)
+ident(
+  def c_queue "hw8-2/hw8_2_selfgrader.ml" 23 671 671 "hw8-2/hw8_2_selfgrader.ml" 1 0 -1
+)
+"hw8-2/hw8_2_selfgrader.ml" 22 629 633 "hw8-2/hw8_2_selfgrader.ml" 22 629 644
+type(
+  Hw8_2.StringSetQ.element * Hw8_2.StringSetQ.queue
+)
+"hw8-2/hw8_2_selfgrader.ml" 22 629 647 "hw8-2/hw8_2_selfgrader.ml" 22 629 661
+type(
+  Hw8_2.StringSetQ.queue -> Hw8_2.StringSetQ.element * Hw8_2.StringSetQ.queue
+)
+ident(
+  ext_ref Hw8_2.StringSetQ.deq
+)
+"hw8-2/hw8_2_selfgrader.ml" 22 629 662 "hw8-2/hw8_2_selfgrader.ml" 22 629 670
+type(
+  Hw8_2.StringSetQ.queue
+)
+ident(
+  int_ref bc_queue "hw8-2/hw8_2_selfgrader.ml" 19 523 527 "hw8-2/hw8_2_selfgrader.ml" 19 523 535
+)
+"hw8-2/hw8_2_selfgrader.ml" 22 629 647 "hw8-2/hw8_2_selfgrader.ml" 22 629 670
+type(
+  Hw8_2.StringSetQ.element * Hw8_2.StringSetQ.queue
+)
+"hw8-2/hw8_2_selfgrader.ml" 23 671 679 "hw8-2/hw8_2_selfgrader.ml" 23 671 685
+type(
+  (unit -> bool) -> unit
+)
+ident(
+  ext_ref CommonGrade.output
+)
+"hw8-2/hw8_2_selfgrader.ml" 23 671 691 "hw8-2/hw8_2_selfgrader.ml" 23 671 693
+type(
+  unit
+)
+"hw8-2/hw8_2_selfgrader.ml" 23 671 697 "hw8-2/hw8_2_selfgrader.ml" 23 671 698
+type(
+  Hw8_2.StringSetQ.element
+)
+ident(
+  int_ref b "hw8-2/hw8_2_selfgrader.ml" 22 629 634 "hw8-2/hw8_2_selfgrader.ml" 22 629 635
+)
+"hw8-2/hw8_2_selfgrader.ml" 23 671 699 "hw8-2/hw8_2_selfgrader.ml" 23 671 700
+type(
+  Hw8_2.StringSetQ.element -> Hw8_2.StringSetQ.element -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw8-2/hw8_2_selfgrader.ml" 23 671 701 "hw8-2/hw8_2_selfgrader.ml" 23 671 704
+type(
+  Hw8_2.StringSetQ.element
+)
+"hw8-2/hw8_2_selfgrader.ml" 23 671 697 "hw8-2/hw8_2_selfgrader.ml" 23 671 704
+type(
+  bool
+)
+"hw8-2/hw8_2_selfgrader.ml" 23 671 686 "hw8-2/hw8_2_selfgrader.ml" 23 671 705
+type(
+  unit -> bool
+)
+"hw8-2/hw8_2_selfgrader.ml" 23 671 679 "hw8-2/hw8_2_selfgrader.ml" 23 671 705
+type(
+  unit
+)
+"hw8-2/hw8_2_selfgrader.ml" 24 706 714 "hw8-2/hw8_2_selfgrader.ml" 24 706 720
+type(
+  (unit -> bool) -> unit
+)
+ident(
+  ext_ref CommonGrade.output
+)
+"hw8-2/hw8_2_selfgrader.ml" 24 706 726 "hw8-2/hw8_2_selfgrader.ml" 24 706 728
+type(
+  unit
+)
+"hw8-2/hw8_2_selfgrader.ml" 24 706 732 "hw8-2/hw8_2_selfgrader.ml" 24 706 742
+type(
+  Hw8_2.StringSetQ.queue -> Hw8_2.StringSetQ.element list
+)
+ident(
+  int_ref queue2list "hw8-2/hw8_2_selfgrader.ml" 6 65 73 "hw8-2/hw8_2_selfgrader.ml" 6 65 83
+)
+"hw8-2/hw8_2_selfgrader.ml" 24 706 743 "hw8-2/hw8_2_selfgrader.ml" 24 706 750
+type(
+  Hw8_2.StringSetQ.queue
+)
+ident(
+  int_ref c_queue "hw8-2/hw8_2_selfgrader.ml" 22 629 636 "hw8-2/hw8_2_selfgrader.ml" 22 629 643
+)
+"hw8-2/hw8_2_selfgrader.ml" 24 706 732 "hw8-2/hw8_2_selfgrader.ml" 24 706 750
+type(
+  Hw8_2.StringSetQ.element list
+)
+"hw8-2/hw8_2_selfgrader.ml" 24 706 751 "hw8-2/hw8_2_selfgrader.ml" 24 706 752
+type(
+  Hw8_2.StringSetQ.element list -> Hw8_2.StringSetQ.element list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw8-2/hw8_2_selfgrader.ml" 24 706 754 "hw8-2/hw8_2_selfgrader.ml" 24 706 757
+type(
+  Hw8_2.StringSetQ.element
+)
+"hw8-2/hw8_2_selfgrader.ml" 24 706 753 "hw8-2/hw8_2_selfgrader.ml" 24 706 758
+type(
+  Hw8_2.StringSetQ.element list
+)
+"hw8-2/hw8_2_selfgrader.ml" 24 706 732 "hw8-2/hw8_2_selfgrader.ml" 24 706 758
+type(
+  bool
+)
+"hw8-2/hw8_2_selfgrader.ml" 24 706 721 "hw8-2/hw8_2_selfgrader.ml" 24 706 759
+type(
+  unit -> bool
+)
+"hw8-2/hw8_2_selfgrader.ml" 24 706 714 "hw8-2/hw8_2_selfgrader.ml" 24 706 759
+type(
+  unit
+)
+"hw8-2/hw8_2_selfgrader.ml" 26 761 766 "hw8-2/hw8_2_selfgrader.ml" 26 761 767
+type(
+  Hw8_2.StringSetQ.element
+)
+ident(
+  def c "hw8-2/hw8_2_selfgrader.ml" 27 806 806 "hw8-2/hw8_2_selfgrader.ml" 1 0 -1
+)
+"hw8-2/hw8_2_selfgrader.ml" 26 761 768 "hw8-2/hw8_2_selfgrader.ml" 26 761 779
+type(
+  Hw8_2.StringSetQ.queue
+)
+ident(
+  def empty_queue "hw8-2/hw8_2_selfgrader.ml" 27 806 806 "hw8-2/hw8_2_selfgrader.ml" 1 0 -1
+)
+"hw8-2/hw8_2_selfgrader.ml" 26 761 765 "hw8-2/hw8_2_selfgrader.ml" 26 761 780
+type(
+  Hw8_2.StringSetQ.element * Hw8_2.StringSetQ.queue
+)
+"hw8-2/hw8_2_selfgrader.ml" 26 761 783 "hw8-2/hw8_2_selfgrader.ml" 26 761 797
+type(
+  Hw8_2.StringSetQ.queue -> Hw8_2.StringSetQ.element * Hw8_2.StringSetQ.queue
+)
+ident(
+  ext_ref Hw8_2.StringSetQ.deq
+)
+"hw8-2/hw8_2_selfgrader.ml" 26 761 798 "hw8-2/hw8_2_selfgrader.ml" 26 761 805
+type(
+  Hw8_2.StringSetQ.queue
+)
+ident(
+  int_ref c_queue "hw8-2/hw8_2_selfgrader.ml" 22 629 636 "hw8-2/hw8_2_selfgrader.ml" 22 629 643
+)
+"hw8-2/hw8_2_selfgrader.ml" 26 761 783 "hw8-2/hw8_2_selfgrader.ml" 26 761 805
+type(
+  Hw8_2.StringSetQ.element * Hw8_2.StringSetQ.queue
+)
+"hw8-2/hw8_2_selfgrader.ml" 27 806 814 "hw8-2/hw8_2_selfgrader.ml" 27 806 820
+type(
+  (unit -> bool) -> unit
+)
+ident(
+  ext_ref CommonGrade.output
+)
+"hw8-2/hw8_2_selfgrader.ml" 27 806 826 "hw8-2/hw8_2_selfgrader.ml" 27 806 828
+type(
+  unit
+)
+"hw8-2/hw8_2_selfgrader.ml" 27 806 832 "hw8-2/hw8_2_selfgrader.ml" 27 806 833
+type(
+  Hw8_2.StringSetQ.element
+)
+ident(
+  int_ref c "hw8-2/hw8_2_selfgrader.ml" 26 761 766 "hw8-2/hw8_2_selfgrader.ml" 26 761 767
+)
+"hw8-2/hw8_2_selfgrader.ml" 27 806 834 "hw8-2/hw8_2_selfgrader.ml" 27 806 835
+type(
+  Hw8_2.StringSetQ.element -> Hw8_2.StringSetQ.element -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw8-2/hw8_2_selfgrader.ml" 27 806 836 "hw8-2/hw8_2_selfgrader.ml" 27 806 839
+type(
+  Hw8_2.StringSetQ.element
+)
+"hw8-2/hw8_2_selfgrader.ml" 27 806 832 "hw8-2/hw8_2_selfgrader.ml" 27 806 839
+type(
+  bool
+)
+"hw8-2/hw8_2_selfgrader.ml" 27 806 821 "hw8-2/hw8_2_selfgrader.ml" 27 806 840
+type(
+  unit -> bool
+)
+"hw8-2/hw8_2_selfgrader.ml" 27 806 814 "hw8-2/hw8_2_selfgrader.ml" 27 806 840
+type(
+  unit
+)
+"hw8-2/hw8_2_selfgrader.ml" 28 841 849 "hw8-2/hw8_2_selfgrader.ml" 28 841 855
+type(
+  (unit -> bool) -> unit
+)
+ident(
+  ext_ref CommonGrade.output
+)
+"hw8-2/hw8_2_selfgrader.ml" 28 841 861 "hw8-2/hw8_2_selfgrader.ml" 28 841 863
+type(
+  unit
+)
+"hw8-2/hw8_2_selfgrader.ml" 28 841 867 "hw8-2/hw8_2_selfgrader.ml" 28 841 877
+type(
+  Hw8_2.StringSetQ.queue -> Hw8_2.StringSetQ.element list
+)
+ident(
+  int_ref queue2list "hw8-2/hw8_2_selfgrader.ml" 6 65 73 "hw8-2/hw8_2_selfgrader.ml" 6 65 83
+)
+"hw8-2/hw8_2_selfgrader.ml" 28 841 878 "hw8-2/hw8_2_selfgrader.ml" 28 841 889
+type(
+  Hw8_2.StringSetQ.queue
+)
+ident(
+  int_ref empty_queue "hw8-2/hw8_2_selfgrader.ml" 26 761 768 "hw8-2/hw8_2_selfgrader.ml" 26 761 779
+)
+"hw8-2/hw8_2_selfgrader.ml" 28 841 867 "hw8-2/hw8_2_selfgrader.ml" 28 841 889
+type(
+  Hw8_2.StringSetQ.element list
+)
+"hw8-2/hw8_2_selfgrader.ml" 28 841 890 "hw8-2/hw8_2_selfgrader.ml" 28 841 891
+type(
+  Hw8_2.StringSetQ.element list -> Hw8_2.StringSetQ.element list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw8-2/hw8_2_selfgrader.ml" 28 841 892 "hw8-2/hw8_2_selfgrader.ml" 28 841 894
+type(
+  Hw8_2.StringSetQ.element list
+)
+"hw8-2/hw8_2_selfgrader.ml" 28 841 867 "hw8-2/hw8_2_selfgrader.ml" 28 841 894
+type(
+  bool
+)
+"hw8-2/hw8_2_selfgrader.ml" 28 841 856 "hw8-2/hw8_2_selfgrader.ml" 28 841 895
+type(
+  unit -> bool
+)
+"hw8-2/hw8_2_selfgrader.ml" 28 841 849 "hw8-2/hw8_2_selfgrader.ml" 28 841 895
+type(
+  unit
+)
+"hw8-2/hw8_2_selfgrader.ml" 31 898 906 "hw8-2/hw8_2_selfgrader.ml" 31 898 919
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.print_endline
+)
+"hw8-2/hw8_2_selfgrader.ml" 31 898 920 "hw8-2/hw8_2_selfgrader.ml" 31 898 933
+type(
+  string
+)
+"hw8-2/hw8_2_selfgrader.ml" 31 898 906 "hw8-2/hw8_2_selfgrader.ml" 31 898 933
+type(
+  unit
+)
+"hw8-2/hw8_2_selfgrader.ml" 33 935 943 "hw8-2/hw8_2_selfgrader.ml" 33 935 954
+type(
+  Hw8_2.StringSetQQ.queue -> Hw8_2.StringSetQ.element list list
+)
+ident(
+  def qqueue2list "hw8-2/hw8_2_selfgrader.ml" 33 935 935 "hw8-2/hw8_2_selfgrader.ml" 1 0 -1
+)
+"hw8-2/hw8_2_selfgrader.ml" 33 935 956 "hw8-2/hw8_2_selfgrader.ml" 33 935 958
+type(
+  Hw8_2.StringSetQQ.queue
+)
+ident(
+  def qq "hw8-2/hw8_2_selfgrader.ml" 33 935 978 "hw8-2/hw8_2_selfgrader.ml" 36 1079 1111
+)
+"hw8-2/hw8_2_selfgrader.ml" 34 1001 1012 "hw8-2/hw8_2_selfgrader.ml" 34 1001 1013
+type(
+  Hw8_2.StringSetQQ.element
+)
+ident(
+  def e "hw8-2/hw8_2_selfgrader.ml" 35 1041 1047 "hw8-2/hw8_2_selfgrader.ml" 35 1041 1078
+)
+"hw8-2/hw8_2_selfgrader.ml" 34 1001 1014 "hw8-2/hw8_2_selfgrader.ml" 34 1001 1015
+type(
+  Hw8_2.StringSetQQ.queue
+)
+ident(
+  def r "hw8-2/hw8_2_selfgrader.ml" 35 1041 1047 "hw8-2/hw8_2_selfgrader.ml" 35 1041 1078
+)
+"hw8-2/hw8_2_selfgrader.ml" 34 1001 1011 "hw8-2/hw8_2_selfgrader.ml" 34 1001 1016
+type(
+  Hw8_2.StringSetQQ.element * Hw8_2.StringSetQQ.queue
+)
+"hw8-2/hw8_2_selfgrader.ml" 34 1001 1019 "hw8-2/hw8_2_selfgrader.ml" 34 1001 1034
+type(
+  Hw8_2.StringSetQQ.queue ->
+  Hw8_2.StringSetQQ.element * Hw8_2.StringSetQQ.queue
+)
+ident(
+  ext_ref Hw8_2.StringSetQQ.deq
+)
+"hw8-2/hw8_2_selfgrader.ml" 34 1001 1035 "hw8-2/hw8_2_selfgrader.ml" 34 1001 1037
+type(
+  Hw8_2.StringSetQQ.queue
+)
+ident(
+  int_ref qq "hw8-2/hw8_2_selfgrader.ml" 33 935 956 "hw8-2/hw8_2_selfgrader.ml" 33 935 958
+)
+"hw8-2/hw8_2_selfgrader.ml" 34 1001 1019 "hw8-2/hw8_2_selfgrader.ml" 34 1001 1037
+type(
+  Hw8_2.StringSetQQ.element * Hw8_2.StringSetQQ.queue
+)
+"hw8-2/hw8_2_selfgrader.ml" 35 1041 1048 "hw8-2/hw8_2_selfgrader.ml" 35 1041 1058
+type(
+  Hw8_2.StringSetQQ.element -> Hw8_2.StringSetQ.element list
+)
+ident(
+  int_ref queue2list "hw8-2/hw8_2_selfgrader.ml" 6 65 73 "hw8-2/hw8_2_selfgrader.ml" 6 65 83
+)
+"hw8-2/hw8_2_selfgrader.ml" 35 1041 1059 "hw8-2/hw8_2_selfgrader.ml" 35 1041 1060
+type(
+  Hw8_2.StringSetQQ.element
+)
+ident(
+  int_ref e "hw8-2/hw8_2_selfgrader.ml" 34 1001 1012 "hw8-2/hw8_2_selfgrader.ml" 34 1001 1013
+)
+"hw8-2/hw8_2_selfgrader.ml" 35 1041 1047 "hw8-2/hw8_2_selfgrader.ml" 35 1041 1061
+type(
+  Hw8_2.StringSetQ.element list
+)
+"hw8-2/hw8_2_selfgrader.ml" 35 1041 1064 "hw8-2/hw8_2_selfgrader.ml" 35 1041 1075
+type(
+  Hw8_2.StringSetQQ.queue -> Hw8_2.StringSetQ.element list list
+)
+ident(
+  int_ref qqueue2list "hw8-2/hw8_2_selfgrader.ml" 33 935 943 "hw8-2/hw8_2_selfgrader.ml" 33 935 954
+)
+"hw8-2/hw8_2_selfgrader.ml" 35 1041 1076 "hw8-2/hw8_2_selfgrader.ml" 35 1041 1077
+type(
+  Hw8_2.StringSetQQ.queue
+)
+ident(
+  int_ref r "hw8-2/hw8_2_selfgrader.ml" 34 1001 1014 "hw8-2/hw8_2_selfgrader.ml" 34 1001 1015
+)
+"hw8-2/hw8_2_selfgrader.ml" 35 1041 1063 "hw8-2/hw8_2_selfgrader.ml" 35 1041 1078
+type(
+  Hw8_2.StringSetQ.element list list
+)
+"hw8-2/hw8_2_selfgrader.ml" 35 1041 1047 "hw8-2/hw8_2_selfgrader.ml" 35 1041 1078
+type(
+  Hw8_2.StringSetQ.element list list
+)
+"hw8-2/hw8_2_selfgrader.ml" 34 1001 1007 "hw8-2/hw8_2_selfgrader.ml" 35 1041 1078
+type(
+  Hw8_2.StringSetQ.element list list
+)
+"hw8-2/hw8_2_selfgrader.ml" 36 1079 1086 "hw8-2/hw8_2_selfgrader.ml" 36 1079 1105
+type(
+  exn
+)
+"hw8-2/hw8_2_selfgrader.ml" 36 1079 1109 "hw8-2/hw8_2_selfgrader.ml" 36 1079 1111
+type(
+  string list list
+)
+"hw8-2/hw8_2_selfgrader.ml" 34 1001 1003 "hw8-2/hw8_2_selfgrader.ml" 36 1079 1111
+type(
+  Hw8_2.StringSetQ.element list list
+)
+type(
+  Hw8_2.StringSetQ.element list list
+)
+"hw8-2/hw8_2_selfgrader.ml" 38 1113 1117 "hw8-2/hw8_2_selfgrader.ml" 38 1113 1132
+type(
+  Hw8_2.StringSetQQ.queue
+)
+ident(
+  def abc_bc_c_qqueue "hw8-2/hw8_2_selfgrader.ml" 40 1241 1241 "hw8-2/hw8_2_selfgrader.ml" 1 0 -1
+)
+"hw8-2/hw8_2_selfgrader.ml" 39 1136 1138 "hw8-2/hw8_2_selfgrader.ml" 39 1136 1153
+type(
+  Hw8_2.StringSetQQ.queue * Hw8_2.StringSetQQ.element ->
+  Hw8_2.StringSetQQ.queue
+)
+ident(
+  ext_ref Hw8_2.StringSetQQ.enq
+)
+"hw8-2/hw8_2_selfgrader.ml" 39 1136 1155 "hw8-2/hw8_2_selfgrader.ml" 39 1136 1170
+type(
+  Hw8_2.StringSetQQ.queue * Hw8_2.StringSetQQ.element ->
+  Hw8_2.StringSetQQ.queue
+)
+ident(
+  ext_ref Hw8_2.StringSetQQ.enq
+)
+"hw8-2/hw8_2_selfgrader.ml" 39 1136 1172 "hw8-2/hw8_2_selfgrader.ml" 39 1136 1187
+type(
+  Hw8_2.StringSetQQ.queue * Hw8_2.StringSetQQ.element ->
+  Hw8_2.StringSetQQ.queue
+)
+ident(
+  ext_ref Hw8_2.StringSetQQ.enq
+)
+"hw8-2/hw8_2_selfgrader.ml" 39 1136 1189 "hw8-2/hw8_2_selfgrader.ml" 39 1136 1207
+type(
+  Hw8_2.StringSetQQ.queue
+)
+ident(
+  ext_ref Hw8_2.StringSetQQ.emptyq
+)
+"hw8-2/hw8_2_selfgrader.ml" 39 1136 1209 "hw8-2/hw8_2_selfgrader.ml" 39 1136 1218
+type(
+  Hw8_2.StringSetQQ.element
+)
+ident(
+  int_ref abc_queue "hw8-2/hw8_2_selfgrader.ml" 11 216 220 "hw8-2/hw8_2_selfgrader.ml" 11 216 229
+)
+"hw8-2/hw8_2_selfgrader.ml" 39 1136 1188 "hw8-2/hw8_2_selfgrader.ml" 39 1136 1219
+type(
+  Hw8_2.StringSetQQ.queue * Hw8_2.StringSetQQ.element
+)
+"hw8-2/hw8_2_selfgrader.ml" 39 1136 1172 "hw8-2/hw8_2_selfgrader.ml" 39 1136 1219
+type(
+  Hw8_2.StringSetQQ.queue
+)
+"hw8-2/hw8_2_selfgrader.ml" 39 1136 1221 "hw8-2/hw8_2_selfgrader.ml" 39 1136 1229
+type(
+  Hw8_2.StringSetQQ.element
+)
+ident(
+  int_ref bc_queue "hw8-2/hw8_2_selfgrader.ml" 19 523 527 "hw8-2/hw8_2_selfgrader.ml" 19 523 535
+)
+"hw8-2/hw8_2_selfgrader.ml" 39 1136 1171 "hw8-2/hw8_2_selfgrader.ml" 39 1136 1230
+type(
+  Hw8_2.StringSetQQ.queue * Hw8_2.StringSetQQ.element
+)
+"hw8-2/hw8_2_selfgrader.ml" 39 1136 1155 "hw8-2/hw8_2_selfgrader.ml" 39 1136 1230
+type(
+  Hw8_2.StringSetQQ.queue
+)
+"hw8-2/hw8_2_selfgrader.ml" 39 1136 1232 "hw8-2/hw8_2_selfgrader.ml" 39 1136 1239
+type(
+  Hw8_2.StringSetQQ.element
+)
+ident(
+  int_ref c_queue "hw8-2/hw8_2_selfgrader.ml" 22 629 636 "hw8-2/hw8_2_selfgrader.ml" 22 629 643
+)
+"hw8-2/hw8_2_selfgrader.ml" 39 1136 1154 "hw8-2/hw8_2_selfgrader.ml" 39 1136 1240
+type(
+  Hw8_2.StringSetQQ.queue * Hw8_2.StringSetQQ.element
+)
+"hw8-2/hw8_2_selfgrader.ml" 39 1136 1138 "hw8-2/hw8_2_selfgrader.ml" 39 1136 1240
+type(
+  Hw8_2.StringSetQQ.queue
+)
+"hw8-2/hw8_2_selfgrader.ml" 40 1241 1249 "hw8-2/hw8_2_selfgrader.ml" 40 1241 1255
+type(
+  (unit -> bool) -> unit
+)
+ident(
+  ext_ref CommonGrade.output
+)
+"hw8-2/hw8_2_selfgrader.ml" 40 1241 1261 "hw8-2/hw8_2_selfgrader.ml" 40 1241 1263
+type(
+  unit
+)
+"hw8-2/hw8_2_selfgrader.ml" 41 1268 1270 "hw8-2/hw8_2_selfgrader.ml" 41 1268 1281
+type(
+  Hw8_2.StringSetQQ.queue -> Hw8_2.StringSetQ.element list list
+)
+ident(
+  int_ref qqueue2list "hw8-2/hw8_2_selfgrader.ml" 33 935 943 "hw8-2/hw8_2_selfgrader.ml" 33 935 954
+)
+"hw8-2/hw8_2_selfgrader.ml" 41 1268 1282 "hw8-2/hw8_2_selfgrader.ml" 41 1268 1297
+type(
+  Hw8_2.StringSetQQ.queue
+)
+ident(
+  int_ref abc_bc_c_qqueue "hw8-2/hw8_2_selfgrader.ml" 38 1113 1117 "hw8-2/hw8_2_selfgrader.ml" 38 1113 1132
+)
+"hw8-2/hw8_2_selfgrader.ml" 41 1268 1270 "hw8-2/hw8_2_selfgrader.ml" 41 1268 1297
+type(
+  Hw8_2.StringSetQ.element list list
+)
+"hw8-2/hw8_2_selfgrader.ml" 41 1268 1298 "hw8-2/hw8_2_selfgrader.ml" 41 1268 1299
+type(
+  Hw8_2.StringSetQ.element list list ->
+  Hw8_2.StringSetQ.element list list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw8-2/hw8_2_selfgrader.ml" 41 1268 1302 "hw8-2/hw8_2_selfgrader.ml" 41 1268 1305
+type(
+  Hw8_2.StringSetQ.element
+)
+"hw8-2/hw8_2_selfgrader.ml" 41 1268 1306 "hw8-2/hw8_2_selfgrader.ml" 41 1268 1309
+type(
+  Hw8_2.StringSetQ.element
+)
+"hw8-2/hw8_2_selfgrader.ml" 41 1268 1310 "hw8-2/hw8_2_selfgrader.ml" 41 1268 1313
+type(
+  Hw8_2.StringSetQ.element
+)
+"hw8-2/hw8_2_selfgrader.ml" 41 1268 1301 "hw8-2/hw8_2_selfgrader.ml" 41 1268 1314
+type(
+  Hw8_2.StringSetQ.element list
+)
+"hw8-2/hw8_2_selfgrader.ml" 41 1268 1316 "hw8-2/hw8_2_selfgrader.ml" 41 1268 1319
+type(
+  Hw8_2.StringSetQ.element
+)
+"hw8-2/hw8_2_selfgrader.ml" 41 1268 1320 "hw8-2/hw8_2_selfgrader.ml" 41 1268 1323
+type(
+  Hw8_2.StringSetQ.element
+)
+"hw8-2/hw8_2_selfgrader.ml" 41 1268 1315 "hw8-2/hw8_2_selfgrader.ml" 41 1268 1324
+type(
+  Hw8_2.StringSetQ.element list
+)
+"hw8-2/hw8_2_selfgrader.ml" 41 1268 1326 "hw8-2/hw8_2_selfgrader.ml" 41 1268 1329
+type(
+  Hw8_2.StringSetQ.element
+)
+"hw8-2/hw8_2_selfgrader.ml" 41 1268 1325 "hw8-2/hw8_2_selfgrader.ml" 41 1268 1330
+type(
+  Hw8_2.StringSetQ.element list
+)
+"hw8-2/hw8_2_selfgrader.ml" 41 1268 1300 "hw8-2/hw8_2_selfgrader.ml" 41 1268 1331
+type(
+  Hw8_2.StringSetQ.element list list
+)
+"hw8-2/hw8_2_selfgrader.ml" 41 1268 1270 "hw8-2/hw8_2_selfgrader.ml" 41 1268 1331
+type(
+  bool
+)
+"hw8-2/hw8_2_selfgrader.ml" 40 1241 1256 "hw8-2/hw8_2_selfgrader.ml" 42 1332 1333
+type(
+  unit -> bool
+)
+"hw8-2/hw8_2_selfgrader.ml" 40 1241 1249 "hw8-2/hw8_2_selfgrader.ml" 42 1332 1333
+type(
+  unit
+)
+"hw8-2/hw8_2_selfgrader.ml" 44 1335 1340 "hw8-2/hw8_2_selfgrader.ml" 44 1335 1349
+type(
+  Hw8_2.StringSetQQ.element
+)
+ident(
+  def abc_queue "hw8-2/hw8_2_selfgrader.ml" 45 1397 1397 "hw8-2/hw8_2_selfgrader.ml" 1 0 -1
+)
+"hw8-2/hw8_2_selfgrader.ml" 44 1335 1350 "hw8-2/hw8_2_selfgrader.ml" 44 1335 1361
+type(
+  Hw8_2.StringSetQQ.queue
+)
+ident(
+  def bc_c_qqueue "hw8-2/hw8_2_selfgrader.ml" 45 1397 1397 "hw8-2/hw8_2_selfgrader.ml" 1 0 -1
+)
+"hw8-2/hw8_2_selfgrader.ml" 44 1335 1339 "hw8-2/hw8_2_selfgrader.ml" 44 1335 1362
+type(
+  Hw8_2.StringSetQQ.element * Hw8_2.StringSetQQ.queue
+)
+"hw8-2/hw8_2_selfgrader.ml" 44 1335 1365 "hw8-2/hw8_2_selfgrader.ml" 44 1335 1380
+type(
+  Hw8_2.StringSetQQ.queue ->
+  Hw8_2.StringSetQQ.element * Hw8_2.StringSetQQ.queue
+)
+ident(
+  ext_ref Hw8_2.StringSetQQ.deq
+)
+"hw8-2/hw8_2_selfgrader.ml" 44 1335 1381 "hw8-2/hw8_2_selfgrader.ml" 44 1335 1396
+type(
+  Hw8_2.StringSetQQ.queue
+)
+ident(
+  int_ref abc_bc_c_qqueue "hw8-2/hw8_2_selfgrader.ml" 38 1113 1117 "hw8-2/hw8_2_selfgrader.ml" 38 1113 1132
+)
+"hw8-2/hw8_2_selfgrader.ml" 44 1335 1365 "hw8-2/hw8_2_selfgrader.ml" 44 1335 1396
+type(
+  Hw8_2.StringSetQQ.element * Hw8_2.StringSetQQ.queue
+)
+"hw8-2/hw8_2_selfgrader.ml" 45 1397 1405 "hw8-2/hw8_2_selfgrader.ml" 45 1397 1411
+type(
+  (unit -> bool) -> unit
+)
+ident(
+  ext_ref CommonGrade.output
+)
+"hw8-2/hw8_2_selfgrader.ml" 45 1397 1417 "hw8-2/hw8_2_selfgrader.ml" 45 1397 1419
+type(
+  unit
+)
+"hw8-2/hw8_2_selfgrader.ml" 45 1397 1423 "hw8-2/hw8_2_selfgrader.ml" 45 1397 1433
+type(
+  Hw8_2.StringSetQQ.element -> Hw8_2.StringSetQ.element list
+)
+ident(
+  int_ref queue2list "hw8-2/hw8_2_selfgrader.ml" 6 65 73 "hw8-2/hw8_2_selfgrader.ml" 6 65 83
+)
+"hw8-2/hw8_2_selfgrader.ml" 45 1397 1434 "hw8-2/hw8_2_selfgrader.ml" 45 1397 1443
+type(
+  Hw8_2.StringSetQQ.element
+)
+ident(
+  int_ref abc_queue "hw8-2/hw8_2_selfgrader.ml" 44 1335 1340 "hw8-2/hw8_2_selfgrader.ml" 44 1335 1349
+)
+"hw8-2/hw8_2_selfgrader.ml" 45 1397 1423 "hw8-2/hw8_2_selfgrader.ml" 45 1397 1443
+type(
+  Hw8_2.StringSetQ.element list
+)
+"hw8-2/hw8_2_selfgrader.ml" 45 1397 1444 "hw8-2/hw8_2_selfgrader.ml" 45 1397 1445
+type(
+  Hw8_2.StringSetQ.element list -> Hw8_2.StringSetQ.element list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw8-2/hw8_2_selfgrader.ml" 45 1397 1447 "hw8-2/hw8_2_selfgrader.ml" 45 1397 1450
+type(
+  Hw8_2.StringSetQ.element
+)
+"hw8-2/hw8_2_selfgrader.ml" 45 1397 1451 "hw8-2/hw8_2_selfgrader.ml" 45 1397 1454
+type(
+  Hw8_2.StringSetQ.element
+)
+"hw8-2/hw8_2_selfgrader.ml" 45 1397 1455 "hw8-2/hw8_2_selfgrader.ml" 45 1397 1458
+type(
+  Hw8_2.StringSetQ.element
+)
+"hw8-2/hw8_2_selfgrader.ml" 45 1397 1446 "hw8-2/hw8_2_selfgrader.ml" 45 1397 1459
+type(
+  Hw8_2.StringSetQ.element list
+)
+"hw8-2/hw8_2_selfgrader.ml" 45 1397 1423 "hw8-2/hw8_2_selfgrader.ml" 45 1397 1459
+type(
+  bool
+)
+"hw8-2/hw8_2_selfgrader.ml" 45 1397 1412 "hw8-2/hw8_2_selfgrader.ml" 45 1397 1460
+type(
+  unit -> bool
+)
+"hw8-2/hw8_2_selfgrader.ml" 45 1397 1405 "hw8-2/hw8_2_selfgrader.ml" 45 1397 1460
+type(
+  unit
+)
+"hw8-2/hw8_2_selfgrader.ml" 46 1461 1469 "hw8-2/hw8_2_selfgrader.ml" 46 1461 1475
+type(
+  (unit -> bool) -> unit
+)
+ident(
+  ext_ref CommonGrade.output
+)
+"hw8-2/hw8_2_selfgrader.ml" 46 1461 1481 "hw8-2/hw8_2_selfgrader.ml" 46 1461 1483
+type(
+  unit
+)
+"hw8-2/hw8_2_selfgrader.ml" 46 1461 1487 "hw8-2/hw8_2_selfgrader.ml" 46 1461 1498
+type(
+  Hw8_2.StringSetQQ.queue -> Hw8_2.StringSetQ.element list list
+)
+ident(
+  int_ref qqueue2list "hw8-2/hw8_2_selfgrader.ml" 33 935 943 "hw8-2/hw8_2_selfgrader.ml" 33 935 954
+)
+"hw8-2/hw8_2_selfgrader.ml" 46 1461 1499 "hw8-2/hw8_2_selfgrader.ml" 46 1461 1510
+type(
+  Hw8_2.StringSetQQ.queue
+)
+ident(
+  int_ref bc_c_qqueue "hw8-2/hw8_2_selfgrader.ml" 44 1335 1350 "hw8-2/hw8_2_selfgrader.ml" 44 1335 1361
+)
+"hw8-2/hw8_2_selfgrader.ml" 46 1461 1487 "hw8-2/hw8_2_selfgrader.ml" 46 1461 1510
+type(
+  Hw8_2.StringSetQ.element list list
+)
+"hw8-2/hw8_2_selfgrader.ml" 46 1461 1511 "hw8-2/hw8_2_selfgrader.ml" 46 1461 1512
+type(
+  Hw8_2.StringSetQ.element list list ->
+  Hw8_2.StringSetQ.element list list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw8-2/hw8_2_selfgrader.ml" 46 1461 1515 "hw8-2/hw8_2_selfgrader.ml" 46 1461 1518
+type(
+  Hw8_2.StringSetQ.element
+)
+"hw8-2/hw8_2_selfgrader.ml" 46 1461 1519 "hw8-2/hw8_2_selfgrader.ml" 46 1461 1522
+type(
+  Hw8_2.StringSetQ.element
+)
+"hw8-2/hw8_2_selfgrader.ml" 46 1461 1514 "hw8-2/hw8_2_selfgrader.ml" 46 1461 1523
+type(
+  Hw8_2.StringSetQ.element list
+)
+"hw8-2/hw8_2_selfgrader.ml" 46 1461 1525 "hw8-2/hw8_2_selfgrader.ml" 46 1461 1528
+type(
+  Hw8_2.StringSetQ.element
+)
+"hw8-2/hw8_2_selfgrader.ml" 46 1461 1524 "hw8-2/hw8_2_selfgrader.ml" 46 1461 1529
+type(
+  Hw8_2.StringSetQ.element list
+)
+"hw8-2/hw8_2_selfgrader.ml" 46 1461 1513 "hw8-2/hw8_2_selfgrader.ml" 46 1461 1530
+type(
+  Hw8_2.StringSetQ.element list list
+)
+"hw8-2/hw8_2_selfgrader.ml" 46 1461 1487 "hw8-2/hw8_2_selfgrader.ml" 46 1461 1530
+type(
+  bool
+)
+"hw8-2/hw8_2_selfgrader.ml" 46 1461 1476 "hw8-2/hw8_2_selfgrader.ml" 46 1461 1531
+type(
+  unit -> bool
+)
+"hw8-2/hw8_2_selfgrader.ml" 46 1461 1469 "hw8-2/hw8_2_selfgrader.ml" 46 1461 1531
+type(
+  unit
+)
+"hw8-2/hw8_2_selfgrader.ml" 48 1533 1537 "hw8-2/hw8_2_selfgrader.ml" 48 1533 1545
+type(
+  Hw8_2.StringSetQ.queue
+)
+ident(
+  def bc_queue "hw8-2/hw8_2_selfgrader.ml" 57 1719 1719 "hw8-2/hw8_2_selfgrader.ml" 1 0 -1
+)
+"hw8-2/hw8_2_selfgrader.ml" 49 1549 1551 "hw8-2/hw8_2_selfgrader.ml" 49 1549 1565
+type(
+  Hw8_2.StringSetQ.queue * Hw8_2.StringSetQ.element -> Hw8_2.StringSetQ.queue
+)
+ident(
+  ext_ref Hw8_2.StringSetQ.enq
+)
+"hw8-2/hw8_2_selfgrader.ml" 50 1567 1572 "hw8-2/hw8_2_selfgrader.ml" 50 1567 1575
+type(
+  Hw8_2.StringSetQ.element * Hw8_2.StringSetQ.queue -> Hw8_2.StringSetQ.queue
+)
+ident(
+  ext_ref Pervasives.snd
+)
+"hw8-2/hw8_2_selfgrader.ml" 51 1576 1584 "hw8-2/hw8_2_selfgrader.ml" 51 1576 1598
+type(
+  Hw8_2.StringSetQ.queue -> Hw8_2.StringSetQ.element * Hw8_2.StringSetQ.queue
+)
+ident(
+  ext_ref Hw8_2.StringSetQ.deq
+)
+"hw8-2/hw8_2_selfgrader.ml" 52 1599 1610 "hw8-2/hw8_2_selfgrader.ml" 52 1599 1624
+type(
+  Hw8_2.StringSetQ.queue * Hw8_2.StringSetQ.element -> Hw8_2.StringSetQ.queue
+)
+ident(
+  ext_ref Hw8_2.StringSetQ.enq
+)
+"hw8-2/hw8_2_selfgrader.ml" 53 1625 1639 "hw8-2/hw8_2_selfgrader.ml" 53 1625 1653
+type(
+  Hw8_2.StringSetQ.queue * Hw8_2.StringSetQ.element -> Hw8_2.StringSetQ.queue
+)
+ident(
+  ext_ref Hw8_2.StringSetQ.enq
+)
+"hw8-2/hw8_2_selfgrader.ml" 54 1654 1671 "hw8-2/hw8_2_selfgrader.ml" 54 1654 1688
+type(
+  Hw8_2.StringSetQ.queue
+)
+ident(
+  ext_ref Hw8_2.StringSetQ.emptyq
+)
+"hw8-2/hw8_2_selfgrader.ml" 54 1654 1690 "hw8-2/hw8_2_selfgrader.ml" 54 1654 1693
+type(
+  Hw8_2.StringSetQ.element
+)
+"hw8-2/hw8_2_selfgrader.ml" 54 1654 1670 "hw8-2/hw8_2_selfgrader.ml" 54 1654 1694
+type(
+  Hw8_2.StringSetQ.queue * Hw8_2.StringSetQ.element
+)
+"hw8-2/hw8_2_selfgrader.ml" 53 1625 1639 "hw8-2/hw8_2_selfgrader.ml" 54 1654 1694
+type(
+  Hw8_2.StringSetQ.queue
+)
+"hw8-2/hw8_2_selfgrader.ml" 54 1654 1696 "hw8-2/hw8_2_selfgrader.ml" 54 1654 1699
+type(
+  Hw8_2.StringSetQ.element
+)
+"hw8-2/hw8_2_selfgrader.ml" 53 1625 1638 "hw8-2/hw8_2_selfgrader.ml" 54 1654 1700
+type(
+  Hw8_2.StringSetQ.queue * Hw8_2.StringSetQ.element
+)
+"hw8-2/hw8_2_selfgrader.ml" 52 1599 1609 "hw8-2/hw8_2_selfgrader.ml" 54 1654 1701
+type(
+  Hw8_2.StringSetQ.queue
+)
+"hw8-2/hw8_2_selfgrader.ml" 51 1576 1583 "hw8-2/hw8_2_selfgrader.ml" 54 1654 1702
+type(
+  Hw8_2.StringSetQ.element * Hw8_2.StringSetQ.queue
+)
+"hw8-2/hw8_2_selfgrader.ml" 50 1567 1572 "hw8-2/hw8_2_selfgrader.ml" 54 1654 1702
+type(
+  Hw8_2.StringSetQ.queue
+)
+"hw8-2/hw8_2_selfgrader.ml" 54 1654 1704 "hw8-2/hw8_2_selfgrader.ml" 54 1654 1707
+type(
+  Hw8_2.StringSetQ.element
+)
+"hw8-2/hw8_2_selfgrader.ml" 50 1567 1571 "hw8-2/hw8_2_selfgrader.ml" 54 1654 1708
+type(
+  Hw8_2.StringSetQ.queue * Hw8_2.StringSetQ.element
+)
+"hw8-2/hw8_2_selfgrader.ml" 49 1549 1551 "hw8-2/hw8_2_selfgrader.ml" 54 1654 1708
+type(
+  Hw8_2.StringSetQ.queue
+)
+"hw8-2/hw8_2_selfgrader.ml" 57 1719 1723 "hw8-2/hw8_2_selfgrader.ml" 57 1719 1734
+type(
+  Hw8_2.StringSetQQ.queue
+)
+ident(
+  def bc_c_qqueue "hw8-2/hw8_2_selfgrader.ml" 58 1777 1777 "hw8-2/hw8_2_selfgrader.ml" 1 0 -1
+)
+"hw8-2/hw8_2_selfgrader.ml" 57 1719 1737 "hw8-2/hw8_2_selfgrader.ml" 57 1719 1752
+type(
+  Hw8_2.StringSetQQ.queue * Hw8_2.StringSetQQ.element ->
+  Hw8_2.StringSetQQ.queue
+)
+ident(
+  ext_ref Hw8_2.StringSetQQ.enq
+)
+"hw8-2/hw8_2_selfgrader.ml" 57 1719 1754 "hw8-2/hw8_2_selfgrader.ml" 57 1719 1765
+type(
+  Hw8_2.StringSetQQ.queue
+)
+ident(
+  int_ref bc_c_qqueue "hw8-2/hw8_2_selfgrader.ml" 44 1335 1350 "hw8-2/hw8_2_selfgrader.ml" 44 1335 1361
+)
+"hw8-2/hw8_2_selfgrader.ml" 57 1719 1767 "hw8-2/hw8_2_selfgrader.ml" 57 1719 1775
+type(
+  Hw8_2.StringSetQQ.element
+)
+ident(
+  int_ref bc_queue "hw8-2/hw8_2_selfgrader.ml" 48 1533 1537 "hw8-2/hw8_2_selfgrader.ml" 48 1533 1545
+)
+"hw8-2/hw8_2_selfgrader.ml" 57 1719 1753 "hw8-2/hw8_2_selfgrader.ml" 57 1719 1776
+type(
+  Hw8_2.StringSetQQ.queue * Hw8_2.StringSetQQ.element
+)
+"hw8-2/hw8_2_selfgrader.ml" 57 1719 1737 "hw8-2/hw8_2_selfgrader.ml" 57 1719 1776
+type(
+  Hw8_2.StringSetQQ.queue
+)
+"hw8-2/hw8_2_selfgrader.ml" 58 1777 1785 "hw8-2/hw8_2_selfgrader.ml" 58 1777 1791
+type(
+  (unit -> bool) -> unit
+)
+ident(
+  ext_ref CommonGrade.output
+)
+"hw8-2/hw8_2_selfgrader.ml" 58 1777 1797 "hw8-2/hw8_2_selfgrader.ml" 58 1777 1799
+type(
+  unit
+)
+"hw8-2/hw8_2_selfgrader.ml" 59 1804 1806 "hw8-2/hw8_2_selfgrader.ml" 59 1804 1817
+type(
+  Hw8_2.StringSetQQ.queue -> Hw8_2.StringSetQ.element list list
+)
+ident(
+  int_ref qqueue2list "hw8-2/hw8_2_selfgrader.ml" 33 935 943 "hw8-2/hw8_2_selfgrader.ml" 33 935 954
+)
+"hw8-2/hw8_2_selfgrader.ml" 59 1804 1818 "hw8-2/hw8_2_selfgrader.ml" 59 1804 1829
+type(
+  Hw8_2.StringSetQQ.queue
+)
+ident(
+  int_ref bc_c_qqueue "hw8-2/hw8_2_selfgrader.ml" 57 1719 1723 "hw8-2/hw8_2_selfgrader.ml" 57 1719 1734
+)
+"hw8-2/hw8_2_selfgrader.ml" 59 1804 1806 "hw8-2/hw8_2_selfgrader.ml" 59 1804 1829
+type(
+  Hw8_2.StringSetQ.element list list
+)
+"hw8-2/hw8_2_selfgrader.ml" 59 1804 1830 "hw8-2/hw8_2_selfgrader.ml" 59 1804 1831
+type(
+  Hw8_2.StringSetQ.element list list ->
+  Hw8_2.StringSetQ.element list list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw8-2/hw8_2_selfgrader.ml" 59 1804 1834 "hw8-2/hw8_2_selfgrader.ml" 59 1804 1837
+type(
+  Hw8_2.StringSetQ.element
+)
+"hw8-2/hw8_2_selfgrader.ml" 59 1804 1838 "hw8-2/hw8_2_selfgrader.ml" 59 1804 1841
+type(
+  Hw8_2.StringSetQ.element
+)
+"hw8-2/hw8_2_selfgrader.ml" 59 1804 1833 "hw8-2/hw8_2_selfgrader.ml" 59 1804 1842
+type(
+  Hw8_2.StringSetQ.element list
+)
+"hw8-2/hw8_2_selfgrader.ml" 59 1804 1844 "hw8-2/hw8_2_selfgrader.ml" 59 1804 1847
+type(
+  Hw8_2.StringSetQ.element
+)
+"hw8-2/hw8_2_selfgrader.ml" 59 1804 1843 "hw8-2/hw8_2_selfgrader.ml" 59 1804 1848
+type(
+  Hw8_2.StringSetQ.element list
+)
+"hw8-2/hw8_2_selfgrader.ml" 59 1804 1832 "hw8-2/hw8_2_selfgrader.ml" 59 1804 1849
+type(
+  Hw8_2.StringSetQ.element list list
+)
+"hw8-2/hw8_2_selfgrader.ml" 59 1804 1806 "hw8-2/hw8_2_selfgrader.ml" 59 1804 1849
+type(
+  bool
+)
+"hw8-2/hw8_2_selfgrader.ml" 58 1777 1792 "hw8-2/hw8_2_selfgrader.ml" 60 1850 1851
+type(
+  unit -> bool
+)
+"hw8-2/hw8_2_selfgrader.ml" 58 1777 1785 "hw8-2/hw8_2_selfgrader.ml" 60 1850 1851
+type(
+  unit
+)
+"hw8-2/hw8_2_selfgrader.ml" 62 1853 1858 "hw8-2/hw8_2_selfgrader.ml" 62 1853 1866
+type(
+  Hw8_2.StringSetQQ.element
+)
+ident(
+  def bc_queue "hw8-2/hw8_2_selfgrader.ml" 63 1907 1907 "hw8-2/hw8_2_selfgrader.ml" 1 0 -1
+)
+"hw8-2/hw8_2_selfgrader.ml" 62 1853 1867 "hw8-2/hw8_2_selfgrader.ml" 62 1853 1875
+type(
+  Hw8_2.StringSetQQ.queue
+)
+ident(
+  def c_qqueue "hw8-2/hw8_2_selfgrader.ml" 63 1907 1907 "hw8-2/hw8_2_selfgrader.ml" 1 0 -1
+)
+"hw8-2/hw8_2_selfgrader.ml" 62 1853 1857 "hw8-2/hw8_2_selfgrader.ml" 62 1853 1876
+type(
+  Hw8_2.StringSetQQ.element * Hw8_2.StringSetQQ.queue
+)
+"hw8-2/hw8_2_selfgrader.ml" 62 1853 1879 "hw8-2/hw8_2_selfgrader.ml" 62 1853 1894
+type(
+  Hw8_2.StringSetQQ.queue ->
+  Hw8_2.StringSetQQ.element * Hw8_2.StringSetQQ.queue
+)
+ident(
+  ext_ref Hw8_2.StringSetQQ.deq
+)
+"hw8-2/hw8_2_selfgrader.ml" 62 1853 1895 "hw8-2/hw8_2_selfgrader.ml" 62 1853 1906
+type(
+  Hw8_2.StringSetQQ.queue
+)
+ident(
+  int_ref bc_c_qqueue "hw8-2/hw8_2_selfgrader.ml" 57 1719 1723 "hw8-2/hw8_2_selfgrader.ml" 57 1719 1734
+)
+"hw8-2/hw8_2_selfgrader.ml" 62 1853 1879 "hw8-2/hw8_2_selfgrader.ml" 62 1853 1906
+type(
+  Hw8_2.StringSetQQ.element * Hw8_2.StringSetQQ.queue
+)
+"hw8-2/hw8_2_selfgrader.ml" 63 1907 1915 "hw8-2/hw8_2_selfgrader.ml" 63 1907 1921
+type(
+  (unit -> bool) -> unit
+)
+ident(
+  ext_ref CommonGrade.output
+)
+"hw8-2/hw8_2_selfgrader.ml" 63 1907 1927 "hw8-2/hw8_2_selfgrader.ml" 63 1907 1929
+type(
+  unit
+)
+"hw8-2/hw8_2_selfgrader.ml" 63 1907 1933 "hw8-2/hw8_2_selfgrader.ml" 63 1907 1943
+type(
+  Hw8_2.StringSetQQ.element -> Hw8_2.StringSetQ.element list
+)
+ident(
+  int_ref queue2list "hw8-2/hw8_2_selfgrader.ml" 6 65 73 "hw8-2/hw8_2_selfgrader.ml" 6 65 83
+)
+"hw8-2/hw8_2_selfgrader.ml" 63 1907 1944 "hw8-2/hw8_2_selfgrader.ml" 63 1907 1952
+type(
+  Hw8_2.StringSetQQ.element
+)
+ident(
+  int_ref bc_queue "hw8-2/hw8_2_selfgrader.ml" 62 1853 1858 "hw8-2/hw8_2_selfgrader.ml" 62 1853 1866
+)
+"hw8-2/hw8_2_selfgrader.ml" 63 1907 1933 "hw8-2/hw8_2_selfgrader.ml" 63 1907 1952
+type(
+  Hw8_2.StringSetQ.element list
+)
+"hw8-2/hw8_2_selfgrader.ml" 63 1907 1953 "hw8-2/hw8_2_selfgrader.ml" 63 1907 1954
+type(
+  Hw8_2.StringSetQ.element list -> Hw8_2.StringSetQ.element list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw8-2/hw8_2_selfgrader.ml" 63 1907 1956 "hw8-2/hw8_2_selfgrader.ml" 63 1907 1959
+type(
+  Hw8_2.StringSetQ.element
+)
+"hw8-2/hw8_2_selfgrader.ml" 63 1907 1960 "hw8-2/hw8_2_selfgrader.ml" 63 1907 1963
+type(
+  Hw8_2.StringSetQ.element
+)
+"hw8-2/hw8_2_selfgrader.ml" 63 1907 1955 "hw8-2/hw8_2_selfgrader.ml" 63 1907 1964
+type(
+  Hw8_2.StringSetQ.element list
+)
+"hw8-2/hw8_2_selfgrader.ml" 63 1907 1933 "hw8-2/hw8_2_selfgrader.ml" 63 1907 1964
+type(
+  bool
+)
+"hw8-2/hw8_2_selfgrader.ml" 63 1907 1922 "hw8-2/hw8_2_selfgrader.ml" 63 1907 1965
+type(
+  unit -> bool
+)
+"hw8-2/hw8_2_selfgrader.ml" 63 1907 1915 "hw8-2/hw8_2_selfgrader.ml" 63 1907 1965
+type(
+  unit
+)
+"hw8-2/hw8_2_selfgrader.ml" 64 1966 1974 "hw8-2/hw8_2_selfgrader.ml" 64 1966 1980
+type(
+  (unit -> bool) -> unit
+)
+ident(
+  ext_ref CommonGrade.output
+)
+"hw8-2/hw8_2_selfgrader.ml" 64 1966 1986 "hw8-2/hw8_2_selfgrader.ml" 64 1966 1988
+type(
+  unit
+)
+"hw8-2/hw8_2_selfgrader.ml" 64 1966 1992 "hw8-2/hw8_2_selfgrader.ml" 64 1966 2003
+type(
+  Hw8_2.StringSetQQ.queue -> Hw8_2.StringSetQ.element list list
+)
+ident(
+  int_ref qqueue2list "hw8-2/hw8_2_selfgrader.ml" 33 935 943 "hw8-2/hw8_2_selfgrader.ml" 33 935 954
+)
+"hw8-2/hw8_2_selfgrader.ml" 64 1966 2004 "hw8-2/hw8_2_selfgrader.ml" 64 1966 2012
+type(
+  Hw8_2.StringSetQQ.queue
+)
+ident(
+  int_ref c_qqueue "hw8-2/hw8_2_selfgrader.ml" 62 1853 1867 "hw8-2/hw8_2_selfgrader.ml" 62 1853 1875
+)
+"hw8-2/hw8_2_selfgrader.ml" 64 1966 1992 "hw8-2/hw8_2_selfgrader.ml" 64 1966 2012
+type(
+  Hw8_2.StringSetQ.element list list
+)
+"hw8-2/hw8_2_selfgrader.ml" 64 1966 2013 "hw8-2/hw8_2_selfgrader.ml" 64 1966 2014
+type(
+  Hw8_2.StringSetQ.element list list ->
+  Hw8_2.StringSetQ.element list list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw8-2/hw8_2_selfgrader.ml" 64 1966 2017 "hw8-2/hw8_2_selfgrader.ml" 64 1966 2020
+type(
+  Hw8_2.StringSetQ.element
+)
+"hw8-2/hw8_2_selfgrader.ml" 64 1966 2016 "hw8-2/hw8_2_selfgrader.ml" 64 1966 2021
+type(
+  Hw8_2.StringSetQ.element list
+)
+"hw8-2/hw8_2_selfgrader.ml" 64 1966 2015 "hw8-2/hw8_2_selfgrader.ml" 64 1966 2022
+type(
+  Hw8_2.StringSetQ.element list list
+)
+"hw8-2/hw8_2_selfgrader.ml" 64 1966 1992 "hw8-2/hw8_2_selfgrader.ml" 64 1966 2022
+type(
+  bool
+)
+"hw8-2/hw8_2_selfgrader.ml" 64 1966 1981 "hw8-2/hw8_2_selfgrader.ml" 64 1966 2023
+type(
+  unit -> bool
+)
+"hw8-2/hw8_2_selfgrader.ml" 64 1966 1974 "hw8-2/hw8_2_selfgrader.ml" 64 1966 2023
+type(
+  unit
+)
+"hw8-2/hw8_2_selfgrader.ml" 66 2025 2030 "hw8-2/hw8_2_selfgrader.ml" 66 2025 2037
+type(
+  Hw8_2.StringSetQQ.element
+)
+ident(
+  def c_queue "hw8-2/hw8_2_selfgrader.ml" 67 2079 2079 "hw8-2/hw8_2_selfgrader.ml" 1 0 -1
+)
+"hw8-2/hw8_2_selfgrader.ml" 66 2025 2038 "hw8-2/hw8_2_selfgrader.ml" 66 2025 2050
+type(
+  Hw8_2.StringSetQQ.queue
+)
+ident(
+  def empty_qqueue "hw8-2/hw8_2_selfgrader.ml" 67 2079 2079 "hw8-2/hw8_2_selfgrader.ml" 1 0 -1
+)
+"hw8-2/hw8_2_selfgrader.ml" 66 2025 2029 "hw8-2/hw8_2_selfgrader.ml" 66 2025 2051
+type(
+  Hw8_2.StringSetQQ.element * Hw8_2.StringSetQQ.queue
+)
+"hw8-2/hw8_2_selfgrader.ml" 66 2025 2054 "hw8-2/hw8_2_selfgrader.ml" 66 2025 2069
+type(
+  Hw8_2.StringSetQQ.queue ->
+  Hw8_2.StringSetQQ.element * Hw8_2.StringSetQQ.queue
+)
+ident(
+  ext_ref Hw8_2.StringSetQQ.deq
+)
+"hw8-2/hw8_2_selfgrader.ml" 66 2025 2070 "hw8-2/hw8_2_selfgrader.ml" 66 2025 2078
+type(
+  Hw8_2.StringSetQQ.queue
+)
+ident(
+  int_ref c_qqueue "hw8-2/hw8_2_selfgrader.ml" 62 1853 1867 "hw8-2/hw8_2_selfgrader.ml" 62 1853 1875
+)
+"hw8-2/hw8_2_selfgrader.ml" 66 2025 2054 "hw8-2/hw8_2_selfgrader.ml" 66 2025 2078
+type(
+  Hw8_2.StringSetQQ.element * Hw8_2.StringSetQQ.queue
+)
+"hw8-2/hw8_2_selfgrader.ml" 67 2079 2087 "hw8-2/hw8_2_selfgrader.ml" 67 2079 2093
+type(
+  (unit -> bool) -> unit
+)
+ident(
+  ext_ref CommonGrade.output
+)
+"hw8-2/hw8_2_selfgrader.ml" 67 2079 2099 "hw8-2/hw8_2_selfgrader.ml" 67 2079 2101
+type(
+  unit
+)
+"hw8-2/hw8_2_selfgrader.ml" 67 2079 2105 "hw8-2/hw8_2_selfgrader.ml" 67 2079 2115
+type(
+  Hw8_2.StringSetQQ.element -> Hw8_2.StringSetQ.element list
+)
+ident(
+  int_ref queue2list "hw8-2/hw8_2_selfgrader.ml" 6 65 73 "hw8-2/hw8_2_selfgrader.ml" 6 65 83
+)
+"hw8-2/hw8_2_selfgrader.ml" 67 2079 2116 "hw8-2/hw8_2_selfgrader.ml" 67 2079 2123
+type(
+  Hw8_2.StringSetQQ.element
+)
+ident(
+  int_ref c_queue "hw8-2/hw8_2_selfgrader.ml" 66 2025 2030 "hw8-2/hw8_2_selfgrader.ml" 66 2025 2037
+)
+"hw8-2/hw8_2_selfgrader.ml" 67 2079 2105 "hw8-2/hw8_2_selfgrader.ml" 67 2079 2123
+type(
+  Hw8_2.StringSetQ.element list
+)
+"hw8-2/hw8_2_selfgrader.ml" 67 2079 2124 "hw8-2/hw8_2_selfgrader.ml" 67 2079 2125
+type(
+  Hw8_2.StringSetQ.element list -> Hw8_2.StringSetQ.element list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw8-2/hw8_2_selfgrader.ml" 67 2079 2127 "hw8-2/hw8_2_selfgrader.ml" 67 2079 2130
+type(
+  Hw8_2.StringSetQ.element
+)
+"hw8-2/hw8_2_selfgrader.ml" 67 2079 2126 "hw8-2/hw8_2_selfgrader.ml" 67 2079 2131
+type(
+  Hw8_2.StringSetQ.element list
+)
+"hw8-2/hw8_2_selfgrader.ml" 67 2079 2105 "hw8-2/hw8_2_selfgrader.ml" 67 2079 2131
+type(
+  bool
+)
+"hw8-2/hw8_2_selfgrader.ml" 67 2079 2094 "hw8-2/hw8_2_selfgrader.ml" 67 2079 2132
+type(
+  unit -> bool
+)
+"hw8-2/hw8_2_selfgrader.ml" 67 2079 2087 "hw8-2/hw8_2_selfgrader.ml" 67 2079 2132
+type(
+  unit
+)
+"hw8-2/hw8_2_selfgrader.ml" 68 2133 2141 "hw8-2/hw8_2_selfgrader.ml" 68 2133 2147
+type(
+  (unit -> bool) -> unit
+)
+ident(
+  ext_ref CommonGrade.output
+)
+"hw8-2/hw8_2_selfgrader.ml" 68 2133 2153 "hw8-2/hw8_2_selfgrader.ml" 68 2133 2155
+type(
+  unit
+)
+"hw8-2/hw8_2_selfgrader.ml" 68 2133 2159 "hw8-2/hw8_2_selfgrader.ml" 68 2133 2170
+type(
+  Hw8_2.StringSetQQ.queue -> Hw8_2.StringSetQ.element list list
+)
+ident(
+  int_ref qqueue2list "hw8-2/hw8_2_selfgrader.ml" 33 935 943 "hw8-2/hw8_2_selfgrader.ml" 33 935 954
+)
+"hw8-2/hw8_2_selfgrader.ml" 68 2133 2171 "hw8-2/hw8_2_selfgrader.ml" 68 2133 2183
+type(
+  Hw8_2.StringSetQQ.queue
+)
+ident(
+  int_ref empty_qqueue "hw8-2/hw8_2_selfgrader.ml" 66 2025 2038 "hw8-2/hw8_2_selfgrader.ml" 66 2025 2050
+)
+"hw8-2/hw8_2_selfgrader.ml" 68 2133 2159 "hw8-2/hw8_2_selfgrader.ml" 68 2133 2183
+type(
+  Hw8_2.StringSetQ.element list list
+)
+"hw8-2/hw8_2_selfgrader.ml" 68 2133 2184 "hw8-2/hw8_2_selfgrader.ml" 68 2133 2185
+type(
+  Hw8_2.StringSetQ.element list list ->
+  Hw8_2.StringSetQ.element list list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw8-2/hw8_2_selfgrader.ml" 68 2133 2186 "hw8-2/hw8_2_selfgrader.ml" 68 2133 2188
+type(
+  Hw8_2.StringSetQ.element list list
+)
+"hw8-2/hw8_2_selfgrader.ml" 68 2133 2159 "hw8-2/hw8_2_selfgrader.ml" 68 2133 2188
+type(
+  bool
+)
+"hw8-2/hw8_2_selfgrader.ml" 68 2133 2148 "hw8-2/hw8_2_selfgrader.ml" 68 2133 2189
+type(
+  unit -> bool
+)
+"hw8-2/hw8_2_selfgrader.ml" 68 2133 2141 "hw8-2/hw8_2_selfgrader.ml" 68 2133 2189
+type(
+  unit
+)

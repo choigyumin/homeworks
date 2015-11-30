@@ -1,0 +1,684 @@
+"hw8-1/hw8_1.ml" 20 336 341 "hw8-1/hw8_1.ml" 20 336 347
+type(
+  queue
+)
+ident(
+  def emptyq "hw8-1/hw8_1.ml" 23 373 374 "hw8-1/hw8_1.ml" 38 706 709
+)
+"hw8-1/hw8_1.ml" 21 358 364 "hw8-1/hw8_1.ml" 21 358 366
+type(
+  part
+)
+"hw8-1/hw8_1.ml" 21 358 367 "hw8-1/hw8_1.ml" 21 358 369
+type(
+  part
+)
+"hw8-1/hw8_1.ml" 21 358 361 "hw8-1/hw8_1.ml" 21 358 370
+type(
+  queue
+)
+type(
+  queue
+)
+"hw8-1/hw8_1.ml" 23 373 378 "hw8-1/hw8_1.ml" 23 373 381
+type(
+  queue * element -> queue
+)
+ident(
+  def enq "hw8-1/hw8_1.ml" 29 473 474 "hw8-1/hw8_1.ml" 38 706 709
+)
+"hw8-1/hw8_1.ml" 24 410 417 "hw8-1/hw8_1.ml" 24 410 418
+type(
+  queue
+)
+ident(
+  def q "hw8-1/hw8_1.ml" 25 425 428 "hw8-1/hw8_1.ml" 26 441 468
+)
+"hw8-1/hw8_1.ml" 24 410 419 "hw8-1/hw8_1.ml" 24 410 420
+type(
+  element
+)
+ident(
+  def e "hw8-1/hw8_1.ml" 25 425 428 "hw8-1/hw8_1.ml" 26 441 468
+)
+"hw8-1/hw8_1.ml" 24 410 416 "hw8-1/hw8_1.ml" 24 410 421
+type(
+  queue * element
+)
+"hw8-1/hw8_1.ml" 25 425 434 "hw8-1/hw8_1.ml" 25 425 435
+type(
+  queue
+)
+ident(
+  int_ref q "hw8-1/hw8_1.ml" 24 410 417 "hw8-1/hw8_1.ml" 24 410 418
+)
+"hw8-1/hw8_1.ml" 26 441 449 "hw8-1/hw8_1.ml" 26 441 450
+type(
+  part
+)
+ident(
+  def a "hw8-1/hw8_1.ml" 26 441 457 "hw8-1/hw8_1.ml" 26 441 468
+)
+"hw8-1/hw8_1.ml" 26 441 451 "hw8-1/hw8_1.ml" 26 441 452
+type(
+  part
+)
+ident(
+  def b "hw8-1/hw8_1.ml" 26 441 457 "hw8-1/hw8_1.ml" 26 441 468
+)
+"hw8-1/hw8_1.ml" 26 441 446 "hw8-1/hw8_1.ml" 26 441 453
+type(
+  queue
+)
+"hw8-1/hw8_1.ml" 26 441 460 "hw8-1/hw8_1.ml" 26 441 461
+type(
+  element
+)
+ident(
+  int_ref e "hw8-1/hw8_1.ml" 24 410 419 "hw8-1/hw8_1.ml" 24 410 420
+)
+"hw8-1/hw8_1.ml" 26 441 463 "hw8-1/hw8_1.ml" 26 441 464
+type(
+  part
+)
+ident(
+  int_ref a "hw8-1/hw8_1.ml" 26 441 449 "hw8-1/hw8_1.ml" 26 441 450
+)
+"hw8-1/hw8_1.ml" 26 441 460 "hw8-1/hw8_1.ml" 26 441 464
+type(
+  part
+)
+"hw8-1/hw8_1.ml" 26 441 466 "hw8-1/hw8_1.ml" 26 441 467
+type(
+  part
+)
+ident(
+  int_ref b "hw8-1/hw8_1.ml" 26 441 451 "hw8-1/hw8_1.ml" 26 441 452
+)
+"hw8-1/hw8_1.ml" 26 441 457 "hw8-1/hw8_1.ml" 26 441 468
+type(
+  queue
+)
+"hw8-1/hw8_1.ml" 25 425 428 "hw8-1/hw8_1.ml" 26 441 468
+type(
+  queue
+)
+"hw8-1/hw8_1.ml" 24 410 412 "hw8-1/hw8_1.ml" 26 441 468
+type(
+  queue * element -> queue
+)
+type(
+  queue * element -> queue
+)
+"hw8-1/hw8_1.ml" 29 473 482 "hw8-1/hw8_1.ml" 29 473 485
+type(
+  queue -> element * queue
+)
+ident(
+  def deq "hw8-1/hw8_1.ml" 29 473 474 "hw8-1/hw8_1.ml" 38 706 709
+)
+"hw8-1/hw8_1.ml" 30 514 520 "hw8-1/hw8_1.ml" 30 514 521
+type(
+  queue
+)
+ident(
+  def q "hw8-1/hw8_1.ml" 31 525 528 "hw8-1/hw8_1.ml" 36 659 702
+)
+"hw8-1/hw8_1.ml" 31 525 534 "hw8-1/hw8_1.ml" 31 525 535
+type(
+  queue
+)
+ident(
+  int_ref q "hw8-1/hw8_1.ml" 30 514 520 "hw8-1/hw8_1.ml" 30 514 521
+)
+"hw8-1/hw8_1.ml" 32 541 548 "hw8-1/hw8_1.ml" 32 541 549
+type(
+  part
+)
+ident(
+  def a "hw8-1/hw8_1.ml" 33 557 561 "hw8-1/hw8_1.ml" 36 659 702
+)
+"hw8-1/hw8_1.ml" 32 541 550 "hw8-1/hw8_1.ml" 32 541 551
+type(
+  part
+)
+ident(
+  def b "hw8-1/hw8_1.ml" 33 557 561 "hw8-1/hw8_1.ml" 36 659 702
+)
+"hw8-1/hw8_1.ml" 32 541 546 "hw8-1/hw8_1.ml" 32 541 552
+type(
+  queue
+)
+"hw8-1/hw8_1.ml" 33 557 569 "hw8-1/hw8_1.ml" 33 557 570
+type(
+  part
+)
+ident(
+  int_ref a "hw8-1/hw8_1.ml" 32 541 548 "hw8-1/hw8_1.ml" 32 541 549
+)
+"hw8-1/hw8_1.ml" 33 557 571 "hw8-1/hw8_1.ml" 33 557 572
+type(
+  part
+)
+ident(
+  int_ref b "hw8-1/hw8_1.ml" 32 541 550 "hw8-1/hw8_1.ml" 32 541 551
+)
+"hw8-1/hw8_1.ml" 33 557 568 "hw8-1/hw8_1.ml" 33 557 573
+type(
+  part * part
+)
+"hw8-1/hw8_1.ml" 34 579 586 "hw8-1/hw8_1.ml" 34 579 588
+type(
+  part
+)
+"hw8-1/hw8_1.ml" 34 579 589 "hw8-1/hw8_1.ml" 34 579 591
+type(
+  part
+)
+"hw8-1/hw8_1.ml" 34 579 585 "hw8-1/hw8_1.ml" 34 579 592
+type(
+  part * part
+)
+"hw8-1/hw8_1.ml" 34 579 596 "hw8-1/hw8_1.ml" 34 579 601
+type(
+  exn -> element
+)
+ident(
+  ext_ref Pervasives.raise
+)
+"hw8-1/hw8_1.ml" 34 579 602 "hw8-1/hw8_1.ml" 34 579 609
+type(
+  exn
+)
+"hw8-1/hw8_1.ml" 34 579 596 "hw8-1/hw8_1.ml" 34 579 609
+type(
+  element
+)
+"hw8-1/hw8_1.ml" 34 579 613 "hw8-1/hw8_1.ml" 34 579 615
+type(
+  part
+)
+"hw8-1/hw8_1.ml" 34 579 616 "hw8-1/hw8_1.ml" 34 579 618
+type(
+  part
+)
+"hw8-1/hw8_1.ml" 34 579 611 "hw8-1/hw8_1.ml" 34 579 619
+type(
+  queue
+)
+"hw8-1/hw8_1.ml" 34 579 596 "hw8-1/hw8_1.ml" 34 579 619
+type(
+  element * queue
+)
+"hw8-1/hw8_1.ml" 35 620 627 "hw8-1/hw8_1.ml" 35 620 628
+type(
+  part
+)
+"hw8-1/hw8_1.ml" 35 620 630 "hw8-1/hw8_1.ml" 35 620 632
+type(
+  part
+)
+"hw8-1/hw8_1.ml" 35 620 626 "hw8-1/hw8_1.ml" 35 620 633
+type(
+  part * part
+)
+"hw8-1/hw8_1.ml" 35 620 637 "hw8-1/hw8_1.ml" 35 620 640
+type(
+  queue -> element * queue
+)
+ident(
+  int_ref deq "hw8-1/hw8_1.ml" 29 473 482 "hw8-1/hw8_1.ml" 29 473 485
+)
+"hw8-1/hw8_1.ml" 35 620 644 "hw8-1/hw8_1.ml" 35 620 645
+type(
+  part
+)
+ident(
+  int_ref b "hw8-1/hw8_1.ml" 32 541 550 "hw8-1/hw8_1.ml" 32 541 551
+)
+"hw8-1/hw8_1.ml" 35 620 646 "hw8-1/hw8_1.ml" 35 620 654
+type(
+  part -> part
+)
+ident(
+  ext_ref List.rev
+)
+"hw8-1/hw8_1.ml" 35 620 655 "hw8-1/hw8_1.ml" 35 620 656
+type(
+  part
+)
+ident(
+  int_ref a "hw8-1/hw8_1.ml" 32 541 548 "hw8-1/hw8_1.ml" 32 541 549
+)
+"hw8-1/hw8_1.ml" 35 620 646 "hw8-1/hw8_1.ml" 35 620 656
+type(
+  part
+)
+"hw8-1/hw8_1.ml" 35 620 641 "hw8-1/hw8_1.ml" 35 620 658
+type(
+  queue
+)
+"hw8-1/hw8_1.ml" 35 620 637 "hw8-1/hw8_1.ml" 35 620 658
+type(
+  element * queue
+)
+"hw8-1/hw8_1.ml" 36 659 666 "hw8-1/hw8_1.ml" 36 659 667
+type(
+  part
+)
+"hw8-1/hw8_1.ml" 36 659 668 "hw8-1/hw8_1.ml" 36 659 669
+type(
+  part
+)
+"hw8-1/hw8_1.ml" 36 659 665 "hw8-1/hw8_1.ml" 36 659 670
+type(
+  part * part
+)
+"hw8-1/hw8_1.ml" 36 659 674 "hw8-1/hw8_1.ml" 36 659 681
+type(
+  part -> element
+)
+ident(
+  ext_ref List.hd
+)
+"hw8-1/hw8_1.ml" 36 659 682 "hw8-1/hw8_1.ml" 36 659 683
+type(
+  part
+)
+ident(
+  int_ref b "hw8-1/hw8_1.ml" 32 541 550 "hw8-1/hw8_1.ml" 32 541 551
+)
+"hw8-1/hw8_1.ml" 36 659 674 "hw8-1/hw8_1.ml" 36 659 683
+type(
+  element
+)
+"hw8-1/hw8_1.ml" 36 659 688 "hw8-1/hw8_1.ml" 36 659 689
+type(
+  part
+)
+ident(
+  int_ref a "hw8-1/hw8_1.ml" 32 541 548 "hw8-1/hw8_1.ml" 32 541 549
+)
+"hw8-1/hw8_1.ml" 36 659 691 "hw8-1/hw8_1.ml" 36 659 698
+type(
+  part -> part
+)
+ident(
+  ext_ref List.tl
+)
+"hw8-1/hw8_1.ml" 36 659 699 "hw8-1/hw8_1.ml" 36 659 700
+type(
+  part
+)
+ident(
+  int_ref b "hw8-1/hw8_1.ml" 32 541 550 "hw8-1/hw8_1.ml" 32 541 551
+)
+"hw8-1/hw8_1.ml" 36 659 691 "hw8-1/hw8_1.ml" 36 659 700
+type(
+  part
+)
+"hw8-1/hw8_1.ml" 36 659 686 "hw8-1/hw8_1.ml" 36 659 701
+type(
+  queue
+)
+"hw8-1/hw8_1.ml" 36 659 674 "hw8-1/hw8_1.ml" 36 659 701
+type(
+  element * queue
+)
+"hw8-1/hw8_1.ml" 33 557 561 "hw8-1/hw8_1.ml" 36 659 702
+type(
+  element * queue
+)
+"hw8-1/hw8_1.ml" 31 525 528 "hw8-1/hw8_1.ml" 36 659 702
+type(
+  element * queue
+)
+"hw8-1/hw8_1.ml" 30 514 516 "hw8-1/hw8_1.ml" 36 659 702
+type(
+  queue -> element * queue
+)
+type(
+  queue -> element * queue
+)
+"hw8-1/hw8_1.ml" 48 890 895 "hw8-1/hw8_1.ml" 48 890 901
+type(
+  queue
+)
+ident(
+  def emptyq "hw8-1/hw8_1.ml" 51 927 928 "hw8-1/hw8_1.ml" 66 1260 1263
+)
+"hw8-1/hw8_1.ml" 49 912 918 "hw8-1/hw8_1.ml" 49 912 920
+type(
+  part
+)
+"hw8-1/hw8_1.ml" 49 912 921 "hw8-1/hw8_1.ml" 49 912 923
+type(
+  part
+)
+"hw8-1/hw8_1.ml" 49 912 915 "hw8-1/hw8_1.ml" 49 912 924
+type(
+  queue
+)
+type(
+  queue
+)
+"hw8-1/hw8_1.ml" 51 927 932 "hw8-1/hw8_1.ml" 51 927 935
+type(
+  queue * element -> queue
+)
+ident(
+  def enq "hw8-1/hw8_1.ml" 57 1027 1028 "hw8-1/hw8_1.ml" 66 1260 1263
+)
+"hw8-1/hw8_1.ml" 52 964 971 "hw8-1/hw8_1.ml" 52 964 972
+type(
+  queue
+)
+ident(
+  def q "hw8-1/hw8_1.ml" 53 979 982 "hw8-1/hw8_1.ml" 54 995 1022
+)
+"hw8-1/hw8_1.ml" 52 964 973 "hw8-1/hw8_1.ml" 52 964 974
+type(
+  element
+)
+ident(
+  def e "hw8-1/hw8_1.ml" 53 979 982 "hw8-1/hw8_1.ml" 54 995 1022
+)
+"hw8-1/hw8_1.ml" 52 964 970 "hw8-1/hw8_1.ml" 52 964 975
+type(
+  queue * element
+)
+"hw8-1/hw8_1.ml" 53 979 988 "hw8-1/hw8_1.ml" 53 979 989
+type(
+  queue
+)
+ident(
+  int_ref q "hw8-1/hw8_1.ml" 52 964 971 "hw8-1/hw8_1.ml" 52 964 972
+)
+"hw8-1/hw8_1.ml" 54 995 1003 "hw8-1/hw8_1.ml" 54 995 1004
+type(
+  part
+)
+ident(
+  def a "hw8-1/hw8_1.ml" 54 995 1011 "hw8-1/hw8_1.ml" 54 995 1022
+)
+"hw8-1/hw8_1.ml" 54 995 1005 "hw8-1/hw8_1.ml" 54 995 1006
+type(
+  part
+)
+ident(
+  def b "hw8-1/hw8_1.ml" 54 995 1011 "hw8-1/hw8_1.ml" 54 995 1022
+)
+"hw8-1/hw8_1.ml" 54 995 1000 "hw8-1/hw8_1.ml" 54 995 1007
+type(
+  queue
+)
+"hw8-1/hw8_1.ml" 54 995 1014 "hw8-1/hw8_1.ml" 54 995 1015
+type(
+  element
+)
+ident(
+  int_ref e "hw8-1/hw8_1.ml" 52 964 973 "hw8-1/hw8_1.ml" 52 964 974
+)
+"hw8-1/hw8_1.ml" 54 995 1017 "hw8-1/hw8_1.ml" 54 995 1018
+type(
+  part
+)
+ident(
+  int_ref a "hw8-1/hw8_1.ml" 54 995 1003 "hw8-1/hw8_1.ml" 54 995 1004
+)
+"hw8-1/hw8_1.ml" 54 995 1014 "hw8-1/hw8_1.ml" 54 995 1018
+type(
+  part
+)
+"hw8-1/hw8_1.ml" 54 995 1020 "hw8-1/hw8_1.ml" 54 995 1021
+type(
+  part
+)
+ident(
+  int_ref b "hw8-1/hw8_1.ml" 54 995 1005 "hw8-1/hw8_1.ml" 54 995 1006
+)
+"hw8-1/hw8_1.ml" 54 995 1011 "hw8-1/hw8_1.ml" 54 995 1022
+type(
+  queue
+)
+"hw8-1/hw8_1.ml" 53 979 982 "hw8-1/hw8_1.ml" 54 995 1022
+type(
+  queue
+)
+"hw8-1/hw8_1.ml" 52 964 966 "hw8-1/hw8_1.ml" 54 995 1022
+type(
+  queue * element -> queue
+)
+type(
+  queue * element -> queue
+)
+"hw8-1/hw8_1.ml" 57 1027 1036 "hw8-1/hw8_1.ml" 57 1027 1039
+type(
+  queue -> element * queue
+)
+ident(
+  def deq "hw8-1/hw8_1.ml" 57 1027 1028 "hw8-1/hw8_1.ml" 66 1260 1263
+)
+"hw8-1/hw8_1.ml" 58 1068 1074 "hw8-1/hw8_1.ml" 58 1068 1075
+type(
+  queue
+)
+ident(
+  def q "hw8-1/hw8_1.ml" 59 1079 1082 "hw8-1/hw8_1.ml" 64 1213 1256
+)
+"hw8-1/hw8_1.ml" 59 1079 1088 "hw8-1/hw8_1.ml" 59 1079 1089
+type(
+  queue
+)
+ident(
+  int_ref q "hw8-1/hw8_1.ml" 58 1068 1074 "hw8-1/hw8_1.ml" 58 1068 1075
+)
+"hw8-1/hw8_1.ml" 60 1095 1102 "hw8-1/hw8_1.ml" 60 1095 1103
+type(
+  part
+)
+ident(
+  def a "hw8-1/hw8_1.ml" 61 1111 1115 "hw8-1/hw8_1.ml" 64 1213 1256
+)
+"hw8-1/hw8_1.ml" 60 1095 1104 "hw8-1/hw8_1.ml" 60 1095 1105
+type(
+  part
+)
+ident(
+  def b "hw8-1/hw8_1.ml" 61 1111 1115 "hw8-1/hw8_1.ml" 64 1213 1256
+)
+"hw8-1/hw8_1.ml" 60 1095 1100 "hw8-1/hw8_1.ml" 60 1095 1106
+type(
+  queue
+)
+"hw8-1/hw8_1.ml" 61 1111 1123 "hw8-1/hw8_1.ml" 61 1111 1124
+type(
+  part
+)
+ident(
+  int_ref a "hw8-1/hw8_1.ml" 60 1095 1102 "hw8-1/hw8_1.ml" 60 1095 1103
+)
+"hw8-1/hw8_1.ml" 61 1111 1125 "hw8-1/hw8_1.ml" 61 1111 1126
+type(
+  part
+)
+ident(
+  int_ref b "hw8-1/hw8_1.ml" 60 1095 1104 "hw8-1/hw8_1.ml" 60 1095 1105
+)
+"hw8-1/hw8_1.ml" 61 1111 1122 "hw8-1/hw8_1.ml" 61 1111 1127
+type(
+  part * part
+)
+"hw8-1/hw8_1.ml" 62 1133 1140 "hw8-1/hw8_1.ml" 62 1133 1142
+type(
+  part
+)
+"hw8-1/hw8_1.ml" 62 1133 1143 "hw8-1/hw8_1.ml" 62 1133 1145
+type(
+  part
+)
+"hw8-1/hw8_1.ml" 62 1133 1139 "hw8-1/hw8_1.ml" 62 1133 1146
+type(
+  part * part
+)
+"hw8-1/hw8_1.ml" 62 1133 1150 "hw8-1/hw8_1.ml" 62 1133 1155
+type(
+  exn -> element
+)
+ident(
+  ext_ref Pervasives.raise
+)
+"hw8-1/hw8_1.ml" 62 1133 1156 "hw8-1/hw8_1.ml" 62 1133 1163
+type(
+  exn
+)
+"hw8-1/hw8_1.ml" 62 1133 1150 "hw8-1/hw8_1.ml" 62 1133 1163
+type(
+  element
+)
+"hw8-1/hw8_1.ml" 62 1133 1167 "hw8-1/hw8_1.ml" 62 1133 1169
+type(
+  part
+)
+"hw8-1/hw8_1.ml" 62 1133 1170 "hw8-1/hw8_1.ml" 62 1133 1172
+type(
+  part
+)
+"hw8-1/hw8_1.ml" 62 1133 1165 "hw8-1/hw8_1.ml" 62 1133 1173
+type(
+  queue
+)
+"hw8-1/hw8_1.ml" 62 1133 1150 "hw8-1/hw8_1.ml" 62 1133 1173
+type(
+  element * queue
+)
+"hw8-1/hw8_1.ml" 63 1174 1181 "hw8-1/hw8_1.ml" 63 1174 1182
+type(
+  part
+)
+"hw8-1/hw8_1.ml" 63 1174 1184 "hw8-1/hw8_1.ml" 63 1174 1186
+type(
+  part
+)
+"hw8-1/hw8_1.ml" 63 1174 1180 "hw8-1/hw8_1.ml" 63 1174 1187
+type(
+  part * part
+)
+"hw8-1/hw8_1.ml" 63 1174 1191 "hw8-1/hw8_1.ml" 63 1174 1194
+type(
+  queue -> element * queue
+)
+ident(
+  int_ref deq "hw8-1/hw8_1.ml" 57 1027 1036 "hw8-1/hw8_1.ml" 57 1027 1039
+)
+"hw8-1/hw8_1.ml" 63 1174 1198 "hw8-1/hw8_1.ml" 63 1174 1199
+type(
+  part
+)
+ident(
+  int_ref b "hw8-1/hw8_1.ml" 60 1095 1104 "hw8-1/hw8_1.ml" 60 1095 1105
+)
+"hw8-1/hw8_1.ml" 63 1174 1200 "hw8-1/hw8_1.ml" 63 1174 1208
+type(
+  part -> part
+)
+ident(
+  ext_ref List.rev
+)
+"hw8-1/hw8_1.ml" 63 1174 1209 "hw8-1/hw8_1.ml" 63 1174 1210
+type(
+  part
+)
+ident(
+  int_ref a "hw8-1/hw8_1.ml" 60 1095 1102 "hw8-1/hw8_1.ml" 60 1095 1103
+)
+"hw8-1/hw8_1.ml" 63 1174 1200 "hw8-1/hw8_1.ml" 63 1174 1210
+type(
+  part
+)
+"hw8-1/hw8_1.ml" 63 1174 1195 "hw8-1/hw8_1.ml" 63 1174 1212
+type(
+  queue
+)
+"hw8-1/hw8_1.ml" 63 1174 1191 "hw8-1/hw8_1.ml" 63 1174 1212
+type(
+  element * queue
+)
+"hw8-1/hw8_1.ml" 64 1213 1220 "hw8-1/hw8_1.ml" 64 1213 1221
+type(
+  part
+)
+"hw8-1/hw8_1.ml" 64 1213 1222 "hw8-1/hw8_1.ml" 64 1213 1223
+type(
+  part
+)
+"hw8-1/hw8_1.ml" 64 1213 1219 "hw8-1/hw8_1.ml" 64 1213 1224
+type(
+  part * part
+)
+"hw8-1/hw8_1.ml" 64 1213 1228 "hw8-1/hw8_1.ml" 64 1213 1235
+type(
+  part -> element
+)
+ident(
+  ext_ref List.hd
+)
+"hw8-1/hw8_1.ml" 64 1213 1236 "hw8-1/hw8_1.ml" 64 1213 1237
+type(
+  part
+)
+ident(
+  int_ref b "hw8-1/hw8_1.ml" 60 1095 1104 "hw8-1/hw8_1.ml" 60 1095 1105
+)
+"hw8-1/hw8_1.ml" 64 1213 1228 "hw8-1/hw8_1.ml" 64 1213 1237
+type(
+  element
+)
+"hw8-1/hw8_1.ml" 64 1213 1242 "hw8-1/hw8_1.ml" 64 1213 1243
+type(
+  part
+)
+ident(
+  int_ref a "hw8-1/hw8_1.ml" 60 1095 1102 "hw8-1/hw8_1.ml" 60 1095 1103
+)
+"hw8-1/hw8_1.ml" 64 1213 1245 "hw8-1/hw8_1.ml" 64 1213 1252
+type(
+  part -> part
+)
+ident(
+  ext_ref List.tl
+)
+"hw8-1/hw8_1.ml" 64 1213 1253 "hw8-1/hw8_1.ml" 64 1213 1254
+type(
+  part
+)
+ident(
+  int_ref b "hw8-1/hw8_1.ml" 60 1095 1104 "hw8-1/hw8_1.ml" 60 1095 1105
+)
+"hw8-1/hw8_1.ml" 64 1213 1245 "hw8-1/hw8_1.ml" 64 1213 1254
+type(
+  part
+)
+"hw8-1/hw8_1.ml" 64 1213 1240 "hw8-1/hw8_1.ml" 64 1213 1255
+type(
+  queue
+)
+"hw8-1/hw8_1.ml" 64 1213 1228 "hw8-1/hw8_1.ml" 64 1213 1255
+type(
+  element * queue
+)
+"hw8-1/hw8_1.ml" 61 1111 1115 "hw8-1/hw8_1.ml" 64 1213 1256
+type(
+  element * queue
+)
+"hw8-1/hw8_1.ml" 59 1079 1082 "hw8-1/hw8_1.ml" 64 1213 1256
+type(
+  element * queue
+)
+"hw8-1/hw8_1.ml" 58 1068 1070 "hw8-1/hw8_1.ml" 64 1213 1256
+type(
+  queue -> element * queue
+)
+type(
+  queue -> element * queue
+)

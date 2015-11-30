@@ -1,0 +1,55 @@
+"hw6-7/commonGrade.ml" 1 0 4 "hw6-7/commonGrade.ml" 1 0 10
+type(
+  (unit -> bool) -> unit
+)
+ident(
+  def output "hw6-7/commonGrade.ml" 2 37 80 "hw6-7/commonGrade.ml" 1 0 -1
+)
+"hw6-7/commonGrade.ml" 1 0 12 "hw6-7/commonGrade.ml" 1 0 13
+type(
+  unit -> bool
+)
+ident(
+  def f "hw6-7/commonGrade.ml" 1 0 28 "hw6-7/commonGrade.ml" 2 37 80
+)
+"hw6-7/commonGrade.ml" 2 37 39 "hw6-7/commonGrade.ml" 2 37 52
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.print_endline
+)
+"hw6-7/commonGrade.ml" 2 37 57 "hw6-7/commonGrade.ml" 2 37 58
+type(
+  unit -> bool
+)
+ident(
+  int_ref f "hw6-7/commonGrade.ml" 1 0 12 "hw6-7/commonGrade.ml" 1 0 13
+)
+"hw6-7/commonGrade.ml" 2 37 59 "hw6-7/commonGrade.ml" 2 37 61
+type(
+  unit
+)
+"hw6-7/commonGrade.ml" 2 37 57 "hw6-7/commonGrade.ml" 2 37 61
+type(
+  bool
+)
+"hw6-7/commonGrade.ml" 2 37 67 "hw6-7/commonGrade.ml" 2 37 70
+type(
+  string
+)
+"hw6-7/commonGrade.ml" 2 37 76 "hw6-7/commonGrade.ml" 2 37 79
+type(
+  string
+)
+"hw6-7/commonGrade.ml" 2 37 53 "hw6-7/commonGrade.ml" 2 37 80
+type(
+  string
+)
+"hw6-7/commonGrade.ml" 2 37 39 "hw6-7/commonGrade.ml" 2 37 80
+type(
+  unit
+)
+type(
+  unit
+)

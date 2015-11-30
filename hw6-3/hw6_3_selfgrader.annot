@@ -1,0 +1,93 @@
+"hw6-3/hw6_3_selfgrader.ml" 5 30 38 "hw6-3/hw6_3_selfgrader.ml" 5 30 44
+type(
+  (unit -> bool) -> unit
+)
+ident(
+  ext_ref CommonGrade.output
+)
+"hw6-3/hw6_3_selfgrader.ml" 5 30 50 "hw6-3/hw6_3_selfgrader.ml" 5 30 52
+type(
+  unit
+)
+"hw6-3/hw6_3_selfgrader.ml" 6 56 59 "hw6-3/hw6_3_selfgrader.ml" 6 56 63
+type(
+  Hw6_3.tourna -> Hw6_3.team -> string
+)
+ident(
+  ext_ref Hw6_3.drop
+)
+"hw6-3/hw6_3_selfgrader.ml" 6 56 88 "hw6-3/hw6_3_selfgrader.ml" 6 56 93
+type(
+  Hw6_3.team
+)
+"hw6-3/hw6_3_selfgrader.ml" 6 56 83 "hw6-3/hw6_3_selfgrader.ml" 6 56 93
+type(
+  Hw6_3.tourna
+)
+"hw6-3/hw6_3_selfgrader.ml" 6 56 100 "hw6-3/hw6_3_selfgrader.ml" 6 56 106
+type(
+  Hw6_3.team
+)
+"hw6-3/hw6_3_selfgrader.ml" 6 56 95 "hw6-3/hw6_3_selfgrader.ml" 6 56 106
+type(
+  Hw6_3.tourna
+)
+"hw6-3/hw6_3_selfgrader.ml" 6 56 77 "hw6-3/hw6_3_selfgrader.ml" 6 56 107
+type(
+  Hw6_3.tourna
+)
+"hw6-3/hw6_3_selfgrader.ml" 6 56 114 "hw6-3/hw6_3_selfgrader.ml" 6 56 120
+type(
+  Hw6_3.team
+)
+"hw6-3/hw6_3_selfgrader.ml" 6 56 109 "hw6-3/hw6_3_selfgrader.ml" 6 56 120
+type(
+  Hw6_3.tourna
+)
+"hw6-3/hw6_3_selfgrader.ml" 6 56 71 "hw6-3/hw6_3_selfgrader.ml" 6 56 121
+type(
+  Hw6_3.tourna
+)
+"hw6-3/hw6_3_selfgrader.ml" 6 56 128 "hw6-3/hw6_3_selfgrader.ml" 6 56 135
+type(
+  Hw6_3.team
+)
+"hw6-3/hw6_3_selfgrader.ml" 6 56 123 "hw6-3/hw6_3_selfgrader.ml" 6 56 135
+type(
+  Hw6_3.tourna
+)
+"hw6-3/hw6_3_selfgrader.ml" 6 56 64 "hw6-3/hw6_3_selfgrader.ml" 6 56 137
+type(
+  Hw6_3.tourna
+)
+"hw6-3/hw6_3_selfgrader.ml" 6 56 138 "hw6-3/hw6_3_selfgrader.ml" 6 56 145
+type(
+  Hw6_3.team
+)
+"hw6-3/hw6_3_selfgrader.ml" 6 56 58 "hw6-3/hw6_3_selfgrader.ml" 6 56 146
+type(
+  string
+)
+"hw6-3/hw6_3_selfgrader.ml" 6 56 147 "hw6-3/hw6_3_selfgrader.ml" 6 56 148
+type(
+  string -> string -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw6-3/hw6_3_selfgrader.ml" 7 149 151 "hw6-3/hw6_3_selfgrader.ml" 7 149 176
+type(
+  string
+)
+"hw6-3/hw6_3_selfgrader.ml" 6 56 58 "hw6-3/hw6_3_selfgrader.ml" 7 149 176
+type(
+  bool
+)
+"hw6-3/hw6_3_selfgrader.ml" 5 30 45 "hw6-3/hw6_3_selfgrader.ml" 7 149 177
+type(
+  unit -> bool
+)
+"hw6-3/hw6_3_selfgrader.ml" 5 30 38 "hw6-3/hw6_3_selfgrader.ml" 7 149 177
+type(
+  unit
+)

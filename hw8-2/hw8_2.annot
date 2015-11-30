@@ -1,0 +1,1011 @@
+"hw8-2/hw8_2.ml" 19 338 343 "hw8-2/hw8_2.ml" 19 338 349
+type(
+  queue
+)
+ident(
+  def emptyq "hw8-2/hw8_2.ml" 22 375 376 "hw8-2/hw8_2.ml" 47 932 935
+)
+"hw8-2/hw8_2.ml" 20 360 366 "hw8-2/hw8_2.ml" 20 360 368
+type(
+  part
+)
+"hw8-2/hw8_2.ml" 20 360 369 "hw8-2/hw8_2.ml" 20 360 371
+type(
+  part
+)
+"hw8-2/hw8_2.ml" 20 360 363 "hw8-2/hw8_2.ml" 20 360 372
+type(
+  queue
+)
+type(
+  queue
+)
+"hw8-2/hw8_2.ml" 22 375 380 "hw8-2/hw8_2.ml" 22 375 385
+type(
+  queue -> queue
+)
+ident(
+  def recog "hw8-2/hw8_2.ml" 31 523 524 "hw8-2/hw8_2.ml" 47 932 935
+)
+"hw8-2/hw8_2.ml" 23 404 410 "hw8-2/hw8_2.ml" 23 404 411
+type(
+  queue
+)
+ident(
+  def e "hw8-2/hw8_2.ml" 24 415 418 "hw8-2/hw8_2.ml" 28 487 520
+)
+"hw8-2/hw8_2.ml" 24 415 424 "hw8-2/hw8_2.ml" 24 415 425
+type(
+  queue
+)
+ident(
+  int_ref e "hw8-2/hw8_2.ml" 23 404 410 "hw8-2/hw8_2.ml" 23 404 411
+)
+"hw8-2/hw8_2.ml" 25 431 438 "hw8-2/hw8_2.ml" 25 431 439
+type(
+  part
+)
+ident(
+  def a "hw8-2/hw8_2.ml" 26 447 451 "hw8-2/hw8_2.ml" 28 487 520
+)
+"hw8-2/hw8_2.ml" 25 431 440 "hw8-2/hw8_2.ml" 25 431 441
+type(
+  part
+)
+ident(
+  def b "hw8-2/hw8_2.ml" 26 447 451 "hw8-2/hw8_2.ml" 28 487 520
+)
+"hw8-2/hw8_2.ml" 25 431 436 "hw8-2/hw8_2.ml" 25 431 442
+type(
+  queue
+)
+"hw8-2/hw8_2.ml" 26 447 459 "hw8-2/hw8_2.ml" 26 447 460
+type(
+  part
+)
+ident(
+  int_ref a "hw8-2/hw8_2.ml" 25 431 438 "hw8-2/hw8_2.ml" 25 431 439
+)
+"hw8-2/hw8_2.ml" 26 447 461 "hw8-2/hw8_2.ml" 26 447 462
+type(
+  part
+)
+ident(
+  int_ref b "hw8-2/hw8_2.ml" 25 431 440 "hw8-2/hw8_2.ml" 25 431 441
+)
+"hw8-2/hw8_2.ml" 26 447 458 "hw8-2/hw8_2.ml" 26 447 463
+type(
+  part * part
+)
+"hw8-2/hw8_2.ml" 27 469 476 "hw8-2/hw8_2.ml" 27 469 478
+type(
+  part
+)
+"hw8-2/hw8_2.ml" 27 469 479 "hw8-2/hw8_2.ml" 27 469 480
+type(
+  part
+)
+"hw8-2/hw8_2.ml" 27 469 475 "hw8-2/hw8_2.ml" 27 469 481
+type(
+  part * part
+)
+"hw8-2/hw8_2.ml" 27 469 485 "hw8-2/hw8_2.ml" 27 469 486
+type(
+  queue
+)
+ident(
+  int_ref e "hw8-2/hw8_2.ml" 23 404 410 "hw8-2/hw8_2.ml" 23 404 411
+)
+"hw8-2/hw8_2.ml" 28 487 493 "hw8-2/hw8_2.ml" 28 487 494
+type(
+  part * part
+)
+"hw8-2/hw8_2.ml" 28 487 500 "hw8-2/hw8_2.ml" 28 487 502
+type(
+  part
+)
+"hw8-2/hw8_2.ml" 28 487 504 "hw8-2/hw8_2.ml" 28 487 505
+type(
+  part
+)
+ident(
+  int_ref b "hw8-2/hw8_2.ml" 25 431 440 "hw8-2/hw8_2.ml" 25 431 441
+)
+"hw8-2/hw8_2.ml" 28 487 505 "hw8-2/hw8_2.ml" 28 487 506
+type(
+  part -> element list -> part
+)
+ident(
+  ext_ref Pervasives.( @ )
+)
+"hw8-2/hw8_2.ml" 28 487 507 "hw8-2/hw8_2.ml" 28 487 515
+type(
+  part -> element list
+)
+ident(
+  ext_ref List.rev
+)
+"hw8-2/hw8_2.ml" 28 487 516 "hw8-2/hw8_2.ml" 28 487 517
+type(
+  part
+)
+ident(
+  int_ref a "hw8-2/hw8_2.ml" 25 431 438 "hw8-2/hw8_2.ml" 25 431 439
+)
+"hw8-2/hw8_2.ml" 28 487 506 "hw8-2/hw8_2.ml" 28 487 518
+type(
+  element list
+)
+"hw8-2/hw8_2.ml" 28 487 504 "hw8-2/hw8_2.ml" 28 487 518
+type(
+  part
+)
+"hw8-2/hw8_2.ml" 28 487 498 "hw8-2/hw8_2.ml" 28 487 519
+type(
+  queue
+)
+"hw8-2/hw8_2.ml" 26 447 451 "hw8-2/hw8_2.ml" 28 487 520
+type(
+  queue
+)
+"hw8-2/hw8_2.ml" 24 415 418 "hw8-2/hw8_2.ml" 28 487 520
+type(
+  queue
+)
+"hw8-2/hw8_2.ml" 23 404 406 "hw8-2/hw8_2.ml" 28 487 520
+type(
+  queue -> queue
+)
+type(
+  queue -> queue
+)
+"hw8-2/hw8_2.ml" 31 523 528 "hw8-2/hw8_2.ml" 31 523 531
+type(
+  queue * element -> queue
+)
+ident(
+  def enq "hw8-2/hw8_2.ml" 39 702 703 "hw8-2/hw8_2.ml" 47 932 935
+)
+"hw8-2/hw8_2.ml" 32 560 567 "hw8-2/hw8_2.ml" 32 560 568
+type(
+  queue
+)
+ident(
+  def q "hw8-2/hw8_2.ml" 33 575 578 "hw8-2/hw8_2.ml" 36 670 697
+)
+"hw8-2/hw8_2.ml" 32 560 569 "hw8-2/hw8_2.ml" 32 560 570
+type(
+  element
+)
+ident(
+  def e "hw8-2/hw8_2.ml" 33 575 578 "hw8-2/hw8_2.ml" 36 670 697
+)
+"hw8-2/hw8_2.ml" 32 560 566 "hw8-2/hw8_2.ml" 32 560 571
+type(
+  queue * element
+)
+"hw8-2/hw8_2.ml" 33 575 584 "hw8-2/hw8_2.ml" 33 575 585
+type(
+  queue
+)
+ident(
+  int_ref q "hw8-2/hw8_2.ml" 32 560 567 "hw8-2/hw8_2.ml" 32 560 568
+)
+"hw8-2/hw8_2.ml" 34 591 599 "hw8-2/hw8_2.ml" 34 591 600
+type(
+  part
+)
+ident(
+  def a "hw8-2/hw8_2.ml" 35 607 611 "hw8-2/hw8_2.ml" 36 670 697
+)
+"hw8-2/hw8_2.ml" 34 591 601 "hw8-2/hw8_2.ml" 34 591 602
+type(
+  part
+)
+ident(
+  def b "hw8-2/hw8_2.ml" 35 607 611 "hw8-2/hw8_2.ml" 36 670 697
+)
+"hw8-2/hw8_2.ml" 34 591 596 "hw8-2/hw8_2.ml" 34 591 603
+type(
+  queue
+)
+"hw8-2/hw8_2.ml" 35 607 616 "hw8-2/hw8_2.ml" 35 607 624
+type(
+  element -> part -> bool
+)
+ident(
+  ext_ref List.mem
+)
+"hw8-2/hw8_2.ml" 35 607 625 "hw8-2/hw8_2.ml" 35 607 626
+type(
+  element
+)
+ident(
+  int_ref e "hw8-2/hw8_2.ml" 32 560 569 "hw8-2/hw8_2.ml" 32 560 570
+)
+"hw8-2/hw8_2.ml" 35 607 627 "hw8-2/hw8_2.ml" 35 607 628
+type(
+  part
+)
+ident(
+  int_ref a "hw8-2/hw8_2.ml" 34 591 599 "hw8-2/hw8_2.ml" 34 591 600
+)
+"hw8-2/hw8_2.ml" 35 607 615 "hw8-2/hw8_2.ml" 35 607 629
+type(
+  bool
+)
+"hw8-2/hw8_2.ml" 35 607 630 "hw8-2/hw8_2.ml" 35 607 632
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( || )
+)
+"hw8-2/hw8_2.ml" 35 607 634 "hw8-2/hw8_2.ml" 35 607 642
+type(
+  element -> part -> bool
+)
+ident(
+  ext_ref List.mem
+)
+"hw8-2/hw8_2.ml" 35 607 643 "hw8-2/hw8_2.ml" 35 607 644
+type(
+  element
+)
+ident(
+  int_ref e "hw8-2/hw8_2.ml" 32 560 569 "hw8-2/hw8_2.ml" 32 560 570
+)
+"hw8-2/hw8_2.ml" 35 607 645 "hw8-2/hw8_2.ml" 35 607 646
+type(
+  part
+)
+ident(
+  int_ref b "hw8-2/hw8_2.ml" 34 591 601 "hw8-2/hw8_2.ml" 34 591 602
+)
+"hw8-2/hw8_2.ml" 35 607 633 "hw8-2/hw8_2.ml" 35 607 647
+type(
+  bool
+)
+"hw8-2/hw8_2.ml" 35 607 614 "hw8-2/hw8_2.ml" 35 607 648
+type(
+  bool
+)
+"hw8-2/hw8_2.ml" 35 607 654 "hw8-2/hw8_2.ml" 35 607 659
+type(
+  queue -> queue
+)
+ident(
+  int_ref recog "hw8-2/hw8_2.ml" 22 375 380 "hw8-2/hw8_2.ml" 22 375 385
+)
+"hw8-2/hw8_2.ml" 35 607 663 "hw8-2/hw8_2.ml" 35 607 664
+type(
+  part
+)
+ident(
+  int_ref a "hw8-2/hw8_2.ml" 34 591 599 "hw8-2/hw8_2.ml" 34 591 600
+)
+"hw8-2/hw8_2.ml" 35 607 666 "hw8-2/hw8_2.ml" 35 607 667
+type(
+  part
+)
+ident(
+  int_ref b "hw8-2/hw8_2.ml" 34 591 601 "hw8-2/hw8_2.ml" 34 591 602
+)
+"hw8-2/hw8_2.ml" 35 607 660 "hw8-2/hw8_2.ml" 35 607 669
+type(
+  queue
+)
+"hw8-2/hw8_2.ml" 35 607 654 "hw8-2/hw8_2.ml" 35 607 669
+type(
+  queue
+)
+"hw8-2/hw8_2.ml" 36 670 679 "hw8-2/hw8_2.ml" 36 670 684
+type(
+  queue -> queue
+)
+ident(
+  int_ref recog "hw8-2/hw8_2.ml" 22 375 380 "hw8-2/hw8_2.ml" 22 375 385
+)
+"hw8-2/hw8_2.ml" 36 670 688 "hw8-2/hw8_2.ml" 36 670 689
+type(
+  element
+)
+ident(
+  int_ref e "hw8-2/hw8_2.ml" 32 560 569 "hw8-2/hw8_2.ml" 32 560 570
+)
+"hw8-2/hw8_2.ml" 36 670 691 "hw8-2/hw8_2.ml" 36 670 692
+type(
+  part
+)
+ident(
+  int_ref a "hw8-2/hw8_2.ml" 34 591 599 "hw8-2/hw8_2.ml" 34 591 600
+)
+"hw8-2/hw8_2.ml" 36 670 688 "hw8-2/hw8_2.ml" 36 670 692
+type(
+  part
+)
+"hw8-2/hw8_2.ml" 36 670 694 "hw8-2/hw8_2.ml" 36 670 695
+type(
+  part
+)
+ident(
+  int_ref b "hw8-2/hw8_2.ml" 34 591 601 "hw8-2/hw8_2.ml" 34 591 602
+)
+"hw8-2/hw8_2.ml" 36 670 685 "hw8-2/hw8_2.ml" 36 670 697
+type(
+  queue
+)
+"hw8-2/hw8_2.ml" 36 670 679 "hw8-2/hw8_2.ml" 36 670 697
+type(
+  queue
+)
+"hw8-2/hw8_2.ml" 35 607 611 "hw8-2/hw8_2.ml" 36 670 697
+type(
+  queue
+)
+"hw8-2/hw8_2.ml" 33 575 578 "hw8-2/hw8_2.ml" 36 670 697
+type(
+  queue
+)
+"hw8-2/hw8_2.ml" 32 560 562 "hw8-2/hw8_2.ml" 36 670 697
+type(
+  queue * element -> queue
+)
+type(
+  queue * element -> queue
+)
+"hw8-2/hw8_2.ml" 39 702 711 "hw8-2/hw8_2.ml" 39 702 714
+type(
+  queue -> element * queue
+)
+ident(
+  def deq "hw8-2/hw8_2.ml" 39 702 703 "hw8-2/hw8_2.ml" 47 932 935
+)
+"hw8-2/hw8_2.ml" 40 743 749 "hw8-2/hw8_2.ml" 40 743 750
+type(
+  queue
+)
+ident(
+  def q "hw8-2/hw8_2.ml" 41 754 757 "hw8-2/hw8_2.ml" 46 888 931
+)
+"hw8-2/hw8_2.ml" 41 754 763 "hw8-2/hw8_2.ml" 41 754 764
+type(
+  queue
+)
+ident(
+  int_ref q "hw8-2/hw8_2.ml" 40 743 749 "hw8-2/hw8_2.ml" 40 743 750
+)
+"hw8-2/hw8_2.ml" 42 770 777 "hw8-2/hw8_2.ml" 42 770 778
+type(
+  part
+)
+ident(
+  def a "hw8-2/hw8_2.ml" 43 786 790 "hw8-2/hw8_2.ml" 46 888 931
+)
+"hw8-2/hw8_2.ml" 42 770 779 "hw8-2/hw8_2.ml" 42 770 780
+type(
+  part
+)
+ident(
+  def b "hw8-2/hw8_2.ml" 43 786 790 "hw8-2/hw8_2.ml" 46 888 931
+)
+"hw8-2/hw8_2.ml" 42 770 775 "hw8-2/hw8_2.ml" 42 770 781
+type(
+  queue
+)
+"hw8-2/hw8_2.ml" 43 786 798 "hw8-2/hw8_2.ml" 43 786 799
+type(
+  part
+)
+ident(
+  int_ref a "hw8-2/hw8_2.ml" 42 770 777 "hw8-2/hw8_2.ml" 42 770 778
+)
+"hw8-2/hw8_2.ml" 43 786 800 "hw8-2/hw8_2.ml" 43 786 801
+type(
+  part
+)
+ident(
+  int_ref b "hw8-2/hw8_2.ml" 42 770 779 "hw8-2/hw8_2.ml" 42 770 780
+)
+"hw8-2/hw8_2.ml" 43 786 797 "hw8-2/hw8_2.ml" 43 786 802
+type(
+  part * part
+)
+"hw8-2/hw8_2.ml" 44 808 815 "hw8-2/hw8_2.ml" 44 808 817
+type(
+  part
+)
+"hw8-2/hw8_2.ml" 44 808 818 "hw8-2/hw8_2.ml" 44 808 820
+type(
+  part
+)
+"hw8-2/hw8_2.ml" 44 808 814 "hw8-2/hw8_2.ml" 44 808 821
+type(
+  part * part
+)
+"hw8-2/hw8_2.ml" 44 808 825 "hw8-2/hw8_2.ml" 44 808 830
+type(
+  exn -> element
+)
+ident(
+  ext_ref Pervasives.raise
+)
+"hw8-2/hw8_2.ml" 44 808 831 "hw8-2/hw8_2.ml" 44 808 838
+type(
+  exn
+)
+"hw8-2/hw8_2.ml" 44 808 825 "hw8-2/hw8_2.ml" 44 808 838
+type(
+  element
+)
+"hw8-2/hw8_2.ml" 44 808 842 "hw8-2/hw8_2.ml" 44 808 844
+type(
+  part
+)
+"hw8-2/hw8_2.ml" 44 808 845 "hw8-2/hw8_2.ml" 44 808 847
+type(
+  part
+)
+"hw8-2/hw8_2.ml" 44 808 840 "hw8-2/hw8_2.ml" 44 808 848
+type(
+  queue
+)
+"hw8-2/hw8_2.ml" 44 808 825 "hw8-2/hw8_2.ml" 44 808 848
+type(
+  element * queue
+)
+"hw8-2/hw8_2.ml" 45 849 856 "hw8-2/hw8_2.ml" 45 849 857
+type(
+  part
+)
+"hw8-2/hw8_2.ml" 45 849 859 "hw8-2/hw8_2.ml" 45 849 861
+type(
+  part
+)
+"hw8-2/hw8_2.ml" 45 849 855 "hw8-2/hw8_2.ml" 45 849 862
+type(
+  part * part
+)
+"hw8-2/hw8_2.ml" 45 849 866 "hw8-2/hw8_2.ml" 45 849 869
+type(
+  queue -> element * queue
+)
+ident(
+  int_ref deq "hw8-2/hw8_2.ml" 39 702 711 "hw8-2/hw8_2.ml" 39 702 714
+)
+"hw8-2/hw8_2.ml" 45 849 873 "hw8-2/hw8_2.ml" 45 849 874
+type(
+  part
+)
+ident(
+  int_ref b "hw8-2/hw8_2.ml" 42 770 779 "hw8-2/hw8_2.ml" 42 770 780
+)
+"hw8-2/hw8_2.ml" 45 849 875 "hw8-2/hw8_2.ml" 45 849 883
+type(
+  part -> part
+)
+ident(
+  ext_ref List.rev
+)
+"hw8-2/hw8_2.ml" 45 849 884 "hw8-2/hw8_2.ml" 45 849 885
+type(
+  part
+)
+ident(
+  int_ref a "hw8-2/hw8_2.ml" 42 770 777 "hw8-2/hw8_2.ml" 42 770 778
+)
+"hw8-2/hw8_2.ml" 45 849 875 "hw8-2/hw8_2.ml" 45 849 885
+type(
+  part
+)
+"hw8-2/hw8_2.ml" 45 849 870 "hw8-2/hw8_2.ml" 45 849 887
+type(
+  queue
+)
+"hw8-2/hw8_2.ml" 45 849 866 "hw8-2/hw8_2.ml" 45 849 887
+type(
+  element * queue
+)
+"hw8-2/hw8_2.ml" 46 888 895 "hw8-2/hw8_2.ml" 46 888 896
+type(
+  part
+)
+"hw8-2/hw8_2.ml" 46 888 897 "hw8-2/hw8_2.ml" 46 888 898
+type(
+  part
+)
+"hw8-2/hw8_2.ml" 46 888 894 "hw8-2/hw8_2.ml" 46 888 899
+type(
+  part * part
+)
+"hw8-2/hw8_2.ml" 46 888 903 "hw8-2/hw8_2.ml" 46 888 910
+type(
+  part -> element
+)
+ident(
+  ext_ref List.hd
+)
+"hw8-2/hw8_2.ml" 46 888 911 "hw8-2/hw8_2.ml" 46 888 912
+type(
+  part
+)
+ident(
+  int_ref b "hw8-2/hw8_2.ml" 42 770 779 "hw8-2/hw8_2.ml" 42 770 780
+)
+"hw8-2/hw8_2.ml" 46 888 903 "hw8-2/hw8_2.ml" 46 888 912
+type(
+  element
+)
+"hw8-2/hw8_2.ml" 46 888 917 "hw8-2/hw8_2.ml" 46 888 918
+type(
+  part
+)
+ident(
+  int_ref a "hw8-2/hw8_2.ml" 42 770 777 "hw8-2/hw8_2.ml" 42 770 778
+)
+"hw8-2/hw8_2.ml" 46 888 920 "hw8-2/hw8_2.ml" 46 888 927
+type(
+  part -> part
+)
+ident(
+  ext_ref List.tl
+)
+"hw8-2/hw8_2.ml" 46 888 928 "hw8-2/hw8_2.ml" 46 888 929
+type(
+  part
+)
+ident(
+  int_ref b "hw8-2/hw8_2.ml" 42 770 779 "hw8-2/hw8_2.ml" 42 770 780
+)
+"hw8-2/hw8_2.ml" 46 888 920 "hw8-2/hw8_2.ml" 46 888 929
+type(
+  part
+)
+"hw8-2/hw8_2.ml" 46 888 915 "hw8-2/hw8_2.ml" 46 888 930
+type(
+  queue
+)
+"hw8-2/hw8_2.ml" 46 888 903 "hw8-2/hw8_2.ml" 46 888 930
+type(
+  element * queue
+)
+"hw8-2/hw8_2.ml" 43 786 790 "hw8-2/hw8_2.ml" 46 888 931
+type(
+  element * queue
+)
+"hw8-2/hw8_2.ml" 41 754 757 "hw8-2/hw8_2.ml" 46 888 931
+type(
+  element * queue
+)
+"hw8-2/hw8_2.ml" 40 743 745 "hw8-2/hw8_2.ml" 46 888 931
+type(
+  queue -> element * queue
+)
+type(
+  queue -> element * queue
+)
+"hw8-2/hw8_2.ml" 57 1126 1131 "hw8-2/hw8_2.ml" 57 1126 1137
+type(
+  queue
+)
+ident(
+  def emptyq "hw8-2/hw8_2.ml" 60 1163 1164 "hw8-2/hw8_2.ml" 75 1554 1557
+)
+"hw8-2/hw8_2.ml" 58 1148 1154 "hw8-2/hw8_2.ml" 58 1148 1156
+type(
+  part
+)
+"hw8-2/hw8_2.ml" 58 1148 1157 "hw8-2/hw8_2.ml" 58 1148 1159
+type(
+  part
+)
+"hw8-2/hw8_2.ml" 58 1148 1151 "hw8-2/hw8_2.ml" 58 1148 1160
+type(
+  queue
+)
+type(
+  queue
+)
+"hw8-2/hw8_2.ml" 60 1163 1168 "hw8-2/hw8_2.ml" 60 1163 1171
+type(
+  queue * element -> queue
+)
+ident(
+  def enq "hw8-2/hw8_2.ml" 67 1324 1325 "hw8-2/hw8_2.ml" 75 1554 1557
+)
+"hw8-2/hw8_2.ml" 61 1200 1207 "hw8-2/hw8_2.ml" 61 1200 1208
+type(
+  queue
+)
+ident(
+  def q "hw8-2/hw8_2.ml" 62 1215 1218 "hw8-2/hw8_2.ml" 65 1302 1321
+)
+"hw8-2/hw8_2.ml" 61 1200 1209 "hw8-2/hw8_2.ml" 61 1200 1210
+type(
+  element
+)
+ident(
+  def e "hw8-2/hw8_2.ml" 62 1215 1218 "hw8-2/hw8_2.ml" 65 1302 1321
+)
+"hw8-2/hw8_2.ml" 61 1200 1206 "hw8-2/hw8_2.ml" 61 1200 1211
+type(
+  queue * element
+)
+"hw8-2/hw8_2.ml" 62 1215 1224 "hw8-2/hw8_2.ml" 62 1215 1225
+type(
+  queue
+)
+ident(
+  int_ref q "hw8-2/hw8_2.ml" 61 1200 1207 "hw8-2/hw8_2.ml" 61 1200 1208
+)
+"hw8-2/hw8_2.ml" 63 1231 1239 "hw8-2/hw8_2.ml" 63 1231 1240
+type(
+  part
+)
+ident(
+  def a "hw8-2/hw8_2.ml" 64 1247 1251 "hw8-2/hw8_2.ml" 65 1302 1321
+)
+"hw8-2/hw8_2.ml" 63 1231 1241 "hw8-2/hw8_2.ml" 63 1231 1242
+type(
+  part
+)
+ident(
+  def b "hw8-2/hw8_2.ml" 64 1247 1251 "hw8-2/hw8_2.ml" 65 1302 1321
+)
+"hw8-2/hw8_2.ml" 63 1231 1236 "hw8-2/hw8_2.ml" 63 1231 1243
+type(
+  queue
+)
+"hw8-2/hw8_2.ml" 64 1247 1256 "hw8-2/hw8_2.ml" 64 1247 1264
+type(
+  element -> part -> bool
+)
+ident(
+  ext_ref List.mem
+)
+"hw8-2/hw8_2.ml" 64 1247 1265 "hw8-2/hw8_2.ml" 64 1247 1266
+type(
+  element
+)
+ident(
+  int_ref e "hw8-2/hw8_2.ml" 61 1200 1209 "hw8-2/hw8_2.ml" 61 1200 1210
+)
+"hw8-2/hw8_2.ml" 64 1247 1267 "hw8-2/hw8_2.ml" 64 1247 1268
+type(
+  part
+)
+ident(
+  int_ref a "hw8-2/hw8_2.ml" 63 1231 1239 "hw8-2/hw8_2.ml" 63 1231 1240
+)
+"hw8-2/hw8_2.ml" 64 1247 1255 "hw8-2/hw8_2.ml" 64 1247 1269
+type(
+  bool
+)
+"hw8-2/hw8_2.ml" 64 1247 1270 "hw8-2/hw8_2.ml" 64 1247 1272
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( || )
+)
+"hw8-2/hw8_2.ml" 64 1247 1274 "hw8-2/hw8_2.ml" 64 1247 1282
+type(
+  element -> part -> bool
+)
+ident(
+  ext_ref List.mem
+)
+"hw8-2/hw8_2.ml" 64 1247 1283 "hw8-2/hw8_2.ml" 64 1247 1284
+type(
+  element
+)
+ident(
+  int_ref e "hw8-2/hw8_2.ml" 61 1200 1209 "hw8-2/hw8_2.ml" 61 1200 1210
+)
+"hw8-2/hw8_2.ml" 64 1247 1285 "hw8-2/hw8_2.ml" 64 1247 1286
+type(
+  part
+)
+ident(
+  int_ref b "hw8-2/hw8_2.ml" 63 1231 1241 "hw8-2/hw8_2.ml" 63 1231 1242
+)
+"hw8-2/hw8_2.ml" 64 1247 1273 "hw8-2/hw8_2.ml" 64 1247 1287
+type(
+  bool
+)
+"hw8-2/hw8_2.ml" 64 1247 1254 "hw8-2/hw8_2.ml" 64 1247 1288
+type(
+  bool
+)
+"hw8-2/hw8_2.ml" 64 1247 1296 "hw8-2/hw8_2.ml" 64 1247 1297
+type(
+  part
+)
+ident(
+  int_ref a "hw8-2/hw8_2.ml" 63 1231 1239 "hw8-2/hw8_2.ml" 63 1231 1240
+)
+"hw8-2/hw8_2.ml" 64 1247 1299 "hw8-2/hw8_2.ml" 64 1247 1300
+type(
+  part
+)
+ident(
+  int_ref b "hw8-2/hw8_2.ml" 63 1231 1241 "hw8-2/hw8_2.ml" 63 1231 1242
+)
+"hw8-2/hw8_2.ml" 64 1247 1294 "hw8-2/hw8_2.ml" 64 1247 1301
+type(
+  queue
+)
+"hw8-2/hw8_2.ml" 65 1302 1313 "hw8-2/hw8_2.ml" 65 1302 1314
+type(
+  element
+)
+ident(
+  int_ref e "hw8-2/hw8_2.ml" 61 1200 1209 "hw8-2/hw8_2.ml" 61 1200 1210
+)
+"hw8-2/hw8_2.ml" 65 1302 1316 "hw8-2/hw8_2.ml" 65 1302 1317
+type(
+  part
+)
+ident(
+  int_ref a "hw8-2/hw8_2.ml" 63 1231 1239 "hw8-2/hw8_2.ml" 63 1231 1240
+)
+"hw8-2/hw8_2.ml" 65 1302 1313 "hw8-2/hw8_2.ml" 65 1302 1317
+type(
+  part
+)
+"hw8-2/hw8_2.ml" 65 1302 1319 "hw8-2/hw8_2.ml" 65 1302 1320
+type(
+  part
+)
+ident(
+  int_ref b "hw8-2/hw8_2.ml" 63 1231 1241 "hw8-2/hw8_2.ml" 63 1231 1242
+)
+"hw8-2/hw8_2.ml" 65 1302 1311 "hw8-2/hw8_2.ml" 65 1302 1321
+type(
+  queue
+)
+"hw8-2/hw8_2.ml" 64 1247 1251 "hw8-2/hw8_2.ml" 65 1302 1321
+type(
+  queue
+)
+"hw8-2/hw8_2.ml" 62 1215 1218 "hw8-2/hw8_2.ml" 65 1302 1321
+type(
+  queue
+)
+"hw8-2/hw8_2.ml" 61 1200 1202 "hw8-2/hw8_2.ml" 65 1302 1321
+type(
+  queue * element -> queue
+)
+type(
+  queue * element -> queue
+)
+"hw8-2/hw8_2.ml" 67 1324 1333 "hw8-2/hw8_2.ml" 67 1324 1336
+type(
+  queue -> element * queue
+)
+ident(
+  def deq "hw8-2/hw8_2.ml" 67 1324 1325 "hw8-2/hw8_2.ml" 75 1554 1557
+)
+"hw8-2/hw8_2.ml" 68 1365 1371 "hw8-2/hw8_2.ml" 68 1365 1372
+type(
+  queue
+)
+ident(
+  def q "hw8-2/hw8_2.ml" 69 1376 1379 "hw8-2/hw8_2.ml" 74 1510 1553
+)
+"hw8-2/hw8_2.ml" 69 1376 1385 "hw8-2/hw8_2.ml" 69 1376 1386
+type(
+  queue
+)
+ident(
+  int_ref q "hw8-2/hw8_2.ml" 68 1365 1371 "hw8-2/hw8_2.ml" 68 1365 1372
+)
+"hw8-2/hw8_2.ml" 70 1392 1399 "hw8-2/hw8_2.ml" 70 1392 1400
+type(
+  part
+)
+ident(
+  def a "hw8-2/hw8_2.ml" 71 1408 1412 "hw8-2/hw8_2.ml" 74 1510 1553
+)
+"hw8-2/hw8_2.ml" 70 1392 1401 "hw8-2/hw8_2.ml" 70 1392 1402
+type(
+  part
+)
+ident(
+  def b "hw8-2/hw8_2.ml" 71 1408 1412 "hw8-2/hw8_2.ml" 74 1510 1553
+)
+"hw8-2/hw8_2.ml" 70 1392 1397 "hw8-2/hw8_2.ml" 70 1392 1403
+type(
+  queue
+)
+"hw8-2/hw8_2.ml" 71 1408 1420 "hw8-2/hw8_2.ml" 71 1408 1421
+type(
+  part
+)
+ident(
+  int_ref a "hw8-2/hw8_2.ml" 70 1392 1399 "hw8-2/hw8_2.ml" 70 1392 1400
+)
+"hw8-2/hw8_2.ml" 71 1408 1422 "hw8-2/hw8_2.ml" 71 1408 1423
+type(
+  part
+)
+ident(
+  int_ref b "hw8-2/hw8_2.ml" 70 1392 1401 "hw8-2/hw8_2.ml" 70 1392 1402
+)
+"hw8-2/hw8_2.ml" 71 1408 1419 "hw8-2/hw8_2.ml" 71 1408 1424
+type(
+  part * part
+)
+"hw8-2/hw8_2.ml" 72 1430 1437 "hw8-2/hw8_2.ml" 72 1430 1439
+type(
+  part
+)
+"hw8-2/hw8_2.ml" 72 1430 1440 "hw8-2/hw8_2.ml" 72 1430 1442
+type(
+  part
+)
+"hw8-2/hw8_2.ml" 72 1430 1436 "hw8-2/hw8_2.ml" 72 1430 1443
+type(
+  part * part
+)
+"hw8-2/hw8_2.ml" 72 1430 1447 "hw8-2/hw8_2.ml" 72 1430 1452
+type(
+  exn -> element
+)
+ident(
+  ext_ref Pervasives.raise
+)
+"hw8-2/hw8_2.ml" 72 1430 1453 "hw8-2/hw8_2.ml" 72 1430 1460
+type(
+  exn
+)
+"hw8-2/hw8_2.ml" 72 1430 1447 "hw8-2/hw8_2.ml" 72 1430 1460
+type(
+  element
+)
+"hw8-2/hw8_2.ml" 72 1430 1464 "hw8-2/hw8_2.ml" 72 1430 1466
+type(
+  part
+)
+"hw8-2/hw8_2.ml" 72 1430 1467 "hw8-2/hw8_2.ml" 72 1430 1469
+type(
+  part
+)
+"hw8-2/hw8_2.ml" 72 1430 1462 "hw8-2/hw8_2.ml" 72 1430 1470
+type(
+  queue
+)
+"hw8-2/hw8_2.ml" 72 1430 1447 "hw8-2/hw8_2.ml" 72 1430 1470
+type(
+  element * queue
+)
+"hw8-2/hw8_2.ml" 73 1471 1478 "hw8-2/hw8_2.ml" 73 1471 1479
+type(
+  part
+)
+"hw8-2/hw8_2.ml" 73 1471 1481 "hw8-2/hw8_2.ml" 73 1471 1483
+type(
+  part
+)
+"hw8-2/hw8_2.ml" 73 1471 1477 "hw8-2/hw8_2.ml" 73 1471 1484
+type(
+  part * part
+)
+"hw8-2/hw8_2.ml" 73 1471 1488 "hw8-2/hw8_2.ml" 73 1471 1491
+type(
+  queue -> element * queue
+)
+ident(
+  int_ref deq "hw8-2/hw8_2.ml" 67 1324 1333 "hw8-2/hw8_2.ml" 67 1324 1336
+)
+"hw8-2/hw8_2.ml" 73 1471 1495 "hw8-2/hw8_2.ml" 73 1471 1496
+type(
+  part
+)
+ident(
+  int_ref b "hw8-2/hw8_2.ml" 70 1392 1401 "hw8-2/hw8_2.ml" 70 1392 1402
+)
+"hw8-2/hw8_2.ml" 73 1471 1497 "hw8-2/hw8_2.ml" 73 1471 1505
+type(
+  part -> part
+)
+ident(
+  ext_ref List.rev
+)
+"hw8-2/hw8_2.ml" 73 1471 1506 "hw8-2/hw8_2.ml" 73 1471 1507
+type(
+  part
+)
+ident(
+  int_ref a "hw8-2/hw8_2.ml" 70 1392 1399 "hw8-2/hw8_2.ml" 70 1392 1400
+)
+"hw8-2/hw8_2.ml" 73 1471 1497 "hw8-2/hw8_2.ml" 73 1471 1507
+type(
+  part
+)
+"hw8-2/hw8_2.ml" 73 1471 1492 "hw8-2/hw8_2.ml" 73 1471 1509
+type(
+  queue
+)
+"hw8-2/hw8_2.ml" 73 1471 1488 "hw8-2/hw8_2.ml" 73 1471 1509
+type(
+  element * queue
+)
+"hw8-2/hw8_2.ml" 74 1510 1517 "hw8-2/hw8_2.ml" 74 1510 1518
+type(
+  part
+)
+"hw8-2/hw8_2.ml" 74 1510 1519 "hw8-2/hw8_2.ml" 74 1510 1520
+type(
+  part
+)
+"hw8-2/hw8_2.ml" 74 1510 1516 "hw8-2/hw8_2.ml" 74 1510 1521
+type(
+  part * part
+)
+"hw8-2/hw8_2.ml" 74 1510 1525 "hw8-2/hw8_2.ml" 74 1510 1532
+type(
+  part -> element
+)
+ident(
+  ext_ref List.hd
+)
+"hw8-2/hw8_2.ml" 74 1510 1533 "hw8-2/hw8_2.ml" 74 1510 1534
+type(
+  part
+)
+ident(
+  int_ref b "hw8-2/hw8_2.ml" 70 1392 1401 "hw8-2/hw8_2.ml" 70 1392 1402
+)
+"hw8-2/hw8_2.ml" 74 1510 1525 "hw8-2/hw8_2.ml" 74 1510 1534
+type(
+  element
+)
+"hw8-2/hw8_2.ml" 74 1510 1539 "hw8-2/hw8_2.ml" 74 1510 1540
+type(
+  part
+)
+ident(
+  int_ref a "hw8-2/hw8_2.ml" 70 1392 1399 "hw8-2/hw8_2.ml" 70 1392 1400
+)
+"hw8-2/hw8_2.ml" 74 1510 1542 "hw8-2/hw8_2.ml" 74 1510 1549
+type(
+  part -> part
+)
+ident(
+  ext_ref List.tl
+)
+"hw8-2/hw8_2.ml" 74 1510 1550 "hw8-2/hw8_2.ml" 74 1510 1551
+type(
+  part
+)
+ident(
+  int_ref b "hw8-2/hw8_2.ml" 70 1392 1401 "hw8-2/hw8_2.ml" 70 1392 1402
+)
+"hw8-2/hw8_2.ml" 74 1510 1542 "hw8-2/hw8_2.ml" 74 1510 1551
+type(
+  part
+)
+"hw8-2/hw8_2.ml" 74 1510 1537 "hw8-2/hw8_2.ml" 74 1510 1552
+type(
+  queue
+)
+"hw8-2/hw8_2.ml" 74 1510 1525 "hw8-2/hw8_2.ml" 74 1510 1552
+type(
+  element * queue
+)
+"hw8-2/hw8_2.ml" 71 1408 1412 "hw8-2/hw8_2.ml" 74 1510 1553
+type(
+  element * queue
+)
+"hw8-2/hw8_2.ml" 69 1376 1379 "hw8-2/hw8_2.ml" 74 1510 1553
+type(
+  element * queue
+)
+"hw8-2/hw8_2.ml" 68 1365 1367 "hw8-2/hw8_2.ml" 74 1510 1553
+type(
+  queue -> element * queue
+)
+type(
+  queue -> element * queue
+)

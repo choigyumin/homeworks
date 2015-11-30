@@ -1,0 +1,453 @@
+"hw7-2/hw7_2.ml" 21 370 380 "hw7-2/hw7_2.ml" 21 370 385
+type(
+  liquid -> liquid
+)
+ident(
+  def react "hw7-2/hw7_2.ml" 21 370 372 "hw7-2/hw7_2.ml" 46 841 844
+)
+"hw7-2/hw7_2.ml" 22 406 414 "hw7-2/hw7_2.ml" 22 406 415
+type(
+  liquid
+)
+ident(
+  def l "hw7-2/hw7_2.ml" 23 419 422 "hw7-2/hw7_2.ml" 35 648 659
+)
+"hw7-2/hw7_2.ml" 23 419 428 "hw7-2/hw7_2.ml" 23 419 429
+type(
+  liquid
+)
+ident(
+  int_ref l "hw7-2/hw7_2.ml" 22 406 414 "hw7-2/hw7_2.ml" 22 406 415
+)
+"hw7-2/hw7_2.ml" 24 435 442 "hw7-2/hw7_2.ml" 24 435 443
+type(
+  liquid
+)
+ident(
+  def a "hw7-2/hw7_2.ml" 25 450 454 "hw7-2/hw7_2.ml" 34 634 647
+)
+"hw7-2/hw7_2.ml" 24 435 444 "hw7-2/hw7_2.ml" 24 435 445
+type(
+  liquid
+)
+ident(
+  def b "hw7-2/hw7_2.ml" 25 450 454 "hw7-2/hw7_2.ml" 34 634 647
+)
+"hw7-2/hw7_2.ml" 24 435 440 "hw7-2/hw7_2.ml" 24 435 446
+type(
+  liquid
+)
+"hw7-2/hw7_2.ml" 25 450 461 "hw7-2/hw7_2.ml" 25 450 462
+type(
+  liquid
+)
+ident(
+  int_ref a "hw7-2/hw7_2.ml" 24 435 442 "hw7-2/hw7_2.ml" 24 435 443
+)
+"hw7-2/hw7_2.ml" 26 468 474 "hw7-2/hw7_2.ml" 26 468 475
+type(
+  liquid
+)
+"hw7-2/hw7_2.ml" 26 468 479 "hw7-2/hw7_2.ml" 26 468 484
+type(
+  liquid -> liquid
+)
+ident(
+  int_ref react "hw7-2/hw7_2.ml" 21 370 380 "hw7-2/hw7_2.ml" 21 370 385
+)
+"hw7-2/hw7_2.ml" 26 468 485 "hw7-2/hw7_2.ml" 26 468 486
+type(
+  liquid
+)
+ident(
+  int_ref b "hw7-2/hw7_2.ml" 24 435 444 "hw7-2/hw7_2.ml" 24 435 445
+)
+"hw7-2/hw7_2.ml" 26 468 479 "hw7-2/hw7_2.ml" 26 468 486
+type(
+  liquid
+)
+"hw7-2/hw7_2.ml" 27 487 495 "hw7-2/hw7_2.ml" 27 487 496
+type(
+  liquid
+)
+ident(
+  def c "hw7-2/hw7_2.ml" 28 504 509 "hw7-2/hw7_2.ml" 33 619 633
+)
+"hw7-2/hw7_2.ml" 27 487 497 "hw7-2/hw7_2.ml" 27 487 498
+type(
+  liquid
+)
+ident(
+  def d "hw7-2/hw7_2.ml" 28 504 509 "hw7-2/hw7_2.ml" 33 619 633
+)
+"hw7-2/hw7_2.ml" 27 487 493 "hw7-2/hw7_2.ml" 27 487 499
+type(
+  liquid
+)
+"hw7-2/hw7_2.ml" 28 504 516 "hw7-2/hw7_2.ml" 28 504 517
+type(
+  liquid
+)
+ident(
+  int_ref c "hw7-2/hw7_2.ml" 27 487 495 "hw7-2/hw7_2.ml" 27 487 496
+)
+"hw7-2/hw7_2.ml" 29 523 530 "hw7-2/hw7_2.ml" 29 523 531
+type(
+  liquid
+)
+"hw7-2/hw7_2.ml" 29 523 535 "hw7-2/hw7_2.ml" 29 523 540
+type(
+  liquid -> liquid
+)
+ident(
+  int_ref react "hw7-2/hw7_2.ml" 21 370 380 "hw7-2/hw7_2.ml" 21 370 385
+)
+"hw7-2/hw7_2.ml" 29 523 541 "hw7-2/hw7_2.ml" 29 523 542
+type(
+  liquid
+)
+ident(
+  int_ref d "hw7-2/hw7_2.ml" 27 487 497 "hw7-2/hw7_2.ml" 27 487 498
+)
+"hw7-2/hw7_2.ml" 29 523 535 "hw7-2/hw7_2.ml" 29 523 542
+type(
+  liquid
+)
+"hw7-2/hw7_2.ml" 30 543 552 "hw7-2/hw7_2.ml" 30 543 553
+type(
+  liquid
+)
+ident(
+  def e "hw7-2/hw7_2.ml" 31 560 566 "hw7-2/hw7_2.ml" 32 606 618
+)
+"hw7-2/hw7_2.ml" 30 543 554 "hw7-2/hw7_2.ml" 30 543 555
+type(
+  liquid
+)
+ident(
+  def f "hw7-2/hw7_2.ml" 31 560 566 "hw7-2/hw7_2.ml" 32 606 618
+)
+"hw7-2/hw7_2.ml" 30 543 550 "hw7-2/hw7_2.ml" 30 543 556
+type(
+  liquid
+)
+"hw7-2/hw7_2.ml" 31 560 569 "hw7-2/hw7_2.ml" 31 560 570
+type(
+  liquid
+)
+ident(
+  int_ref e "hw7-2/hw7_2.ml" 30 543 552 "hw7-2/hw7_2.ml" 30 543 553
+)
+"hw7-2/hw7_2.ml" 31 560 571 "hw7-2/hw7_2.ml" 31 560 572
+type(
+  liquid -> liquid -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"hw7-2/hw7_2.ml" 31 560 573 "hw7-2/hw7_2.ml" 31 560 574
+type(
+  liquid
+)
+"hw7-2/hw7_2.ml" 31 560 569 "hw7-2/hw7_2.ml" 31 560 574
+type(
+  bool
+)
+"hw7-2/hw7_2.ml" 31 560 580 "hw7-2/hw7_2.ml" 31 560 585
+type(
+  liquid -> liquid
+)
+ident(
+  int_ref react "hw7-2/hw7_2.ml" 21 370 380 "hw7-2/hw7_2.ml" 21 370 385
+)
+"hw7-2/hw7_2.ml" 31 560 591 "hw7-2/hw7_2.ml" 31 560 592
+type(
+  liquid
+)
+ident(
+  int_ref f "hw7-2/hw7_2.ml" 30 543 554 "hw7-2/hw7_2.ml" 30 543 555
+)
+"hw7-2/hw7_2.ml" 31 560 593 "hw7-2/hw7_2.ml" 31 560 594
+type(
+  liquid
+)
+ident(
+  int_ref b "hw7-2/hw7_2.ml" 24 435 444 "hw7-2/hw7_2.ml" 24 435 445
+)
+"hw7-2/hw7_2.ml" 31 560 589 "hw7-2/hw7_2.ml" 31 560 595
+type(
+  liquid
+)
+"hw7-2/hw7_2.ml" 31 560 599 "hw7-2/hw7_2.ml" 31 560 600
+type(
+  liquid
+)
+ident(
+  int_ref d "hw7-2/hw7_2.ml" 27 487 497 "hw7-2/hw7_2.ml" 27 487 498
+)
+"hw7-2/hw7_2.ml" 31 560 601 "hw7-2/hw7_2.ml" 31 560 602
+type(
+  liquid
+)
+ident(
+  int_ref b "hw7-2/hw7_2.ml" 24 435 444 "hw7-2/hw7_2.ml" 24 435 445
+)
+"hw7-2/hw7_2.ml" 31 560 597 "hw7-2/hw7_2.ml" 31 560 603
+type(
+  liquid
+)
+"hw7-2/hw7_2.ml" 31 560 586 "hw7-2/hw7_2.ml" 31 560 605
+type(
+  liquid
+)
+"hw7-2/hw7_2.ml" 31 560 580 "hw7-2/hw7_2.ml" 31 560 605
+type(
+  liquid
+)
+"hw7-2/hw7_2.ml" 32 606 617 "hw7-2/hw7_2.ml" 32 606 618
+type(
+  liquid
+)
+ident(
+  int_ref l "hw7-2/hw7_2.ml" 22 406 414 "hw7-2/hw7_2.ml" 22 406 415
+)
+"hw7-2/hw7_2.ml" 31 560 566 "hw7-2/hw7_2.ml" 32 606 618
+type(
+  liquid
+)
+"hw7-2/hw7_2.ml" 33 619 626 "hw7-2/hw7_2.ml" 33 619 627
+type(
+  liquid
+)
+"hw7-2/hw7_2.ml" 33 619 631 "hw7-2/hw7_2.ml" 33 619 632
+type(
+  liquid
+)
+ident(
+  int_ref l "hw7-2/hw7_2.ml" 22 406 414 "hw7-2/hw7_2.ml" 22 406 415
+)
+"hw7-2/hw7_2.ml" 28 504 509 "hw7-2/hw7_2.ml" 33 619 633
+type(
+  liquid
+)
+"hw7-2/hw7_2.ml" 34 634 640 "hw7-2/hw7_2.ml" 34 634 641
+type(
+  liquid
+)
+"hw7-2/hw7_2.ml" 34 634 645 "hw7-2/hw7_2.ml" 34 634 646
+type(
+  liquid
+)
+ident(
+  int_ref l "hw7-2/hw7_2.ml" 22 406 414 "hw7-2/hw7_2.ml" 22 406 415
+)
+"hw7-2/hw7_2.ml" 25 450 454 "hw7-2/hw7_2.ml" 34 634 647
+type(
+  liquid
+)
+"hw7-2/hw7_2.ml" 35 648 653 "hw7-2/hw7_2.ml" 35 648 654
+type(
+  liquid
+)
+"hw7-2/hw7_2.ml" 35 648 658 "hw7-2/hw7_2.ml" 35 648 659
+type(
+  liquid
+)
+ident(
+  int_ref l "hw7-2/hw7_2.ml" 22 406 414 "hw7-2/hw7_2.ml" 22 406 415
+)
+"hw7-2/hw7_2.ml" 23 419 422 "hw7-2/hw7_2.ml" 35 648 659
+type(
+  liquid
+)
+"hw7-2/hw7_2.ml" 22 406 410 "hw7-2/hw7_2.ml" 35 648 659
+type(
+  liquid -> liquid
+)
+type(
+  liquid -> liquid
+)
+"hw7-2/hw7_2.ml" 38 666 676 "hw7-2/hw7_2.ml" 38 666 682
+type(
+  liquid -> string
+)
+ident(
+  def pprint "hw7-2/hw7_2.ml" 38 666 668 "hw7-2/hw7_2.ml" 46 841 844
+)
+"hw7-2/hw7_2.ml" 39 703 711 "hw7-2/hw7_2.ml" 39 703 712
+type(
+  liquid
+)
+ident(
+  def l "hw7-2/hw7_2.ml" 40 716 719 "hw7-2/hw7_2.ml" 45 788 840
+)
+"hw7-2/hw7_2.ml" 40 716 725 "hw7-2/hw7_2.ml" 40 716 726
+type(
+  liquid
+)
+ident(
+  int_ref l "hw7-2/hw7_2.ml" 39 703 711 "hw7-2/hw7_2.ml" 39 703 712
+)
+"hw7-2/hw7_2.ml" 41 732 737 "hw7-2/hw7_2.ml" 41 732 738
+type(
+  liquid
+)
+"hw7-2/hw7_2.ml" 41 732 742 "hw7-2/hw7_2.ml" 41 732 745
+type(
+  string
+)
+"hw7-2/hw7_2.ml" 42 746 751 "hw7-2/hw7_2.ml" 42 746 752
+type(
+  liquid
+)
+"hw7-2/hw7_2.ml" 42 746 756 "hw7-2/hw7_2.ml" 42 746 759
+type(
+  string
+)
+"hw7-2/hw7_2.ml" 43 760 765 "hw7-2/hw7_2.ml" 43 760 766
+type(
+  liquid
+)
+"hw7-2/hw7_2.ml" 43 760 770 "hw7-2/hw7_2.ml" 43 760 773
+type(
+  string
+)
+"hw7-2/hw7_2.ml" 44 774 781 "hw7-2/hw7_2.ml" 44 774 782
+type(
+  string
+)
+ident(
+  def a "hw7-2/hw7_2.ml" 44 774 786 "hw7-2/hw7_2.ml" 44 774 787
+)
+"hw7-2/hw7_2.ml" 44 774 779 "hw7-2/hw7_2.ml" 44 774 782
+type(
+  liquid
+)
+"hw7-2/hw7_2.ml" 44 774 786 "hw7-2/hw7_2.ml" 44 774 787
+type(
+  string
+)
+ident(
+  int_ref a "hw7-2/hw7_2.ml" 44 774 781 "hw7-2/hw7_2.ml" 44 774 782
+)
+"hw7-2/hw7_2.ml" 45 788 795 "hw7-2/hw7_2.ml" 45 788 796
+type(
+  liquid
+)
+ident(
+  def a "hw7-2/hw7_2.ml" 45 788 803 "hw7-2/hw7_2.ml" 45 788 840
+)
+"hw7-2/hw7_2.ml" 45 788 797 "hw7-2/hw7_2.ml" 45 788 798
+type(
+  liquid
+)
+ident(
+  def b "hw7-2/hw7_2.ml" 45 788 803 "hw7-2/hw7_2.ml" 45 788 840
+)
+"hw7-2/hw7_2.ml" 45 788 793 "hw7-2/hw7_2.ml" 45 788 799
+type(
+  liquid
+)
+"hw7-2/hw7_2.ml" 45 788 803 "hw7-2/hw7_2.ml" 45 788 806
+type(
+  string
+)
+"hw7-2/hw7_2.ml" 45 788 807 "hw7-2/hw7_2.ml" 45 788 808
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"hw7-2/hw7_2.ml" 45 788 809 "hw7-2/hw7_2.ml" 45 788 815
+type(
+  liquid -> string
+)
+ident(
+  int_ref pprint "hw7-2/hw7_2.ml" 38 666 676 "hw7-2/hw7_2.ml" 38 666 682
+)
+"hw7-2/hw7_2.ml" 45 788 816 "hw7-2/hw7_2.ml" 45 788 817
+type(
+  liquid
+)
+ident(
+  int_ref a "hw7-2/hw7_2.ml" 45 788 795 "hw7-2/hw7_2.ml" 45 788 796
+)
+"hw7-2/hw7_2.ml" 45 788 809 "hw7-2/hw7_2.ml" 45 788 817
+type(
+  string
+)
+"hw7-2/hw7_2.ml" 45 788 818 "hw7-2/hw7_2.ml" 45 788 819
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"hw7-2/hw7_2.ml" 45 788 820 "hw7-2/hw7_2.ml" 45 788 823
+type(
+  string
+)
+"hw7-2/hw7_2.ml" 45 788 824 "hw7-2/hw7_2.ml" 45 788 825
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"hw7-2/hw7_2.ml" 45 788 826 "hw7-2/hw7_2.ml" 45 788 832
+type(
+  liquid -> string
+)
+ident(
+  int_ref pprint "hw7-2/hw7_2.ml" 38 666 676 "hw7-2/hw7_2.ml" 38 666 682
+)
+"hw7-2/hw7_2.ml" 45 788 833 "hw7-2/hw7_2.ml" 45 788 834
+type(
+  liquid
+)
+ident(
+  int_ref b "hw7-2/hw7_2.ml" 45 788 797 "hw7-2/hw7_2.ml" 45 788 798
+)
+"hw7-2/hw7_2.ml" 45 788 826 "hw7-2/hw7_2.ml" 45 788 834
+type(
+  string
+)
+"hw7-2/hw7_2.ml" 45 788 835 "hw7-2/hw7_2.ml" 45 788 836
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"hw7-2/hw7_2.ml" 45 788 837 "hw7-2/hw7_2.ml" 45 788 840
+type(
+  string
+)
+"hw7-2/hw7_2.ml" 45 788 826 "hw7-2/hw7_2.ml" 45 788 840
+type(
+  string
+)
+"hw7-2/hw7_2.ml" 45 788 820 "hw7-2/hw7_2.ml" 45 788 840
+type(
+  string
+)
+"hw7-2/hw7_2.ml" 45 788 809 "hw7-2/hw7_2.ml" 45 788 840
+type(
+  string
+)
+"hw7-2/hw7_2.ml" 45 788 803 "hw7-2/hw7_2.ml" 45 788 840
+type(
+  string
+)
+"hw7-2/hw7_2.ml" 40 716 719 "hw7-2/hw7_2.ml" 45 788 840
+type(
+  string
+)
+"hw7-2/hw7_2.ml" 39 703 707 "hw7-2/hw7_2.ml" 45 788 840
+type(
+  liquid -> string
+)
+type(
+  liquid -> string
+)

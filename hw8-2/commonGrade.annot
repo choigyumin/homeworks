@@ -1,0 +1,55 @@
+"hw8-2/commonGrade.ml" 1 0 4 "hw8-2/commonGrade.ml" 1 0 10
+type(
+  (unit -> bool) -> unit
+)
+ident(
+  def output "hw8-2/commonGrade.ml" 2 37 80 "hw8-2/commonGrade.ml" 1 0 -1
+)
+"hw8-2/commonGrade.ml" 1 0 12 "hw8-2/commonGrade.ml" 1 0 13
+type(
+  unit -> bool
+)
+ident(
+  def f "hw8-2/commonGrade.ml" 1 0 28 "hw8-2/commonGrade.ml" 2 37 80
+)
+"hw8-2/commonGrade.ml" 2 37 39 "hw8-2/commonGrade.ml" 2 37 52
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.print_endline
+)
+"hw8-2/commonGrade.ml" 2 37 57 "hw8-2/commonGrade.ml" 2 37 58
+type(
+  unit -> bool
+)
+ident(
+  int_ref f "hw8-2/commonGrade.ml" 1 0 12 "hw8-2/commonGrade.ml" 1 0 13
+)
+"hw8-2/commonGrade.ml" 2 37 59 "hw8-2/commonGrade.ml" 2 37 61
+type(
+  unit
+)
+"hw8-2/commonGrade.ml" 2 37 57 "hw8-2/commonGrade.ml" 2 37 61
+type(
+  bool
+)
+"hw8-2/commonGrade.ml" 2 37 67 "hw8-2/commonGrade.ml" 2 37 70
+type(
+  string
+)
+"hw8-2/commonGrade.ml" 2 37 76 "hw8-2/commonGrade.ml" 2 37 79
+type(
+  string
+)
+"hw8-2/commonGrade.ml" 2 37 53 "hw8-2/commonGrade.ml" 2 37 80
+type(
+  string
+)
+"hw8-2/commonGrade.ml" 2 37 39 "hw8-2/commonGrade.ml" 2 37 80
+type(
+  unit
+)
+type(
+  unit
+)
